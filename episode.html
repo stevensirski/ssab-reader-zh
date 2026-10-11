@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f5f0" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#151514" media="(prefers-color-scheme: dark)">
+  <title>SSAB Reader</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#reader">Skip to text</a>
+
+  <header class="bar" role="toolbar" aria-label="Reading options">
+    <div class="bar-inner">
+      <a class="back" href="./" aria-label="All episodes">
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><path d="m15 5-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="back-label">Episodes</span>
+      </a>
+      <button type="button" class="toggle" id="pinyin-toggle" aria-pressed="false">
+        <span class="toggle-dot" aria-hidden="true"></span>Pinyin
+      </button>
+      <button type="button" class="toggle" id="translations-toggle" aria-pressed="false"
+              aria-label="Show all translations">
+        <span class="toggle-dot" aria-hidden="true"></span>English
+      </button>
+      <div class="size" role="group" aria-label="Text size">
+        <button type="button" class="icon-btn" id="size-down" aria-label="Smaller text">
+          <span aria-hidden="true" class="a-small">A</span>
+        </button>
+        <button type="button" class="icon-btn" id="size-up" aria-label="Larger text">
+          <span aria-hidden="true" class="a-large">A</span>
+        </button>
+      </div>
+    </div>
+    <p class="sr-only" id="announce" aria-live="polite"></p>
+  </header>
+
+  <main id="main">
+    <article class="episode" id="episode" aria-busy="true">
+      <p class="status" id="load-status">Loading episode…</p>
+    </article>
+  </main>
+
+  <aside class="card" id="card" aria-label="Word details" hidden>
+    <div class="card-inner">
+      <div class="card-word">
+        <span class="card-zh" id="card-zh" lang="zh-Hans"></span>
+        <span class="card-py" id="card-py" lang="zh-Latn-pinyin"></span>
+        <button type="button" class="icon-btn card-close" id="card-close" aria-label="Close">
+          <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><path d="m6 6 12 12M18 6 6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        </button>
+      </div>
+      <p class="card-gl" id="card-gl"></p>
+      <p class="card-sent" id="card-sent" lang="en"></p>
+      <button type="button" class="card-play" id="card-play" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="16" height="16"><path d="M7 4.5v15l12-7.5-12-7.5Z" fill="currentColor"/></svg>
+        Play sentence
+      </button>
+    </div>
+  </aside>
+
+  <section class="player" id="player" aria-label="Audio player" hidden>
+    <div class="player-inner">
+      <div class="player-unavailable" id="audio-unavailable" hidden>
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><path d="M11 5 6 9H3v6h3l5 4V5Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="m16 9 5 6m0-6-5 6" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <span><strong>Audio not available</strong><span class="muted" id="audio-unavailable-detail"> for this episode.</span></span>
+      </div>
+      <div class="player-controls" id="audio-controls" hidden>
+        <button type="button" class="play" id="play" aria-label="Play">
+          <svg class="i-play" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l10.5-6.5L8 5.5Z" fill="currentColor"/></svg>
+          <svg class="i-pause" viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5h3.5v14H7zM13.5 5H17v14h-3.5z" fill="currentColor"/></svg>
+        </button>
+        <div class="seek">
+          <input type="range" id="seek" min="0" max="0" step="0.1" value="0" aria-label="Seek">
+          <div class="times"><span id="time-cur">0:00</span><span id="time-dur">0:00</span></div>
+        </div>
+        <label class="speed">
+          <span class="sr-only">Playback speed</span>
+          <select id="speed">
+            <option value="0.5">0.5×</option>
+            <option value="0.75">0.75×</option>
+            <option value="1" selected>1×</option>
+            <option value="1.25">1.25×</option>
+            <option value="1.5">1.5×</option>
+          </select>
+        </label>
+      </div>
+      <p class="player-note" id="audio-note" hidden></p>
+    </div>
+    <audio id="audio" preload="metadata"></audio>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>

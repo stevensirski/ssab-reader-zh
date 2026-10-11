@@ -1,0 +1,15 @@
+# Only the website itself is published. Everything else stays on this Mac.
+*
+!.gitignore
+!.nojekyll
+!index.html
+!episode.html
+!app.js
+!library.js
+!styles.css
+!content/
+!content/index.json
+!content/episodes/
+!content/episodes/*.json
+!audio/
+!audio/*.m4a

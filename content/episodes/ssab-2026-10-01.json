@@ -1,0 +1,1732 @@
+{
+ "id": "ssab-2026-10-01",
+ "date": "2026-10-01",
+ "title": "National Day Special: 5,000 Years of China in Brief",
+ "titleZh": "国庆特辑：五千年中国速览",
+ "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
+ "duration": 438,
+ "audio": {
+  "src": "audio/ssab-2026-10-01.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Quick overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 13.26,
+     "end": 14.33
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天是国庆节，也是黄金周第一天。",
+     "en": "Today is National Day, and also the first day of Golden Week.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "国庆节", "py": "Guóqìngjié", "gl": "National Day"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "黄金周", "py": "Huángjīnzhōu", "gl": "Golden Week"},
+      {"zh": "第一", "py": "dìyī", "gl": "first"},
+      {"zh": "天", "py": "tiān", "gl": "day"},
+      {"zh": "。"}
+     ],
+     "start": 14.7,
+     "end": 18.51
+    },
+    {
+     "id": "s003",
+     "zh": "史蒂文想回答一个大问题：大家常说“中国有五千年历史”，到底指什么？",
+     "en": "Steven wants to answer a big question: people often say \"China has five thousand years of history\" — what exactly does that mean?",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "想", "py": "xiǎng", "gl": "wants to"},
+      {"zh": "回答", "py": "huídá", "gl": "answer"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "问题", "py": "wèntí", "gl": "question"},
+      {"zh": "："},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "常", "py": "cháng", "gl": "often"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "“"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "五千", "py": "wǔqiān", "gl": "five thousand"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "exactly"},
+      {"zh": "指", "py": "zhǐ", "gl": "refer to"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "？"}
+     ],
+     "start": 18.66,
+     "end": 27.07
+    },
+    {
+     "id": "s004",
+     "zh": "开头录砸几次后，他从商朝一路讲到现代，又聊了城市、汉语和美食。",
+     "en": "After botching the opening recording a few times, he goes all the way from the Shang dynasty to modern times, and also talks about cities, the Chinese language and food.",
+     "segments": [
+      {"zh": "开头", "py": "kāitóu", "gl": "opening"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "砸", "py": "zá", "gl": "botch"},
+      {"zh": "几", "py": "jǐ", "gl": "a few"},
+      {"zh": "次", "py": "cì", "gl": "times"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "商朝", "py": "Shāngcháo", "gl": "Shang dynasty"},
+      {"zh": "一路", "py": "yílù", "gl": "all the way"},
+      {"zh": "讲", "py": "jiǎng", "gl": "talk"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "现代", "py": "xiàndài", "gl": "modern times"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "also"},
+      {"zh": "聊", "py": "liáo", "gl": "chat about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "城市", "py": "chéngshì", "gl": "cities"},
+      {"zh": "、"},
+      {"zh": "汉语", "py": "Hànyǔ", "gl": "Chinese language"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "美食", "py": "měishí", "gl": "good food"},
+      {"zh": "。"}
+     ],
+     "start": 27.5,
+     "end": 35.29
+    },
+    {
+     "id": "s005",
+     "zh": "中途女朋友插话：马可·波罗从中国“偷走”的不只是面条，还有比萨！",
+     "en": "Midway, his girlfriend chimes in: Marco Polo \"stole\" more than just noodles from China — pizza too!",
+     "segments": [
+      {"zh": "中途", "py": "zhōngtú", "gl": "midway"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "插话", "py": "chāhuà", "gl": "chime in"},
+      {"zh": "："},
+      {"zh": "马可·波罗", "py": "Mǎkě·Bōluó", "gl": "Marco Polo"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "“"},
+      {"zh": "偷走", "py": "tōuzǒu", "gl": "steal away"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "不只", "py": "bùzhǐ", "gl": "not only"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "面条", "py": "miàntiáo", "gl": "noodles"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "also"},
+      {"zh": "比萨", "py": "bǐsà", "gl": "pizza"},
+      {"zh": "！"}
+     ],
+     "start": 35.98,
+     "end": 44.29
+    },
+    {
+     "id": "s006",
+     "zh": "史蒂文说，这只是他在中国生活12年后的个人小导览，不是完整的历史课。",
+     "en": "Steven says this is just his personal little guided tour after living in China for 12 years, not a complete history lesson.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "only"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "live"},
+      {"zh": "12"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "个人", "py": "gèrén", "gl": "personal"},
+      {"zh": "小", "py": "xiǎo", "gl": "little"},
+      {"zh": "导览", "py": "dǎolǎn", "gl": "guided tour"},
+      {"zh": "，"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "完整", "py": "wánzhěng", "gl": "complete"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "历史课", "py": "lìshǐkè", "gl": "history lesson"},
+      {"zh": "。"}
+     ],
+     "start": 44.84,
+     "end": 53.59
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "黄金周开始啦",
+     "en": "Golden Week has begun!",
+     "segments": [
+      {"zh": "黄金周", "py": "Huángjīnzhōu", "gl": "Golden Week"},
+      {"zh": "开始", "py": "kāishǐ", "gl": "begin"},
+      {"zh": "啦", "py": "la", "gl": "(exclamation)"}
+     ],
+     "start": 54.02,
+     "end": 55.63
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s008",
+     "zh": "国庆节上午，史蒂文没去天安门，而是去上了早上10点的中文课。",
+     "en": "On the morning of National Day, Steven didn't go to Tiananmen; instead, he went to a 10 a.m. Chinese class.",
+     "segments": [
+      {"zh": "国庆节", "py": "Guóqìngjié", "gl": "National Day"},
+      {"zh": "上午", "py": "shàngwǔ", "gl": "morning"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "天安门", "py": "Tiān'ānmén", "gl": "Tiananmen"},
+      {"zh": "，"},
+      {"zh": "而是", "py": "érshì", "gl": "but rather"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "上", "py": "shàng", "gl": "attend"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "早上", "py": "zǎoshang", "gl": "morning"},
+      {"zh": "10"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "中文课", "py": "Zhōngwénkè", "gl": "Chinese class"},
+      {"zh": "。"}
+     ],
+     "start": 56.24,
+     "end": 63.81
+    },
+    {
+     "id": "s009",
+     "zh": "他纳闷自己怎么会约在这天上课，估计老师也一样纳闷。",
+     "en": "He wondered why he had scheduled a class on this day, and figured his teacher was wondering the same thing.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "纳闷", "py": "nàmèn", "gl": "wonder, be puzzled"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how come"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "约", "py": "yuē", "gl": "schedule"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "这天", "py": "zhè tiān", "gl": "this day"},
+      {"zh": "上课", "py": "shàngkè", "gl": "have class"},
+      {"zh": "，"},
+      {"zh": "估计", "py": "gūjì", "gl": "reckon"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "一样", "py": "yíyàng", "gl": "the same"},
+      {"zh": "纳闷", "py": "nàmèn", "gl": "be puzzled"},
+      {"zh": "。"}
+     ],
+     "start": 64.24,
+     "end": 70.15
+    },
+    {
+     "id": "s010",
+     "zh": "他放七天假，10月9日回去上班。",
+     "en": "He has seven days off and goes back to work on October 9.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "放", "py": "fàng", "gl": "have (time off)"},
+      {"zh": "七天", "py": "qī tiān", "gl": "seven days"},
+      {"zh": "假", "py": "jià", "gl": "holiday"},
+      {"zh": "，"},
+      {"zh": "10"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "9"},
+      {"zh": "日", "py": "rì", "gl": "day"},
+      {"zh": "回去", "py": "huíqu", "gl": "go back"},
+      {"zh": "上班", "py": "shàngbān", "gl": "go to work"},
+      {"zh": "。"}
+     ],
+     "start": 70.86,
+     "end": 75.29
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s011",
+     "zh": "节目灵感来自在中国当老师都听过的一句话：“众所周知，中国有五千年历史。”",
+     "en": "The episode was inspired by a line every teacher in China has heard: \"As everyone knows, China has five thousand years of history.\"",
+     "segments": [
+      {"zh": "节目", "py": "jiémù", "gl": "episode, show"},
+      {"zh": "灵感", "py": "línggǎn", "gl": "inspiration"},
+      {"zh": "来自", "py": "láizì", "gl": "come from"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "当", "py": "dāng", "gl": "work as"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "听过", "py": "tīngguo", "gl": "have heard"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "一句", "py": "yí jù", "gl": "one (sentence)"},
+      {"zh": "话", "py": "huà", "gl": "saying"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "众所周知", "py": "zhòngsuǒzhōuzhī", "gl": "as everyone knows"},
+      {"zh": "，"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "五千", "py": "wǔqiān", "gl": "five thousand"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 75.74,
+     "end": 84.35
+    },
+    {
+     "id": "s012",
+     "zh": "他让ChatGPT帮忙设计节目，却发现它推荐的地方漏了成都、重庆、哈尔滨、新疆和西藏。",
+     "en": "He had ChatGPT help plan the episode, but found that the places it recommended left out Chengdu, Chongqing, Harbin, Xinjiang and Tibet.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "让", "py": "ràng", "gl": "have, let"},
+      {"zh": "ChatGPT"},
+      {"zh": "帮忙", "py": "bāngmáng", "gl": "help"},
+      {"zh": "设计", "py": "shèjì", "gl": "design, plan"},
+      {"zh": "节目", "py": "jiémù", "gl": "episode"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "but"},
+      {"zh": "发现", "py": "fāxiàn", "gl": "discover"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "推荐", "py": "tuījiàn", "gl": "recommend"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "地方", "py": "dìfang", "gl": "places"},
+      {"zh": "漏", "py": "lòu", "gl": "leave out"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "成都", "py": "Chéngdū", "gl": "Chengdu"},
+      {"zh": "、"},
+      {"zh": "重庆", "py": "Chóngqìng", "gl": "Chongqing"},
+      {"zh": "、"},
+      {"zh": "哈尔滨", "py": "Hā'ěrbīn", "gl": "Harbin"},
+      {"zh": "、"},
+      {"zh": "新疆", "py": "Xīnjiāng", "gl": "Xinjiang"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "西藏", "py": "Xīzàng", "gl": "Tibet"},
+      {"zh": "。"}
+     ],
+     "start": 85.18,
+     "end": 96.93
+    },
+    {
+     "id": "s013",
+     "zh": "节目简介附有哥伦比亚大学的历史年表，还有一份AI生成的文档，他承认那份文档“有点枯燥”。",
+     "en": "The show notes include a historical timeline from Columbia University, plus an AI-generated document that he admits is \"a bit dry.\"",
+     "segments": [
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "简介", "py": "jiǎnjiè", "gl": "description, notes"},
+      {"zh": "附有", "py": "fùyǒu", "gl": "include (attached)"},
+      {"zh": "哥伦比亚大学", "py": "Gēlúnbǐyà Dàxué", "gl": "Columbia University"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "年表", "py": "niánbiǎo", "gl": "timeline"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "also there is"},
+      {"zh": "一份", "py": "yí fèn", "gl": "a (document)"},
+      {"zh": "AI"},
+      {"zh": "生成", "py": "shēngchéng", "gl": "generate"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "文档", "py": "wéndàng", "gl": "document"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "那份", "py": "nà fèn", "gl": "that (document)"},
+      {"zh": "文档", "py": "wéndàng", "gl": "document"},
+      {"zh": "“"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "枯燥", "py": "kūzào", "gl": "dry, dull"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 97.54,
+     "end": 108.75
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "从甲骨文到唐朝",
+     "en": "From oracle bone script to the Tang dynasty",
+     "segments": [
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "甲骨文", "py": "jiǎgǔwén", "gl": "oracle bone script"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "唐朝", "py": "Tángcháo", "gl": "Tang dynasty"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "商周以前： 各地文化分散，甲骨文和古埃及象形文字差不多同时出现。",
+     "en": "Before the Shang and Zhou: cultures were scattered across different regions, and oracle bone script appeared at about the same time as ancient Egyptian hieroglyphs.",
+     "segments": [
+      {"zh": "商周", "py": "Shāng Zhōu", "gl": "Shang and Zhou"},
+      {"zh": "以前", "py": "yǐqián", "gl": "before"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "各地", "py": "gèdì", "gl": "various regions"},
+      {"zh": "文化", "py": "wénhuà", "gl": "cultures"},
+      {"zh": "分散", "py": "fēnsàn", "gl": "scattered"},
+      {"zh": "，"},
+      {"zh": "甲骨文", "py": "jiǎgǔwén", "gl": "oracle bone script"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "古埃及", "py": "Gǔ'āijí", "gl": "ancient Egypt"},
+      {"zh": "象形文字", "py": "xiàngxíng wénzì", "gl": "hieroglyphs"},
+      {"zh": "差不多", "py": "chàbuduō", "gl": "roughly"},
+      {"zh": "同时", "py": "tóngshí", "gl": "at the same time"},
+      {"zh": "出现", "py": "chūxiàn", "gl": "appear"},
+      {"zh": "。"}
+     ],
+     "start": 112.46,
+     "end": 120.85
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "商周： 孔子约生活在公元前500年，和古希腊哲学家同时代，孙子、老子、孟子也出自这一时期。",
+     "en": "Shang and Zhou: Confucius lived around 500 BC, contemporary with the ancient Greek philosophers, and Sun Tzu, Laozi and Mencius also came from this period.",
+     "segments": [
+      {"zh": "商周", "py": "Shāng Zhōu", "gl": "Shang and Zhou"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "孔子", "py": "Kǒngzǐ", "gl": "Confucius"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "live"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "公元前", "py": "gōngyuánqián", "gl": "BC"},
+      {"zh": "500"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "，"},
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "古希腊", "py": "Gǔ Xīlà", "gl": "ancient Greece"},
+      {"zh": "哲学家", "py": "zhéxuéjiā", "gl": "philosophers"},
+      {"zh": "同时代", "py": "tóng shídài", "gl": "contemporary"},
+      {"zh": "，"},
+      {"zh": "孙子", "py": "Sūnzǐ", "gl": "Sun Tzu"},
+      {"zh": "、"},
+      {"zh": "老子", "py": "Lǎozǐ", "gl": "Laozi"},
+      {"zh": "、"},
+      {"zh": "孟子", "py": "Mèngzǐ", "gl": "Mencius"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "出自", "py": "chūzì", "gl": "come from"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "时期", "py": "shíqī", "gl": "period"},
+      {"zh": "。"}
+     ],
+     "start": 121.3,
+     "end": 133.39
+    },
+    {
+     "id": "s017",
+     "zh": "史蒂文读过中文版《孙子兵法》，觉得“特别短促”，一个字能顶六个英文词。",
+     "en": "Steven has read the Chinese edition of The Art of War and found it \"especially terse\" — one character can do the work of six English words.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "中文版", "py": "Zhōngwénbǎn", "gl": "Chinese edition"},
+      {"zh": "《"},
+      {"zh": "孙子兵法", "py": "Sūnzǐ Bīngfǎ", "gl": "The Art of War"},
+      {"zh": "》"},
+      {"zh": "，"},
+      {"zh": "觉得", "py": "juéde", "gl": "feel"},
+      {"zh": "“"},
+      {"zh": "特别", "py": "tèbié", "gl": "especially"},
+      {"zh": "短促", "py": "duǎncù", "gl": "terse"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "字", "py": "zì", "gl": "character"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "顶", "py": "dǐng", "gl": "equal"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "英文", "py": "Yīngwén", "gl": "English"},
+      {"zh": "词", "py": "cí", "gl": "words"},
+      {"zh": "。"}
+     ],
+     "start": 133.72,
+     "end": 141.73
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s018",
+     "zh": "秦汉： 秦始皇留下了西安兵马俑。",
+     "en": "Qin and Han: Qin Shi Huang left behind the Terracotta Warriors of Xi'an.",
+     "segments": [
+      {"zh": "秦汉", "py": "Qín Hàn", "gl": "Qin and Han"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "秦始皇", "py": "Qín Shǐhuáng", "gl": "Qin Shi Huang"},
+      {"zh": "留下", "py": "liúxià", "gl": "leave behind"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "西安", "py": "Xī'ān", "gl": "Xi'an"},
+      {"zh": "兵马俑", "py": "bīngmǎyǒng", "gl": "Terracotta Warriors"},
+      {"zh": "。"}
+     ],
+     "start": 142.78,
+     "end": 146.11
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s019",
+     "zh": "唐： 唐诗的黄金时代，长安是贸易中心。",
+     "en": "Tang: the golden age of Tang poetry, when Chang'an was a center of trade.",
+     "segments": [
+      {"zh": "唐", "py": "Táng", "gl": "Tang"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "唐诗", "py": "Tángshī", "gl": "Tang poetry"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "黄金时代", "py": "huángjīn shídài", "gl": "golden age"},
+      {"zh": "，"},
+      {"zh": "长安", "py": "Cháng'ān", "gl": "Chang'an"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "贸易", "py": "màoyì", "gl": "trade"},
+      {"zh": "中心", "py": "zhōngxīn", "gl": "center"},
+      {"zh": "。"}
+     ],
+     "start": 146.48,
+     "end": 151.65
+    },
+    {
+     "id": "s020",
+     "zh": "他推荐一部新电影：妃子想吃南方的新鲜荔枝，为此死了许多人，她却一颗也没尝到。",
+     "en": "He recommends a new film: an imperial consort wants to eat fresh lychees from the south, many people die for it, yet she never gets to taste a single one.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "推荐", "py": "tuījiàn", "gl": "recommend"},
+      {"zh": "一部", "py": "yí bù", "gl": "a (film)"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "电影", "py": "diànyǐng", "gl": "film"},
+      {"zh": "："},
+      {"zh": "妃子", "py": "fēizi", "gl": "imperial consort"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "南方", "py": "nánfāng", "gl": "the south"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "新鲜", "py": "xīnxiān", "gl": "fresh"},
+      {"zh": "荔枝", "py": "lìzhī", "gl": "lychees"},
+      {"zh": "，"},
+      {"zh": "为此", "py": "wèicǐ", "gl": "for this"},
+      {"zh": "死", "py": "sǐ", "gl": "die"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "许多", "py": "xǔduō", "gl": "many"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "却", "py": "què", "gl": "yet"},
+      {"zh": "一颗", "py": "yì kē", "gl": "a single one"},
+      {"zh": "也", "py": "yě", "gl": "even"},
+      {"zh": "没", "py": "méi", "gl": "not"},
+      {"zh": "尝到", "py": "chángdào", "gl": "get to taste"},
+      {"zh": "。"}
+     ],
+     "start": 151.88,
+     "end": 161.59
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s021",
+     "zh": "宋、元、明",
+     "en": "Song, Yuan, Ming",
+     "segments": [
+      {"zh": "宋", "py": "Sòng", "gl": "Song dynasty"},
+      {"zh": "、"},
+      {"zh": "元", "py": "Yuán", "gl": "Yuan dynasty"},
+      {"zh": "、"},
+      {"zh": "明", "py": "Míng", "gl": "Ming dynasty"}
+     ],
+     "start": 162.14,
+     "end": 164.57
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s022",
+     "zh": "宋朝商业和印刷业繁荣。",
+     "en": "Commerce and printing flourished in the Song dynasty.",
+     "segments": [
+      {"zh": "宋朝", "py": "Sòngcháo", "gl": "Song dynasty"},
+      {"zh": "商业", "py": "shāngyè", "gl": "commerce"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "印刷业", "py": "yìnshuāyè", "gl": "printing industry"},
+      {"zh": "繁荣", "py": "fánróng", "gl": "flourished"},
+      {"zh": "。"}
+     ],
+     "start": 165.78,
+     "end": 168.37
+    },
+    {
+     "id": "s023",
+     "zh": "《金刚经》868年就已雕版印刷，毕昇约1040年发明活字印刷，比德国美因茨早了四百年。",
+     "en": "The Diamond Sutra was already woodblock-printed in 868, and Bi Sheng invented movable-type printing around 1040, four hundred years earlier than Mainz in Germany.",
+     "segments": [
+      {"zh": "《"},
+      {"zh": "金刚经", "py": "Jīngāngjīng", "gl": "Diamond Sutra"},
+      {"zh": "》"},
+      {"zh": "868"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "就", "py": "jiù", "gl": "already (emphasis)"},
+      {"zh": "已", "py": "yǐ", "gl": "already"},
+      {"zh": "雕版", "py": "diāobǎn", "gl": "woodblock"},
+      {"zh": "印刷", "py": "yìnshuā", "gl": "printed"},
+      {"zh": "，"},
+      {"zh": "毕昇", "py": "Bì Shēng", "gl": "Bi Sheng"},
+      {"zh": "约", "py": "yuē", "gl": "around"},
+      {"zh": "1040"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "发明", "py": "fāmíng", "gl": "invented"},
+      {"zh": "活字", "py": "huózì", "gl": "movable type"},
+      {"zh": "印刷", "py": "yìnshuā", "gl": "printing"},
+      {"zh": "，"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "德国", "py": "Déguó", "gl": "Germany"},
+      {"zh": "美因茨", "py": "Měiyīncí", "gl": "Mainz"},
+      {"zh": "早", "py": "zǎo", "gl": "earlier"},
+      {"zh": "了", "py": "le", "gl": "(amount of difference)"},
+      {"zh": "四百", "py": "sìbǎi", "gl": "four hundred"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "。"}
+     ],
+     "start": 168.72,
+     "end": 179.67
+    },
+    {
+     "id": "s024",
+     "zh": "元朝是蒙古人统治的时代，如今内蒙古大多数人说普通话，但蒙古文仍在使用。",
+     "en": "The Yuan dynasty was an era of Mongol rule. Today most people in Inner Mongolia speak Mandarin, but the Mongolian script is still in use.",
+     "segments": [
+      {"zh": "元朝", "py": "Yuáncháo", "gl": "Yuan dynasty"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "蒙古人", "py": "Měnggǔrén", "gl": "Mongols"},
+      {"zh": "统治", "py": "tǒngzhì", "gl": "rule"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "时代", "py": "shídài", "gl": "era"},
+      {"zh": "，"},
+      {"zh": "如今", "py": "rújīn", "gl": "nowadays"},
+      {"zh": "内蒙古", "py": "Nèi Měnggǔ", "gl": "Inner Mongolia"},
+      {"zh": "大多数", "py": "dàduōshù", "gl": "the majority"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "说", "py": "shuō", "gl": "speak"},
+      {"zh": "普通话", "py": "pǔtōnghuà", "gl": "Mandarin"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "蒙古文", "py": "Měnggǔwén", "gl": "Mongolian script"},
+      {"zh": "仍", "py": "réng", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "使用", "py": "shǐyòng", "gl": "use"},
+      {"zh": "。"}
+     ],
+     "start": 180.14,
+     "end": 190.27
+    },
+    {
+     "id": "s025",
+     "zh": "明朝派郑和下西洋。",
+     "en": "The Ming dynasty sent Zheng He on voyages to the Western Seas.",
+     "segments": [
+      {"zh": "明朝", "py": "Míngcháo", "gl": "Ming dynasty"},
+      {"zh": "派", "py": "pài", "gl": "sent"},
+      {"zh": "郑和", "py": "Zhèng Hé", "gl": "Zheng He"},
+      {"zh": "下", "py": "xià", "gl": "to voyage to"},
+      {"zh": "西洋", "py": "Xīyáng", "gl": "Western Seas"},
+      {"zh": "。"}
+     ],
+     "start": 190.66,
+     "end": 193.39
+    },
+    {
+     "id": "s026",
+     "zh": "有本书叫《1421》，说中国船队比哥伦布更早到美洲，史蒂文只回了一句：“行吧。”",
+     "en": "There's a book called 1421 that says a Chinese fleet reached the Americas before Columbus; Steven's only reply was, \"Sure, okay.\"",
+     "segments": [
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "本", "py": "běn", "gl": "(measure word: books)"},
+      {"zh": "书", "py": "shū", "gl": "book"},
+      {"zh": "叫", "py": "jiào", "gl": "called"},
+      {"zh": "《"},
+      {"zh": "1421"},
+      {"zh": "》"},
+      {"zh": "，"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "Chinese"},
+      {"zh": "船队", "py": "chuánduì", "gl": "fleet"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "哥伦布", "py": "Gēlúnbù", "gl": "Columbus"},
+      {"zh": "更", "py": "gèng", "gl": "even more"},
+      {"zh": "早", "py": "zǎo", "gl": "earlier"},
+      {"zh": "到", "py": "dào", "gl": "reached"},
+      {"zh": "美洲", "py": "Měizhōu", "gl": "the Americas"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "回", "py": "huí", "gl": "replied"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一句", "py": "yíjù", "gl": "one sentence"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "行", "py": "xíng", "gl": "okay"},
+      {"zh": "吧", "py": "ba", "gl": "(softening particle)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 193.68,
+     "end": 203.08
+    },
+    {
+     "id": "s027",
+     "zh": "明朝修建了紫禁城，但许多珍宝在台北故宫，所以故宫其实“一分为二”。",
+     "en": "The Ming dynasty built the Forbidden City, but many of its treasures are in the National Palace Museum in Taipei, so the Palace Museum is really \"split in two.\"",
+     "segments": [
+      {"zh": "明朝", "py": "Míngcháo", "gl": "Ming dynasty"},
+      {"zh": "修建", "py": "xiūjiàn", "gl": "built"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "紫禁城", "py": "Zǐjìnchéng", "gl": "Forbidden City"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "许多", "py": "xǔduō", "gl": "many"},
+      {"zh": "珍宝", "py": "zhēnbǎo", "gl": "treasures"},
+      {"zh": "在", "py": "zài", "gl": "are in"},
+      {"zh": "台北", "py": "Táiběi", "gl": "Taipei"},
+      {"zh": "故宫", "py": "Gùgōng", "gl": "Palace Museum"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "故宫", "py": "Gùgōng", "gl": "Palace Museum"},
+      {"zh": "其实", "py": "qíshí", "gl": "actually"},
+      {"zh": "“"},
+      {"zh": "一分为二", "py": "yìfēnwéi'èr", "gl": "split in two"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 203.08,
+     "end": 212.63
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s028",
+     "zh": "旅行小贴士： 故宫门票只能在网上预约未来七天内的时段；天安门广场也要预约。",
+     "en": "Travel tip: Palace Museum tickets can only be booked online for time slots within the next seven days; Tiananmen Square also requires a reservation.",
+     "segments": [
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "小贴士", "py": "xiǎotiēshì", "gl": "tip"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "故宫", "py": "Gùgōng", "gl": "Palace Museum"},
+      {"zh": "门票", "py": "ménpiào", "gl": "tickets"},
+      {"zh": "只能", "py": "zhǐnéng", "gl": "can only"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "网上", "py": "wǎngshàng", "gl": "online"},
+      {"zh": "预约", "py": "yùyuē", "gl": "book"},
+      {"zh": "未来", "py": "wèilái", "gl": "coming"},
+      {"zh": "七", "py": "qī", "gl": "seven"},
+      {"zh": "天", "py": "tiān", "gl": "days"},
+      {"zh": "内", "py": "nèi", "gl": "within"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "时段", "py": "shíduàn", "gl": "time slots"},
+      {"zh": "；"},
+      {"zh": "天安门", "py": "Tiān'ānmén", "gl": "Tiananmen"},
+      {"zh": "广场", "py": "guǎngchǎng", "gl": "square"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "要", "py": "yào", "gl": "needs"},
+      {"zh": "预约", "py": "yùyuē", "gl": "reservation"},
+      {"zh": "。"}
+     ],
+     "start": 213.56,
+     "end": 223.09
+    },
+    {
+     "id": "s029",
+     "zh": "黄金周如果迟到，可能就进不去了。",
+     "en": "If you're late during Golden Week, you might not get in.",
+     "segments": [
+      {"zh": "黄金周", "py": "huángjīnzhōu", "gl": "Golden Week"},
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "迟到", "py": "chídào", "gl": "late"},
+      {"zh": "，"},
+      {"zh": "可能", "py": "kěnéng", "gl": "might"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "进不去", "py": "jìnbuqù", "gl": "can't get in"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "。"}
+     ],
+     "start": 223.98,
+     "end": 228.25
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "从清朝覆灭到“世界工厂”",
+     "en": "From the fall of the Qing dynasty to the \"world's factory\"",
+     "segments": [
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "清朝", "py": "Qīngcháo", "gl": "Qing dynasty"},
+      {"zh": "覆灭", "py": "fùmiè", "gl": "downfall"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "“"},
+      {"zh": "世界", "py": "shìjiè", "gl": "world"},
+      {"zh": "工厂", "py": "gōngchǎng", "gl": "factory"},
+      {"zh": "”"}
+     ],
+     "start": 228.68,
+     "end": 231.33
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s031",
+     "zh": "清： 鸦片战争开启了“百年屈辱”，香港割让给英国，1997年回归。",
+     "en": "Qing: The Opium War began the \"century of humiliation\"; Hong Kong was ceded to Britain and returned in 1997.",
+     "segments": [
+      {"zh": "清", "py": "Qīng", "gl": "Qing (dynasty)"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "鸦片战争", "py": "Yāpiàn Zhànzhēng", "gl": "Opium War"},
+      {"zh": "开启", "py": "kāiqǐ", "gl": "began"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "“"},
+      {"zh": "百年", "py": "bǎinián", "gl": "hundred years"},
+      {"zh": "屈辱", "py": "qūrǔ", "gl": "humiliation"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "香港", "py": "Xiānggǎng", "gl": "Hong Kong"},
+      {"zh": "割让", "py": "gēràng", "gl": "was ceded"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "英国", "py": "Yīngguó", "gl": "Britain"},
+      {"zh": "，"},
+      {"zh": "1997"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "回归", "py": "huíguī", "gl": "returned"},
+      {"zh": "。"}
+     ],
+     "start": 232.96,
+     "end": 240.81
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s032",
+     "zh": "1912年后： 史蒂文把清朝灭亡比作罗马衰落。",
+     "en": "After 1912: Steven compares the fall of the Qing dynasty to the decline of Rome.",
+     "segments": [
+      {"zh": "1912"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "清朝", "py": "Qīngcháo", "gl": "Qing dynasty"},
+      {"zh": "灭亡", "py": "mièwáng", "gl": "fall"},
+      {"zh": "比作", "py": "bǐzuò", "gl": "compares to"},
+      {"zh": "罗马", "py": "Luómǎ", "gl": "Rome"},
+      {"zh": "衰落", "py": "shuāiluò", "gl": "decline"},
+      {"zh": "。"}
+     ],
+     "start": 241.24,
+     "end": 246.51
+    },
+    {
+     "id": "s033",
+     "zh": "约30年内战之后，1949年10月1日新中国成立。",
+     "en": "After about 30 years of civil war, the People's Republic of China was founded on October 1, 1949.",
+     "segments": [
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "30"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "内战", "py": "nèizhàn", "gl": "civil war"},
+      {"zh": "之后", "py": "zhīhòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "1949"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "10"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "1"},
+      {"zh": "日", "py": "rì", "gl": "day"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "成立", "py": "chénglì", "gl": "was founded"},
+      {"zh": "。"}
+     ],
+     "start": 247.26,
+     "end": 252.25
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s034",
+     "zh": "日本侵华： 南京和东北的记忆至今“隐隐作痛”。",
+     "en": "The Japanese invasion of China: memories of Nanjing and the Northeast still \"ache faintly\" to this day.",
+     "segments": [
+      {"zh": "日本", "py": "Rìběn", "gl": "Japan"},
+      {"zh": "侵华", "py": "qīnhuá", "gl": "invading China"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "南京", "py": "Nánjīng", "gl": "Nanjing"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "东北", "py": "Dōngběi", "gl": "the Northeast"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "记忆", "py": "jìyì", "gl": "memories"},
+      {"zh": "至今", "py": "zhìjīn", "gl": "to this day"},
+      {"zh": "“"},
+      {"zh": "隐隐作痛", "py": "yǐnyǐnzuòtòng", "gl": "ache faintly"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 252.68,
+     "end": 257.55
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s035",
+     "zh": "毛泽东时代： 土地、教育和家庭生活都被重塑。",
+     "en": "The Mao Zedong era: land, education and family life were all reshaped.",
+     "segments": [
+      {"zh": "毛泽东", "py": "Máo Zédōng", "gl": "Mao Zedong"},
+      {"zh": "时代", "py": "shídài", "gl": "era"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "土地", "py": "tǔdì", "gl": "land"},
+      {"zh": "、"},
+      {"zh": "教育", "py": "jiàoyù", "gl": "education"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "家庭", "py": "jiātíng", "gl": "family"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "life"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "重塑", "py": "chóngsù", "gl": "reshaped"},
+      {"zh": "。"}
+     ],
+     "start": 258.72,
+     "end": 263.23
+    },
+    {
+     "id": "s036",
+     "zh": "70年代，北京取代台湾获得联合国席位。",
+     "en": "In the 1970s, Beijing replaced Taiwan and gained the UN seat.",
+     "segments": [
+      {"zh": "70"},
+      {"zh": "年代", "py": "niándài", "gl": "decade (the '70s)"},
+      {"zh": "，"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "取代", "py": "qǔdài", "gl": "replaced"},
+      {"zh": "台湾", "py": "Táiwān", "gl": "Taiwan"},
+      {"zh": "获得", "py": "huòdé", "gl": "gained"},
+      {"zh": "联合国", "py": "Liánhéguó", "gl": "United Nations"},
+      {"zh": "席位", "py": "xíwèi", "gl": "seat"},
+      {"zh": "。"}
+     ],
+     "start": 264.1,
+     "end": 268.31
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s037",
+     "zh": "邓小平： 80年代起，中国从农业转向制造业，至今仍是世界工厂，“只是标签换了”。",
+     "en": "Deng Xiaoping: from the 1980s on, China shifted from agriculture to manufacturing and is still the world's factory today — \"only the label has changed.\"",
+     "segments": [
+      {"zh": "邓小平", "py": "Dèng Xiǎopíng", "gl": "Deng Xiaoping"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "80"},
+      {"zh": "年代", "py": "niándài", "gl": "decade (the '80s)"},
+      {"zh": "起", "py": "qǐ", "gl": "starting from"},
+      {"zh": "，"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "农业", "py": "nóngyè", "gl": "agriculture"},
+      {"zh": "转向", "py": "zhuǎnxiàng", "gl": "shifted to"},
+      {"zh": "制造业", "py": "zhìzàoyè", "gl": "manufacturing"},
+      {"zh": "，"},
+      {"zh": "至今", "py": "zhìjīn", "gl": "to this day"},
+      {"zh": "仍", "py": "réng", "gl": "still"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "世界", "py": "shìjiè", "gl": "world"},
+      {"zh": "工厂", "py": "gōngchǎng", "gl": "factory"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "only"},
+      {"zh": "标签", "py": "biāoqiān", "gl": "label"},
+      {"zh": "换", "py": "huàn", "gl": "changed"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 269.14,
+     "end": 279.81
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "年表里还有一首用《两只老虎》调子唱的朝代歌：“商周秦汉，隋唐宋……”",
+     "en": "The timeline also has a dynasty song sung to the tune of \"Two Tigers\": \"Shang, Zhou, Qin, Han, Sui, Tang, Song…\"",
+     "segments": [
+      {"zh": "年表", "py": "niánbiǎo", "gl": "timeline"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "also has"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "首", "py": "shǒu", "gl": "(measure word for songs)"},
+      {"zh": "用", "py": "yòng", "gl": "using"},
+      {"zh": "《"},
+      {"zh": "两只老虎", "py": "Liǎng Zhī Lǎohǔ", "gl": "Two Tigers"},
+      {"zh": "》"},
+      {"zh": "调子", "py": "diàozi", "gl": "tune"},
+      {"zh": "唱", "py": "chàng", "gl": "sung"},
+      {"zh": "的", "py": "de", "gl": "(links modifier)"},
+      {"zh": "朝代", "py": "cháodài", "gl": "dynasty"},
+      {"zh": "歌", "py": "gē", "gl": "song"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "商", "py": "Shāng", "gl": "Shang"},
+      {"zh": "周", "py": "Zhōu", "gl": "Zhou"},
+      {"zh": "秦", "py": "Qín", "gl": "Qin"},
+      {"zh": "汉", "py": "Hàn", "gl": "Han"},
+      {"zh": "，"},
+      {"zh": "隋", "py": "Suí", "gl": "Sui"},
+      {"zh": "唐", "py": "Táng", "gl": "Tang"},
+      {"zh": "宋", "py": "Sòng", "gl": "Song"},
+      {"zh": "……"},
+      {"zh": "”"}
+     ],
+     "start": 280.14,
+     "end": 287.07
+    },
+    {
+     "id": "s039",
+     "zh": "史蒂文提醒：听了就停不下来。",
+     "en": "Steven warns: once you hear it, you can't stop.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "提醒", "py": "tíxǐng", "gl": "warns"},
+      {"zh": "："},
+      {"zh": "听", "py": "tīng", "gl": "hear"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "停不下来", "py": "tíngbuxiàlái", "gl": "can't stop"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s040",
+     "zh": "值得了解的城市",
+     "en": "Cities worth getting to know",
+     "segments": [
+      {"zh": "值得", "py": "zhíde", "gl": "worth"},
+      {"zh": "了解", "py": "liǎojiě", "gl": "get to know"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "城市", "py": "chéngshì", "gl": "cities"}
+     ],
+     "start": 293.96,
+     "end": 295.81
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s041",
+     "zh": "史蒂文的前三名：北京看政治历史，上海看“现代化的巅峰”，西安则是古都长安，北京长安街就因它得名。",
+     "en": "Steven's top three: Beijing for its political history, Shanghai for the \"peak of modernization,\" and Xi'an, the ancient capital Chang'an, which Beijing's Chang'an Avenue is named after.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "前三名", "py": "qiánsānmíng", "gl": "top three"},
+      {"zh": "："},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "看", "py": "kàn", "gl": "see; for"},
+      {"zh": "政治", "py": "zhèngzhì", "gl": "political"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "，"},
+      {"zh": "上海", "py": "Shànghǎi", "gl": "Shanghai"},
+      {"zh": "看", "py": "kàn", "gl": "see; for"},
+      {"zh": "“"},
+      {"zh": "现代化", "py": "xiàndàihuà", "gl": "modernization"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "巅峰", "py": "diānfēng", "gl": "peak"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "西安", "py": "Xī'ān", "gl": "Xi'an"},
+      {"zh": "则", "py": "zé", "gl": "while; as for"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "古都", "py": "gǔdū", "gl": "ancient capital"},
+      {"zh": "长安", "py": "Cháng'ān", "gl": "Chang'an"},
+      {"zh": "，"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "长安街", "py": "Cháng'ānjiē", "gl": "Chang'an Avenue"},
+      {"zh": "就", "py": "jiù", "gl": "precisely"},
+      {"zh": "因", "py": "yīn", "gl": "because of"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "得名", "py": "démíng", "gl": "get its name"},
+      {"zh": "。"}
+     ],
+     "start": 297.22,
+     "end": 308.52
+    },
+    {
+     "id": "s042",
+     "zh": "南京、长沙、吐鲁番、喀什也值得去。",
+     "en": "Nanjing, Changsha, Turpan and Kashgar are also worth visiting.",
+     "segments": [
+      {"zh": "南京", "py": "Nánjīng", "gl": "Nanjing"},
+      {"zh": "、"},
+      {"zh": "长沙", "py": "Chángshā", "gl": "Changsha"},
+      {"zh": "、"},
+      {"zh": "吐鲁番", "py": "Tǔlǔfān", "gl": "Turpan"},
+      {"zh": "、"},
+      {"zh": "喀什", "py": "Kāshí", "gl": "Kashgar"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "值得", "py": "zhíde", "gl": "worth"},
+      {"zh": "去", "py": "qù", "gl": "going"},
+      {"zh": "。"}
+     ],
+     "start": 308.52,
+     "end": 314.39
+    },
+    {
+     "id": "s043",
+     "zh": "西藏他还没去过，那里需要特别许可，很多人还会有高原反应。",
+     "en": "He hasn't been to Tibet yet; you need a special permit to go there, and many people also get altitude sickness.",
+     "segments": [
+      {"zh": "西藏", "py": "Xīzàng", "gl": "Tibet"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "still; yet"},
+      {"zh": "没", "py": "méi", "gl": "not (past)"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "过", "py": "guo", "gl": "(experience marker)"},
+      {"zh": "，"},
+      {"zh": "那里", "py": "nàli", "gl": "there"},
+      {"zh": "需要", "py": "xūyào", "gl": "need"},
+      {"zh": "特别", "py": "tèbié", "gl": "special"},
+      {"zh": "许可", "py": "xǔkě", "gl": "permit"},
+      {"zh": "，"},
+      {"zh": "很多", "py": "hěnduō", "gl": "many"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "会", "py": "huì", "gl": "will; tend to"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "高原反应", "py": "gāoyuánfǎnyìng", "gl": "altitude sickness"},
+      {"zh": "。"}
+     ],
+     "start": 314.84,
+     "end": 321.63
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "香港与汉语大家族",
+     "en": "Hong Kong and the big Chinese language family",
+     "segments": [
+      {"zh": "香港", "py": "Xiānggǎng", "gl": "Hong Kong"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "汉语", "py": "Hànyǔ", "gl": "Chinese language"},
+      {"zh": "大家族", "py": "dàjiāzú", "gl": "big family"}
+     ],
+     "start": 322.26,
+     "end": 324.45
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s045",
+     "zh": "“Hong Kong”和“Xianggang”为什么差别这么大？",
+     "en": "Why are \"Hong Kong\" and \"Xianggang\" so different?",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "Hong Kong"},
+      {"zh": "”"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "“"},
+      {"zh": "Xianggang"},
+      {"zh": "”"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "差别", "py": "chābié", "gl": "difference"},
+      {"zh": "这么", "py": "zhème", "gl": "so"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "？"}
+     ]
+    },
+    {
+     "id": "s046",
+     "zh": "其实是同两个字，一个粤语读，一个普通话读。",
+     "en": "They're actually the same two characters: one read in Cantonese, the other in Mandarin.",
+     "segments": [
+      {"zh": "其实", "py": "qíshí", "gl": "actually"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "同", "py": "tóng", "gl": "same"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "字", "py": "zì", "gl": "characters"},
+      {"zh": "，"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "粤语", "py": "Yuèyǔ", "gl": "Cantonese"},
+      {"zh": "读", "py": "dú", "gl": "read aloud"},
+      {"zh": "，"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "普通话", "py": "pǔtōnghuà", "gl": "Mandarin"},
+      {"zh": "读", "py": "dú", "gl": "read aloud"},
+      {"zh": "。"}
+     ],
+     "start": 329.18,
+     "end": 334.59
+    },
+    {
+     "id": "s047",
+     "zh": "史蒂文说，这期你只记住这一点就够了。",
+     "en": "Steven says that if you remember just one thing from this episode, this is enough.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "episode"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "记住", "py": "jìzhu", "gl": "remember"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "一点", "py": "yì diǎn", "gl": "one point"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "够", "py": "gòu", "gl": "enough"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 335.86,
+     "end": 339.81
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "中文是一个语言家族，主要分支是普通话和粤语，还有上海话、闽南话等。",
+     "en": "Chinese is a family of languages; its main branches are Mandarin and Cantonese, plus Shanghainese, Hokkien and others.",
+     "segments": [
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "语言", "py": "yǔyán", "gl": "language"},
+      {"zh": "家族", "py": "jiāzú", "gl": "family"},
+      {"zh": "，"},
+      {"zh": "主要", "py": "zhǔyào", "gl": "main"},
+      {"zh": "分支", "py": "fēnzhī", "gl": "branches"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "普通话", "py": "pǔtōnghuà", "gl": "Mandarin"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "粤语", "py": "Yuèyǔ", "gl": "Cantonese"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "there are also"},
+      {"zh": "上海话", "py": "Shànghǎihuà", "gl": "Shanghainese"},
+      {"zh": "、"},
+      {"zh": "闽南话", "py": "Mǐnnánhuà", "gl": "Hokkien"},
+      {"zh": "等", "py": "děng", "gl": "etc."},
+      {"zh": "。"}
+     ],
+     "start": 340.2,
+     "end": 348.73
+    },
+    {
+     "id": "s049",
+     "zh": "港台用繁体字，大陆从50年代起推行简化字和拼音。",
+     "en": "Hong Kong and Taiwan use traditional characters, while the mainland has promoted simplified characters and pinyin since the 1950s.",
+     "segments": [
+      {"zh": "港台", "py": "Gǎngtái", "gl": "Hong Kong and Taiwan"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "繁体字", "py": "fántǐzì", "gl": "traditional characters"},
+      {"zh": "，"},
+      {"zh": "大陆", "py": "dàlù", "gl": "mainland China"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "50"},
+      {"zh": "年代", "py": "niándài", "gl": "decade (the '50s)"},
+      {"zh": "起", "py": "qǐ", "gl": "starting"},
+      {"zh": "推行", "py": "tuīxíng", "gl": "promote"},
+      {"zh": "简化字", "py": "jiǎnhuàzì", "gl": "simplified characters"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "拼音", "py": "pīnyīn", "gl": "pinyin"},
+      {"zh": "。"}
+     ],
+     "start": 349.88,
+     "end": 355.29
+    },
+    {
+     "id": "s050",
+     "zh": "史蒂文卡在HSK五级，上课能听懂八九成，但“语法很烂”。",
+     "en": "Steven is stuck at HSK level 5: he can understand 80–90% in class, but his \"grammar is terrible.\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "卡", "py": "qiǎ", "gl": "stuck"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "HSK"},
+      {"zh": "五级", "py": "wǔjí", "gl": "level five"},
+      {"zh": "，"},
+      {"zh": "上课", "py": "shàngkè", "gl": "in class"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "听懂", "py": "tīngdǒng", "gl": "understand (by listening)"},
+      {"zh": "八九成", "py": "bājiǔchéng", "gl": "80–90 percent"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "“"},
+      {"zh": "语法", "py": "yǔfǎ", "gl": "grammar"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "烂", "py": "làn", "gl": "terrible"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 355.66,
+     "end": 363.67
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s051",
+     "zh": "书、电影和美食",
+     "en": "Books, films and food",
+     "segments": [
+      {"zh": "书", "py": "shū", "gl": "books"},
+      {"zh": "、"},
+      {"zh": "电影", "py": "diànyǐng", "gl": "films"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "美食", "py": "měishí", "gl": "good food"}
+     ],
+     "start": 364.6,
+     "end": 366.61
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s052",
+     "zh": "他觉得近十几年中国电影“有趣多了”，从悲叹历史转向生活喜剧。",
+     "en": "He thinks Chinese films over the last ten-odd years have become \"a lot more fun\", moving from lamenting history to comedies about everyday life.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "觉得", "py": "juéde", "gl": "thinks"},
+      {"zh": "近", "py": "jìn", "gl": "recent"},
+      {"zh": "十几", "py": "shíjǐ", "gl": "ten-odd"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "电影", "py": "diànyǐng", "gl": "films"},
+      {"zh": "“"},
+      {"zh": "有趣", "py": "yǒuqù", "gl": "interesting, fun"},
+      {"zh": "多", "py": "duō", "gl": "much more"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "悲叹", "py": "bēitàn", "gl": "lamenting"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "转向", "py": "zhuǎnxiàng", "gl": "turn toward"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "everyday life"},
+      {"zh": "喜剧", "py": "xǐjù", "gl": "comedy"},
+      {"zh": "。"}
+     ],
+     "start": 367.78,
+     "end": 375.29
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s053",
+     "zh": "推荐美食：",
+     "en": "Recommended dishes:",
+     "segments": [
+      {"zh": "推荐", "py": "tuījiàn", "gl": "recommend"},
+      {"zh": "美食", "py": "měishí", "gl": "dishes"},
+      {"zh": "："}
+     ],
+     "start": 375.58,
+     "end": 377.09
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s054",
+     "zh": "锅包肉和糖醋里脊： 当年他第一次念“糖醋里脊”，学生们笑成一团。",
+     "en": "Guobaorou and sweet-and-sour pork tenderloin: the first time he said \"tangcu liji\" out loud, his students burst out laughing.",
+     "segments": [
+      {"zh": "锅包肉", "py": "guōbāoròu", "gl": "crispy sweet-sour pork"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "糖醋里脊", "py": "tángcù lǐji", "gl": "sweet-sour tenderloin"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "当年", "py": "dāngnián", "gl": "back then"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "第一次", "py": "dìyīcì", "gl": "first time"},
+      {"zh": "念", "py": "niàn", "gl": "read aloud"},
+      {"zh": "“"},
+      {"zh": "糖醋里脊", "py": "tángcù lǐji", "gl": "sweet-sour tenderloin"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "学生们", "py": "xuéshengmen", "gl": "students"},
+      {"zh": "笑成一团", "py": "xiàochéngyìtuán", "gl": "burst out laughing"},
+      {"zh": "。"}
+     ],
+     "start": 378.34,
+     "end": 385.71
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s055",
+     "zh": "包子和油条： “印刷术都发明了，却从没给油条撒糖，所以甜甜圈的功劳算不到中国头上。”",
+     "en": "Baozi and youtiao: \"They invented printing, but never once sprinkled sugar on youtiao, so China can't take credit for the doughnut.\"",
+     "segments": [
+      {"zh": "包子", "py": "bāozi", "gl": "steamed buns"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "油条", "py": "yóutiáo", "gl": "fried dough sticks"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "“"},
+      {"zh": "印刷术", "py": "yìnshuāshù", "gl": "printing"},
+      {"zh": "都", "py": "dōu", "gl": "even"},
+      {"zh": "发明", "py": "fāmíng", "gl": "invent"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "yet"},
+      {"zh": "从没", "py": "cóngméi", "gl": "never"},
+      {"zh": "给", "py": "gěi", "gl": "(to/for)"},
+      {"zh": "油条", "py": "yóutiáo", "gl": "fried dough sticks"},
+      {"zh": "撒", "py": "sǎ", "gl": "sprinkle"},
+      {"zh": "糖", "py": "táng", "gl": "sugar"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "甜甜圈", "py": "tiántiánquān", "gl": "doughnut"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "功劳", "py": "gōngláo", "gl": "credit"},
+      {"zh": "算不到", "py": "suànbudào", "gl": "can't be counted"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "头上", "py": "tóushang", "gl": "on (someone's) head"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 386.56,
+     "end": 396.98
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "热干面和肉夹馍： 后者“像汉堡，又不是汉堡”。",
+     "en": "Hot dry noodles and roujiamo: the latter is \"like a hamburger, but not a hamburger\".",
+     "segments": [
+      {"zh": "热干面", "py": "règānmiàn", "gl": "hot dry noodles"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "肉夹馍", "py": "ròujiāmó", "gl": "Chinese meat sandwich"},
+      {"zh": "："},
+      {"zh": " "},
+      {"zh": "后者", "py": "hòuzhě", "gl": "the latter"},
+      {"zh": "“"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "汉堡", "py": "hànbǎo", "gl": "hamburger"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "yet"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "汉堡", "py": "hànbǎo", "gl": "hamburger"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 396.98,
+     "end": 403.41
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "这时女朋友回来拿钥匙，说马可·波罗还偷走了比萨，证据是馅饼：馅包在里面，而不是铺在上面。",
+     "en": "Just then his girlfriend came back for her keys and said Marco Polo also stole pizza, the proof being xianbing: the filling is wrapped inside rather than spread on top.",
+     "segments": [
+      {"zh": "这时", "py": "zhèshí", "gl": "at this moment"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "回来", "py": "huílai", "gl": "come back"},
+      {"zh": "拿", "py": "ná", "gl": "get"},
+      {"zh": "钥匙", "py": "yàoshi", "gl": "keys"},
+      {"zh": "，"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "马可·波罗", "py": "Mǎkě·Bōluó", "gl": "Marco Polo"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "偷走", "py": "tōuzǒu", "gl": "steal away"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "比萨", "py": "bǐsà", "gl": "pizza"},
+      {"zh": "，"},
+      {"zh": "证据", "py": "zhèngjù", "gl": "evidence"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "馅饼", "py": "xiànbǐng", "gl": "stuffed pancake"},
+      {"zh": "："},
+      {"zh": "馅", "py": "xiàn", "gl": "filling"},
+      {"zh": "包", "py": "bāo", "gl": "wrap"},
+      {"zh": "在", "py": "zài", "gl": "at, in"},
+      {"zh": "里面", "py": "lǐmiàn", "gl": "inside"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "but"},
+      {"zh": "不是", "py": "búshì", "gl": "not"},
+      {"zh": "铺", "py": "pū", "gl": "spread"},
+      {"zh": "在", "py": "zài", "gl": "at, on"},
+      {"zh": "上面", "py": "shàngmiàn", "gl": "on top"},
+      {"zh": "。"}
+     ],
+     "start": 404.34,
+     "end": 416.25
+    },
+    {
+     "id": "s058",
+     "zh": "她还顺手纠正了史蒂文的声调。",
+     "en": "While she was at it, she also corrected Steven's tones.",
+     "segments": [
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "顺手", "py": "shùnshǒu", "gl": "while at it"},
+      {"zh": "纠正", "py": "jiūzhèng", "gl": "correct"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "声调", "py": "shēngdiào", "gl": "tones"},
+      {"zh": "。"}
+     ],
+     "start": 417.16,
+     "end": 420.39
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s059",
+     "zh": "今日总结",
+     "en": "Today's summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 420.88,
+     "end": 422.0
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s060",
+     "zh": "被生活琐事缠身时，比如催房东修马桶，人很容易忘了中国悠久的历史。",
+     "en": "When you're bogged down by life's little chores, like pestering your landlord to fix the toilet, it's easy to forget China's long history.",
+     "segments": [
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "life"},
+      {"zh": "琐事", "py": "suǒshì", "gl": "trivial matters"},
+      {"zh": "缠身", "py": "chánshēn", "gl": "tie up; bog down"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "比如", "py": "bǐrú", "gl": "for example"},
+      {"zh": "催", "py": "cuī", "gl": "urge; pester"},
+      {"zh": "房东", "py": "fángdōng", "gl": "landlord"},
+      {"zh": "修", "py": "xiū", "gl": "repair"},
+      {"zh": "马桶", "py": "mǎtǒng", "gl": "toilet"},
+      {"zh": "，"},
+      {"zh": "人", "py": "rén", "gl": "people; one"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "容易", "py": "róngyì", "gl": "easy"},
+      {"zh": "忘", "py": "wàng", "gl": "forget"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "悠久", "py": "yōujiǔ", "gl": "long-standing"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "。"}
+     ],
+     "start": 422.0,
+     "end": 431.38
+    },
+    {
+     "id": "s061",
+     "zh": "这期节目正好提个醒。",
+     "en": "This episode is the perfect reminder.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "issue; episode (measure word)"},
+      {"zh": "节目", "py": "jiémù", "gl": "program; show"},
+      {"zh": "正好", "py": "zhènghǎo", "gl": "just right; conveniently"},
+      {"zh": "提个醒", "py": "tígexǐng", "gl": "give a reminder"},
+      {"zh": "。"}
+     ],
+     "start": 431.38,
+     "end": 434.53
+    },
+    {
+     "id": "s062",
+     "zh": "国庆节快乐！",
+     "en": "Happy National Day!",
+     "segments": [
+      {"zh": "国庆节", "py": "Guóqìngjié", "gl": "National Day"},
+      {"zh": "快乐", "py": "kuàilè", "gl": "happy"},
+      {"zh": "！"}
+     ],
+     "start": 434.58,
+     "end": 437.01
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "众所周知", "py": "zhòng suǒ zhōu zhī", "en": "as everyone knows"},
+  {"zh": "黄金周", "py": "huángjīn zhōu", "en": "Golden Week (national holiday week)"},
+  {"zh": "甲骨文", "py": "jiǎgǔwén", "en": "oracle bone script"},
+  {"zh": "兵马俑", "py": "bīngmǎyǒng", "en": "Terracotta Army"},
+  {"zh": "活字印刷", "py": "huózì yìnshuā", "en": "movable-type printing"},
+  {"zh": "一分为二", "py": "yī fēn wéi èr", "en": "split into two"},
+  {"zh": "百年屈辱", "py": "bǎi nián qūrǔ", "en": "century of humiliation"},
+  {"zh": "隐隐作痛", "py": "yǐnyǐn zuòtòng", "en": "to ache faintly; to still sting"},
+  {"zh": "世界工厂", "py": "shìjiè gōngchǎng", "en": "the world's factory"},
+  {"zh": "琐事缠身", "py": "suǒshì chánshēn", "en": "bogged down by trivial matters"}
+ ]
+}

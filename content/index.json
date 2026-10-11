@@ -1,0 +1,25 @@
+{
+ "updated": "2026-10-11T11:19",
+ "episodes": [
+  {
+   "id": "ssab-2026-10-09",
+   "date": "2026-10-09",
+   "title": "Back at the Lectern: Recordings, Speeches and AI",
+   "titleZh": "重返讲台：录音、演讲与AI",
+   "description": "Back in Beijing after the National Day holiday, Steven talks about new classroom rules: students must record their group discussions and give two-minute talks instead of reading from their phones. He also covers the privacy costs of AI agents, his four-terminal editing setup, a possible October stock market drop and Facebook Muse.",
+   "duration": 523,
+   "chars": 1515,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-01",
+   "date": "2026-10-01",
+   "title": "National Day Special: 5,000 Years of China in Brief",
+   "titleZh": "国庆特辑：五千年中国速览",
+   "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
+   "duration": 438,
+   "chars": 1238,
+   "hasAudio": true
+  }
+ ]
+}
