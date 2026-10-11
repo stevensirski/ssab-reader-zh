@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T11:19",
+ "updated": "2026-10-11T15:19",
  "episodes": [
   {
    "id": "ssab-2026-10-09",
@@ -19,6 +19,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-03",
+   "date": "2026-09-03",
+   "title": "Buffalo: Wings, Strangers, and a Closed Door",
+   "titleZh": "布法罗：鸡翅、陌生人与闭门羹",
+   "description": "Steven records outside a Buffalo tavern and recounts a night in a traveling salesman's hotel room, a free manuscript museum, Buffalo wings at Gabriel's Gate, and being turned away from a charity house. He weighs pricey options for leaving town and asks whether anyone can really travel the U.S. this way, and he also meets a bartender who is learning Chinese.",
+   "duration": 471,
+   "chars": 1370,
    "hasAudio": true
   }
  ]
