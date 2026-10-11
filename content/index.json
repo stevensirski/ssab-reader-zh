@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T15:19",
+ "updated": "2026-10-11T17:09",
  "episodes": [
   {
    "id": "ssab-2026-10-09",
@@ -9,6 +9,16 @@
    "description": "Back in Beijing after the National Day holiday, Steven talks about new classroom rules: students must record their group discussions and give two-minute talks instead of reading from their phones. He also covers the privacy costs of AI agents, his four-terminal editing setup, a possible October stock market drop and Facebook Muse.",
    "duration": 523,
    "chars": 1515,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-02",
+   "date": "2026-10-02",
+   "title": "Pricey Tacos, Easy Bonds",
+   "titleZh": "塔可太贵，债券好懂",
+   "description": "Steven visits Beijing's Juicy Taco Festival, where the tacos cost too much but the old friends made the trip worth it, and he talks about Beijing rents, foreign workers forced out of China by age rules, and editing his US trip videos. He ends with a plain-language explanation of why bond prices fall when yields rise.",
+   "duration": 508,
+   "chars": 1452,
    "hasAudio": true
   },
   {

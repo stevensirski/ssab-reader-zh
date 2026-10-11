@@ -1,0 +1,1413 @@
+{
+ "id": "ssab-2026-10-02",
+ "date": "2026-10-02",
+ "title": "Pricey Tacos, Easy Bonds",
+ "titleZh": "塔可太贵，债券好懂",
+ "description": "Steven visits Beijing's Juicy Taco Festival, where the tacos cost too much but the old friends made the trip worth it, and he talks about Beijing rents, foreign workers forced out of China by age rules, and editing his US trip videos. He ends with a plain-language explanation of why bond prices fall when yields rise.",
+ "duration": 508,
+ "audio": {
+  "src": "audio/ssab-2026-10-02.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "本期速览",
+     "en": "This Episode at a Glance",
+     "segments": [
+      {"zh": "本期", "py": "běnqī", "gl": "this episode"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 12.76,
+     "end": 13.71
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "这期节目是周五晚上8点50分录的。",
+     "en": "This episode was recorded on Friday evening at 8:50.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show, episode"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis: it was)"},
+      {"zh": "周五", "py": "zhōuwǔ", "gl": "Friday"},
+      {"zh": "晚上", "py": "wǎnshang", "gl": "evening"},
+      {"zh": "8"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "50"},
+      {"zh": "分", "py": "fēn", "gl": "minutes"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "的", "py": "de", "gl": "(emphasis marker)"},
+      {"zh": "。"}
+     ],
+     "start": 14.24,
+     "end": 17.89
+    },
+    {
+     "id": "s003",
+     "zh": "那天下午，史蒂文逛了北京的“多汁塔可节”，晚上又在家研究债券。",
+     "en": "That afternoon, Steven went to Beijing's \"Juicy Taco Festival,\" and in the evening he studied bonds at home.",
+     "segments": [
+      {"zh": "那天", "py": "nàtiān", "gl": "that day"},
+      {"zh": "下午", "py": "xiàwǔ", "gl": "afternoon"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "逛", "py": "guàng", "gl": "stroll around, visit"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "多汁", "py": "duōzhī", "gl": "juicy"},
+      {"zh": "塔可", "py": "tǎkě", "gl": "taco"},
+      {"zh": "节", "py": "jié", "gl": "festival"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "晚上", "py": "wǎnshang", "gl": "in the evening"},
+      {"zh": "又", "py": "yòu", "gl": "then also"},
+      {"zh": "在家", "py": "zàijiā", "gl": "at home"},
+      {"zh": "研究", "py": "yánjiū", "gl": "study, research"},
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bonds"},
+      {"zh": "。"}
+     ],
+     "start": 18.22,
+     "end": 25.43
+    },
+    {
+     "id": "s004",
+     "zh": "节目里，他聊了贵得离谱的塔可、多年未见的老同事、北京的房租、外国员工因年龄被迫离开中国，还有孩子们玩便宜气球的快乐。",
+     "en": "In the episode, he talks about ridiculously expensive tacos, former coworkers he hadn't seen in years, Beijing rents, foreign employees forced to leave China because of their age, and the joy kids get from playing with cheap balloons.",
+     "segments": [
+      {"zh": "节目", "py": "jiémù", "gl": "show, episode"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "聊", "py": "liáo", "gl": "chat about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "贵", "py": "guì", "gl": "expensive"},
+      {"zh": "得", "py": "de", "gl": "(degree complement)"},
+      {"zh": "离谱", "py": "lípǔ", "gl": "outrageous, ridiculous"},
+      {"zh": "的", "py": "de", "gl": "(attributive marker)"},
+      {"zh": "塔可", "py": "tǎkě", "gl": "tacos"},
+      {"zh": "、"},
+      {"zh": "多年", "py": "duōnián", "gl": "many years"},
+      {"zh": "未", "py": "wèi", "gl": "not"},
+      {"zh": "见", "py": "jiàn", "gl": "see"},
+      {"zh": "的", "py": "de", "gl": "(attributive marker)"},
+      {"zh": "老", "py": "lǎo", "gl": "former, old"},
+      {"zh": "同事", "py": "tóngshì", "gl": "coworkers"},
+      {"zh": "、"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "房租", "py": "fángzū", "gl": "rent"},
+      {"zh": "、"},
+      {"zh": "外国", "py": "wàiguó", "gl": "foreign"},
+      {"zh": "员工", "py": "yuángōng", "gl": "employees"},
+      {"zh": "因", "py": "yīn", "gl": "because of"},
+      {"zh": "年龄", "py": "niánlíng", "gl": "age"},
+      {"zh": "被迫", "py": "bèipò", "gl": "be forced to"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "孩子们", "py": "háizimen", "gl": "children"},
+      {"zh": "玩", "py": "wán", "gl": "play with"},
+      {"zh": "便宜", "py": "piányi", "gl": "cheap"},
+      {"zh": "气球", "py": "qìqiú", "gl": "balloons"},
+      {"zh": "的", "py": "de", "gl": "(attributive marker)"},
+      {"zh": "快乐", "py": "kuàilè", "gl": "joy, happiness"},
+      {"zh": "。"}
+     ],
+     "start": 26.08,
+     "end": 41.59
+    },
+    {
+     "id": "s005",
+     "zh": "最后，他用大白话讲了一个问题：为什么收益率上升，债券价格反而下跌？",
+     "en": "Finally, he explains in plain language why bond prices fall when yields rise.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "用", "py": "yòng", "gl": "using"},
+      {"zh": "大白话", "py": "dàbáihuà", "gl": "plain language"},
+      {"zh": "讲", "py": "jiǎng", "gl": "explain"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一个", "py": "yí ge", "gl": "a, one"},
+      {"zh": "问题", "py": "wèntí", "gl": "question"},
+      {"zh": "："},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "收益率", "py": "shōuyìlǜ", "gl": "yield"},
+      {"zh": "上升", "py": "shàngshēng", "gl": "rise"},
+      {"zh": "，"},
+      {"zh": "债券", "py": "zhàiquàn", "gl": "bond"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "反而", "py": "fǎn'ér", "gl": "instead, contrary to expectation"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "fall, drop"},
+      {"zh": "？"}
+     ],
+     "start": 42.12,
+     "end": 51.05
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "塔可节：人好，价格不好",
+     "en": "Taco Fest: great people, bad prices",
+     "segments": [
+      {"zh": "塔可节", "py": "tǎkějié", "gl": "Taco Fest"},
+      {"zh": "："},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "，"},
+      {"zh": "价格", "py": "jiàgé", "gl": "prices"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "好", "py": "hǎo", "gl": "good"}
+     ],
+     "start": 51.84,
+     "end": 55.13
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "The Beijinger 主办的塔可节在朝阳公园举行，时间是10月1日到5日，从史蒂文家骑车过去约30分钟。",
+     "en": "The Taco Fest hosted by The Beijinger was held in Chaoyang Park from October 1st to 5th, about a 30-minute bike ride from Steven's home.",
+     "segments": [
+      {"zh": "The Beijinger"},
+      {"zh": " "},
+      {"zh": "主办", "py": "zhǔbàn", "gl": "host, organize"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "塔可节", "py": "tǎkějié", "gl": "Taco Fest"},
+      {"zh": "在", "py": "zài", "gl": "at, in"},
+      {"zh": "朝阳公园", "py": "Cháoyáng Gōngyuán", "gl": "Chaoyang Park"},
+      {"zh": "举行", "py": "jǔxíng", "gl": "be held"},
+      {"zh": "，"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "10"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "1"},
+      {"zh": "日", "py": "rì", "gl": "day (date)"},
+      {"zh": "到", "py": "dào", "gl": "to, until"},
+      {"zh": "5"},
+      {"zh": "日", "py": "rì", "gl": "day (date)"},
+      {"zh": "，"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "家", "py": "jiā", "gl": "home"},
+      {"zh": "骑车", "py": "qíchē", "gl": "ride a bike"},
+      {"zh": "过去", "py": "guòqu", "gl": "go over there"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "30"},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "。"}
+     ],
+     "start": 55.5,
+     "end": 66.9
+    },
+    {
+     "id": "s008",
+     "zh": "他原计划只吃两个塔可，不喝啤酒，结果还是喝了一杯，又加了一份炸大蕉。",
+     "en": "He originally planned to eat only two tacos and drink no beer, but he ended up having a glass anyway, plus an order of fried plantains.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "原", "py": "yuán", "gl": "originally"},
+      {"zh": "计划", "py": "jìhuà", "gl": "plan"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "塔可", "py": "tǎkě", "gl": "taco"},
+      {"zh": "，"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "喝", "py": "hē", "gl": "drink"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "，"},
+      {"zh": "结果", "py": "jiéguǒ", "gl": "in the end"},
+      {"zh": "还是", "py": "háishi", "gl": "still, anyway"},
+      {"zh": "喝", "py": "hē", "gl": "drink"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "杯", "py": "bēi", "gl": "glass (measure word)"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "also, additionally"},
+      {"zh": "加", "py": "jiā", "gl": "add"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "份", "py": "fèn", "gl": "portion, order"},
+      {"zh": "炸", "py": "zhá", "gl": "fried"},
+      {"zh": "大蕉", "py": "dàjiāo", "gl": "plantain"},
+      {"zh": "。"}
+     ],
+     "start": 66.9,
+     "end": 75.71
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s009",
+     "zh": "非洲摊位的塔可一个50元（约合10加元），炸大蕉30元。",
+     "en": "At the African stall, tacos were 50 yuan each (about 10 Canadian dollars), and fried plantains were 30 yuan.",
+     "segments": [
+      {"zh": "非洲", "py": "Fēizhōu", "gl": "Africa"},
+      {"zh": "摊位", "py": "tānwèi", "gl": "stall, booth"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "塔可", "py": "tǎkě", "gl": "taco"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "50"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "（"},
+      {"zh": "约合", "py": "yuēhé", "gl": "roughly equal to"},
+      {"zh": "10"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "）"},
+      {"zh": "，"},
+      {"zh": "炸", "py": "zhá", "gl": "fried"},
+      {"zh": "大蕉", "py": "dàjiāo", "gl": "plantain"},
+      {"zh": "30"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "。"}
+     ],
+     "start": 76.3,
+     "end": 82.4
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s010",
+     "zh": "大跃啤酒、京A、Plan B、Q Mex都来摆摊，连塔可钟都来了。",
+     "en": "Great Leap Brewing, Jing-A, Plan B, and Q Mex all set up stalls, and even Taco Bell showed up.",
+     "segments": [
+      {"zh": "大跃啤酒", "py": "Dàyuè Píjiǔ", "gl": "Great Leap Brewing"},
+      {"zh": "、"},
+      {"zh": "京", "py": "Jīng", "gl": "Jing (brewery name)"},
+      {"zh": "A"},
+      {"zh": "、"},
+      {"zh": "Plan B"},
+      {"zh": "、"},
+      {"zh": "Q Mex"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "摆摊", "py": "bǎitān", "gl": "set up a stall"},
+      {"zh": "，"},
+      {"zh": "连", "py": "lián", "gl": "even"},
+      {"zh": "塔可钟", "py": "Tǎkězhōng", "gl": "Taco Bell"},
+      {"zh": "都", "py": "dōu", "gl": "(emphasis with 连)"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 82.4,
+     "end": 90.1
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s011",
+     "zh": "他的评价：“一小份就要十块加元？没门儿，根本不值。”",
+     "en": "His verdict: \"Ten Canadian dollars for a tiny portion? No way, it's not worth it at all.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "评价", "py": "píngjià", "gl": "assessment, verdict"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "小", "py": "xiǎo", "gl": "small"},
+      {"zh": "份", "py": "fèn", "gl": "portion"},
+      {"zh": "就", "py": "jiù", "gl": "already, just"},
+      {"zh": "要", "py": "yào", "gl": "cost, require"},
+      {"zh": "十", "py": "shí", "gl": "ten"},
+      {"zh": "块", "py": "kuài", "gl": "dollars (colloquial)"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "？"},
+      {"zh": "没门儿", "py": "méiménr", "gl": "no way"},
+      {"zh": "，"},
+      {"zh": "根本", "py": "gēnběn", "gl": "at all"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "值", "py": "zhí", "gl": "worth it"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 90.1,
+     "end": 97.35
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "老朋友与环球职业路",
+     "en": "Old friends and a career that circled the globe",
+     "segments": [
+      {"zh": "老朋友", "py": "lǎo péngyou", "gl": "old friends"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "环球", "py": "huánqiú", "gl": "around the world"},
+      {"zh": "职业", "py": "zhíyè", "gl": "career"},
+      {"zh": "路", "py": "lù", "gl": "path"}
+     ],
+     "start": 97.96,
+     "end": 100.61
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "史蒂文去塔可节，主要是为了见朋友：",
+     "en": "Steven went to the taco festival mainly to see friends:",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "去", "py": "qù", "gl": "go to"},
+      {"zh": "塔可节", "py": "tǎkějié", "gl": "taco festival"},
+      {"zh": "，"},
+      {"zh": "主要", "py": "zhǔyào", "gl": "mainly"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "为了", "py": "wèile", "gl": "in order to"},
+      {"zh": "见", "py": "jiàn", "gl": "see"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friends"},
+      {"zh": "："}
+     ],
+     "start": 101.7,
+     "end": 105.45
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "一位前同事，现在和日本太太住在东京西边，还在网上给史蒂文的老公司做些工作。",
+     "en": "One is a former coworker who now lives west of Tokyo with his Japanese wife and still does some online work for Steven's old company.",
+     "segments": [
+      {"zh": "一位", "py": "yí wèi", "gl": "one (person)"},
+      {"zh": "前", "py": "qián", "gl": "former"},
+      {"zh": "同事", "py": "tóngshì", "gl": "coworker"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "日本", "py": "Rìběn", "gl": "Japanese"},
+      {"zh": "太太", "py": "tàitai", "gl": "wife"},
+      {"zh": "住在", "py": "zhùzài", "gl": "live in"},
+      {"zh": "东京", "py": "Dōngjīng", "gl": "Tokyo"},
+      {"zh": "西边", "py": "xībian", "gl": "west side"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "网上", "py": "wǎngshàng", "gl": "online"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "'s"},
+      {"zh": "老", "py": "lǎo", "gl": "old"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "些", "py": "xiē", "gl": "some"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "。"}
+     ],
+     "start": 106.6,
+     "end": 115.51
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "一位在北京多年的老外，既是音乐人也是诗人。",
+     "en": "Another is a foreigner who spent many years in Beijing and is both a musician and a poet.",
+     "segments": [
+      {"zh": "一位", "py": "yí wèi", "gl": "one (person)"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "多年", "py": "duō nián", "gl": "many years"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "老外", "py": "lǎowài", "gl": "foreigner"},
+      {"zh": "，"},
+      {"zh": "既", "py": "jì", "gl": "both"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "音乐人", "py": "yīnyuèrén", "gl": "musician"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "诗人", "py": "shīrén", "gl": "poet"},
+      {"zh": "。"}
+     ],
+     "start": 116.62,
+     "end": 121.95
+    },
+    {
+     "id": "s016",
+     "zh": "签证出岔子，或者跟房东闹矛盾，找他吐吐苦水最合适。",
+     "en": "If your visa goes wrong or you get into a fight with your landlord, he's the best person to vent to.",
+     "segments": [
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "出岔子", "py": "chū chàzi", "gl": "go wrong"},
+      {"zh": "，"},
+      {"zh": "或者", "py": "huòzhě", "gl": "or"},
+      {"zh": "跟", "py": "gēn", "gl": "with"},
+      {"zh": "房东", "py": "fángdōng", "gl": "landlord"},
+      {"zh": "闹", "py": "nào", "gl": "have (a quarrel)"},
+      {"zh": "矛盾", "py": "máodùn", "gl": "conflict"},
+      {"zh": "，"},
+      {"zh": "找", "py": "zhǎo", "gl": "go to"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "吐吐", "py": "tǔtu", "gl": "pour out a bit"},
+      {"zh": "苦水", "py": "kǔshuǐ", "gl": "grievances"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "合适", "py": "héshì", "gl": "suitable"},
+      {"zh": "。"}
+     ],
+     "start": 122.4,
+     "end": 130.03
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "一位来自尼亚加拉瀑布城的同事，2002年入职，在东南亚、中国和乌兹别克斯坦都工作过。",
+     "en": "Another is a coworker from Niagara Falls who joined the company in 2002 and has worked in Southeast Asia, China and Uzbekistan.",
+     "segments": [
+      {"zh": "一位", "py": "yí wèi", "gl": "one (person)"},
+      {"zh": "来自", "py": "láizì", "gl": "come from"},
+      {"zh": "尼亚加拉瀑布城", "py": "Níyàjiālā Pùbùchéng", "gl": "Niagara Falls"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "同事", "py": "tóngshì", "gl": "coworker"},
+      {"zh": "，"},
+      {"zh": "2002"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "入职", "py": "rùzhí", "gl": "join a company"},
+      {"zh": "，"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "东南亚", "py": "Dōngnányà", "gl": "Southeast Asia"},
+      {"zh": "、"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "乌兹别克斯坦", "py": "Wūzībiékèsītǎn", "gl": "Uzbekistan"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "。"}
+     ],
+     "start": 131.14,
+     "end": 140.91
+    },
+    {
+     "id": "s018",
+     "zh": "“哥们儿，这才叫生活！”",
+     "en": "\"Man, this is what I call living!\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "哥们儿", "py": "gēmenr", "gl": "buddy, man"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "才", "py": "cái", "gl": "really (emphasis)"},
+      {"zh": "叫", "py": "jiào", "gl": "is called"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "life, living"},
+      {"zh": "！"},
+      {"zh": "”"}
+     ],
+     "start": 141.8,
+     "end": 143.56
+    },
+    {
+     "id": "s019",
+     "zh": "不过史蒂文认为，线下测评工作“短期内回不来了”。",
+     "en": "But Steven thinks in-person testing work \"won't be coming back any time soon.\"",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "认为", "py": "rènwéi", "gl": "thinks"},
+      {"zh": "，"},
+      {"zh": "线下", "py": "xiànxià", "gl": "in-person"},
+      {"zh": "测评", "py": "cèpíng", "gl": "testing, assessment"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "“"},
+      {"zh": "短期", "py": "duǎnqī", "gl": "short term"},
+      {"zh": "内", "py": "nèi", "gl": "within"},
+      {"zh": "回不来", "py": "huí bu lái", "gl": "can't come back"},
+      {"zh": "了", "py": "le", "gl": "(change of situation)"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 143.56,
+     "end": 149.77
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s020",
+     "zh": "房租：值得搬家吗？",
+     "en": "Rent: is it worth moving?",
+     "segments": [
+      {"zh": "房租", "py": "fángzū", "gl": "rent"},
+      {"zh": "："},
+      {"zh": "值得", "py": "zhíde", "gl": "worth"},
+      {"zh": "搬家", "py": "bānjiā", "gl": "moving house"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 150.18,
+     "end": 153.01
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s021",
+     "zh": "史蒂文的租约每年8月续签，正赶上开学，搬家很不方便，所以他建议五六月就开始找房。",
+     "en": "Steven's lease renews every August, right when school starts, which makes moving very inconvenient, so he suggests starting to look for a place in May or June.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "租约", "py": "zūyuē", "gl": "lease"},
+      {"zh": "每年", "py": "měinián", "gl": "every year"},
+      {"zh": "8"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "续签", "py": "xùqiān", "gl": "renew (contract)"},
+      {"zh": "，"},
+      {"zh": "正", "py": "zhèng", "gl": "right, just"},
+      {"zh": "赶上", "py": "gǎnshàng", "gl": "coincide with"},
+      {"zh": "开学", "py": "kāixué", "gl": "school starting"},
+      {"zh": "，"},
+      {"zh": "搬家", "py": "bānjiā", "gl": "moving house"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "不方便", "py": "bù fāngbiàn", "gl": "inconvenient"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "建议", "py": "jiànyì", "gl": "suggest"},
+      {"zh": "五六月", "py": "wǔ-liù yuè", "gl": "May or June"},
+      {"zh": "就", "py": "jiù", "gl": "already"},
+      {"zh": "开始", "py": "kāishǐ", "gl": "start"},
+      {"zh": "找房", "py": "zhǎofáng", "gl": "look for housing"},
+      {"zh": "。"}
+     ],
+     "start": 153.9,
+     "end": 164.47
+    },
+    {
+     "id": "s022",
+     "zh": "今年他把房租从6600元谈到了6300元，一年只省下约720加元，为这点钱离开这么好的小区，实在得不偿失。",
+     "en": "This year he negotiated his rent down from 6,600 to 6,300, saving only about 720 Canadian dollars a year — leaving such a nice neighborhood for that little money really wouldn't be worth it.",
+     "segments": [
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "房租", "py": "fángzū", "gl": "rent"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "6600"},
+      {"zh": "元", "py": "yuán", "gl": "yuan, dollars"},
+      {"zh": "谈到", "py": "tándào", "gl": "negotiate down to"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "6300"},
+      {"zh": "元", "py": "yuán", "gl": "yuan, dollars"},
+      {"zh": "，"},
+      {"zh": "一年", "py": "yì nián", "gl": "one year"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "省下", "py": "shěngxià", "gl": "save"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "720"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "，"},
+      {"zh": "为", "py": "wèi", "gl": "for"},
+      {"zh": "这点", "py": "zhè diǎn", "gl": "this little"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "这么", "py": "zhème", "gl": "so"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "小区", "py": "xiǎoqū", "gl": "neighborhood"},
+      {"zh": "，"},
+      {"zh": "实在", "py": "shízài", "gl": "really"},
+      {"zh": "得不偿失", "py": "débùchángshī", "gl": "not worth it"},
+      {"zh": "。"}
+     ],
+     "start": 165.06,
+     "end": 178.83
+    },
+    {
+     "id": "s023",
+     "zh": "这也是他第一次看到小区房租明显下降，降到了5800到6200元左右。",
+     "en": "This is also the first time he's seen rents in the neighborhood drop noticeably, down to around 5,800 to 6,200.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "第一次", "py": "dìyīcì", "gl": "first time"},
+      {"zh": "看到", "py": "kàndào", "gl": "see"},
+      {"zh": "小区", "py": "xiǎoqū", "gl": "neighborhood"},
+      {"zh": "房租", "py": "fángzū", "gl": "rent"},
+      {"zh": "明显", "py": "míngxiǎn", "gl": "noticeably"},
+      {"zh": "下降", "py": "xiàjiàng", "gl": "decline"},
+      {"zh": "，"},
+      {"zh": "降到", "py": "jiàngdào", "gl": "drop to"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "5800"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "6200"},
+      {"zh": "元", "py": "yuán", "gl": "yuan, dollars"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "around"},
+      {"zh": "。"}
+     ],
+     "start": 179.8,
+     "end": 189.95
+    },
+    {
+     "id": "s024",
+     "zh": "现在学校会报销校外住房费用，补贴虽然要交税，他还是更愿意住在校外。",
+     "en": "The school now reimburses off-campus housing costs, and although the allowance is taxable, he still prefers to live off campus.",
+     "segments": [
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "学校", "py": "xuéxiào", "gl": "school"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "报销", "py": "bàoxiāo", "gl": "reimburse"},
+      {"zh": "校外", "py": "xiàowài", "gl": "off-campus"},
+      {"zh": "住房", "py": "zhùfáng", "gl": "housing"},
+      {"zh": "费用", "py": "fèiyòng", "gl": "costs"},
+      {"zh": "，"},
+      {"zh": "补贴", "py": "bǔtiē", "gl": "allowance"},
+      {"zh": "虽然", "py": "suīrán", "gl": "although"},
+      {"zh": "要", "py": "yào", "gl": "must"},
+      {"zh": "交税", "py": "jiāoshuì", "gl": "pay tax"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "willing, prefer"},
+      {"zh": "住在", "py": "zhùzài", "gl": "live in"},
+      {"zh": "校外", "py": "xiàowài", "gl": "off campus"},
+      {"zh": "。"}
+     ],
+     "start": 190.84,
+     "end": 199.93
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s025",
+     "zh": "因年龄被迫离开中国",
+     "en": "Forced to leave China because of age",
+     "segments": [
+      {"zh": "因", "py": "yīn", "gl": "because of"},
+      {"zh": "年龄", "py": "niánlíng", "gl": "age"},
+      {"zh": "被迫", "py": "bèipò", "gl": "be forced to"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"}
+     ],
+     "start": 201.24,
+     "end": 203.59
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "住在日本的那位朋友，基本上是到了年龄被迫离开的。",
+     "en": "The friend who lives in Japan was basically forced to leave once he reached a certain age.",
+     "segments": [
+      {"zh": "住", "py": "zhù", "gl": "live"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "日本", "py": "Rìběn", "gl": "Japan"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "，"},
+      {"zh": "基本上", "py": "jīběnshang", "gl": "basically"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "到", "py": "dào", "gl": "reach"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "年龄", "py": "niánlíng", "gl": "age"},
+      {"zh": "被迫", "py": "bèipò", "gl": "be forced to"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "。"}
+     ],
+     "start": 204.08,
+     "end": 209.94
+    },
+    {
+     "id": "s027",
+     "zh": "他没和中国人结婚，交的税也不够，拿不到永久居留。",
+     "en": "He didn't marry a Chinese citizen and hadn't paid enough in taxes, so he couldn't get permanent residency.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "中国人", "py": "Zhōngguórén", "gl": "Chinese person"},
+      {"zh": "结婚", "py": "jiéhūn", "gl": "marry"},
+      {"zh": "，"},
+      {"zh": "交", "py": "jiāo", "gl": "pay"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "税", "py": "shuì", "gl": "tax"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "不够", "py": "búgòu", "gl": "not enough"},
+      {"zh": "，"},
+      {"zh": "拿不到", "py": "nábudào", "gl": "can't get"},
+      {"zh": "永久", "py": "yǒngjiǔ", "gl": "permanent"},
+      {"zh": "居留", "py": "jūliú", "gl": "residency"},
+      {"zh": "。"}
+     ],
+     "start": 209.94,
+     "end": 217.21
+    },
+    {
+     "id": "s028",
+     "zh": "这次他太太没来，因为签证办得太慢，“让人感觉不受欢迎”。",
+     "en": "His wife didn't come this time, because the visa took so long to process that it \"made you feel unwelcome.\"",
+     "segments": [
+      {"zh": "这次", "py": "zhècì", "gl": "this time"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "太太", "py": "tàitai", "gl": "wife"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "办", "py": "bàn", "gl": "process"},
+      {"zh": "得", "py": "de", "gl": "(complement particle)"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "慢", "py": "màn", "gl": "slow"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "感觉", "py": "gǎnjué", "gl": "feel"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "受", "py": "shòu", "gl": "receive"},
+      {"zh": "欢迎", "py": "huānyíng", "gl": "welcome"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 217.58,
+     "end": 224.78
+    },
+    {
+     "id": "s029",
+     "zh": "不过史蒂文也承认，中国的规矩很一致：按流程走，签证总能办下来。",
+     "en": "Still, Steven admits that China's rules are very consistent: if you follow the process, the visa always comes through.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "however"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "，"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "规矩", "py": "guīju", "gl": "rules"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "一致", "py": "yízhì", "gl": "consistent"},
+      {"zh": "："},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "流程", "py": "liúchéng", "gl": "procedure"},
+      {"zh": "走", "py": "zǒu", "gl": "go"},
+      {"zh": "，"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "总", "py": "zǒng", "gl": "always"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "办下来", "py": "bànxialai", "gl": "get approved"},
+      {"zh": "。"}
+     ],
+     "start": 224.78,
+     "end": 234.42
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "过了退休年龄，签证延期一年、两年还是三年，由公司决定。",
+     "en": "Once you're past retirement age, whether the visa is extended for one, two or three years is up to the company.",
+     "segments": [
+      {"zh": "过", "py": "guò", "gl": "pass"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "退休", "py": "tuìxiū", "gl": "retirement"},
+      {"zh": "年龄", "py": "niánlíng", "gl": "age"},
+      {"zh": "，"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "延期", "py": "yánqī", "gl": "extend"},
+      {"zh": "一年", "py": "yìnián", "gl": "one year"},
+      {"zh": "、"},
+      {"zh": "两年", "py": "liǎngnián", "gl": "two years"},
+      {"zh": "还是", "py": "háishi", "gl": "or"},
+      {"zh": "三年", "py": "sānnián", "gl": "three years"},
+      {"zh": "，"},
+      {"zh": "由", "py": "yóu", "gl": "by"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "决定", "py": "juédìng", "gl": "decide"},
+      {"zh": "。"}
+     ],
+     "start": 234.42,
+     "end": 242.91
+    },
+    {
+     "id": "s031",
+     "zh": "史蒂文的老公司现在只申请一年。",
+     "en": "Steven's old company now only applies for one year.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "老", "py": "lǎo", "gl": "former"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "申请", "py": "shēnqǐng", "gl": "apply for"},
+      {"zh": "一年", "py": "yìnián", "gl": "one year"},
+      {"zh": "。"}
+     ],
+     "start": 243.7,
+     "end": 247.13
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s032",
+     "zh": "气球、人群与目光",
+     "en": "",
+     "segments": [
+      {"zh": "气球、人群与目光"}
+     ],
+     "start": 248.24,
+     "end": 250.41
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s033",
+     "zh": "还有一位同事在国际学校工作，带着太太和两个孩子来了。",
+     "en": "",
+     "segments": [
+      {"zh": "还有一位同事在国际学校工作，带着太太和两个孩子来了。"}
+     ],
+     "start": 250.76,
+     "end": 258.09
+    },
+    {
+     "id": "s034",
+     "zh": "有些学校的教职工子女可以免学费，史蒂文猜他换工作就是为了孩子上学。",
+     "en": "",
+     "segments": [
+      {"zh": "有些学校的教职工子女可以免学费，史蒂文猜他换工作就是为了孩子上学。"}
+     ],
+     "start": 258.62,
+     "end": 268.11
+    },
+    {
+     "id": "s035",
+     "zh": "孩子们买了10块钱一个的巨型气球，玩起了“人肉棒球”。",
+     "en": "",
+     "segments": [
+      {"zh": "孩子们买了10块钱一个的巨型气球，玩起了“人肉棒球”。"}
+     ],
+     "start": 269.08,
+     "end": 275.47
+    },
+    {
+     "id": "s036",
+     "zh": "史蒂文对那位爸爸说：“这20块是你今天花得最值的钱！”",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文对那位爸爸说：“这20块是你今天花得最值的钱！”"}
+     ],
+     "start": 275.92,
+     "end": 282.49
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s037",
+     "zh": "史蒂文刚下自行车，就有人开始指指点点。",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文刚下自行车，就有人开始指指点点。"}
+     ],
+     "start": 283.46,
+     "end": 288.05
+    },
+    {
+     "id": "s038",
+     "zh": "小孩冲他笑，他也笑着回应；但有人对着“大胡子老外”拍照，他就挺烦。",
+     "en": "",
+     "segments": [
+      {"zh": "小孩冲他笑，他也笑着回应；但有人对着“大胡子老外”拍照，他就挺烦。"}
+     ],
+     "start": 288.46,
+     "end": 297.21
+    },
+    {
+     "id": "s039",
+     "zh": "有小孩喊“这是外国人”，他会回一句：“到底谁是外人，我还是你？”",
+     "en": "",
+     "segments": [
+      {"zh": "有小孩喊“这是外国人”，他会回一句：“到底谁是外人，我还是你？”"}
+     ],
+     "start": 297.54,
+     "end": 305.29
+    },
+    {
+     "id": "s040",
+     "zh": "家长们一般都哈哈大笑。",
+     "en": "",
+     "segments": [
+      {"zh": "家长们一般都哈哈大笑。"}
+     ],
+     "start": 305.92,
+     "end": 308.55
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s041",
+     "zh": "整理旅行视频",
+     "en": "",
+     "segments": [
+      {"zh": "整理旅行视频"}
+     ],
+     "start": 308.62,
+     "end": 310.59
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s042",
+     "zh": "史蒂文的美国之行剪出了12到13条短视频，但能用的长视频少得多。",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文的美国之行剪出了12到13条短视频，但能用的长视频少得多。"}
+     ],
+     "start": 311.68,
+     "end": 320.19
+    },
+    {
+     "id": "s043",
+     "zh": "有的素材太无聊，有的跟底特律爵士音乐节这类已经过去的活动有关，而且他拍的大多是自己，不是风景。",
+     "en": "",
+     "segments": [
+      {"zh": "有的素材太无聊，有的跟底特律爵士音乐节这类已经过去的活动有关，而且他拍的大多是自己，不是风景。"}
+     ],
+     "start": 320.7,
+     "end": 333.37
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "他现在的计划：",
+     "en": "",
+     "segments": [
+      {"zh": "他现在的计划："}
+     ],
+     "start": 333.74,
+     "end": 335.45
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s045",
+     "zh": "做一期从尼亚加拉瀑布步行入境美国的视频。",
+     "en": "",
+     "segments": [
+      {"zh": "做一期从尼亚加拉瀑布步行入境美国的视频。"}
+     ],
+     "start": 335.72,
+     "end": 340.57
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "剪一部“美国公路大旅行”合集，包括布法罗、克利夫兰和底特律。",
+     "en": "",
+     "segments": [
+      {"zh": "剪一部“美国公路大旅行”合集，包括布法罗、克利夫兰和底特律。"}
+     ],
+     "start": 341.42,
+     "end": 348.47
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "短视频从这周末或下周末开始更新。",
+     "en": "",
+     "segments": [
+      {"zh": "短视频从这周末或下周末开始更新。"}
+     ],
+     "start": 349.1,
+     "end": 353.07
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "以前他喜欢原汁原味、一刀不剪，现在觉得好故事比“无聊的生活”有意思得多。",
+     "en": "",
+     "segments": [
+      {"zh": "以前他喜欢原汁原味、一刀不剪，现在觉得好故事比“无聊的生活”有意思得多。"}
+     ],
+     "start": 353.64,
+     "end": 362.59
+    },
+    {
+     "id": "s049",
+     "zh": "他承认，自己差点“对着硬盘哭出来”。",
+     "en": "",
+     "segments": [
+      {"zh": "他承认，自己差点“对着硬盘哭出来”。"}
+     ],
+     "start": 362.86,
+     "end": 366.9
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s050",
+     "zh": "债券背景：萨克雷、道指75000点和美联储",
+     "en": "",
+     "segments": [
+      {"zh": "债券背景：萨克雷、道指75000点和美联储"}
+     ],
+     "start": 366.9,
+     "end": 373.25
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s051",
+     "zh": "史蒂文的节目笔记里附了一份谷歌文档，有他和ChatGPT一起研究的22个问题，还有季节性分析师布鲁克·萨克雷的文章《别跟美联储作对》。",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文的节目笔记里附了一份谷歌文档，有他和ChatGPT一起研究的22个问题，还有季节性分析师布鲁克·萨克雷的文章《别跟美联储作对》。"}
+     ],
+     "start": 373.66,
+     "end": 389.33
+    },
+    {
+     "id": "s052",
+     "zh": "萨克雷指出，美国10年期国债收益率从80年代一路下跌，到2020年左右才回升。",
+     "en": "",
+     "segments": [
+      {"zh": "萨克雷指出，美国10年期国债收益率从80年代一路下跌，到2020年左右才回升。"}
+     ],
+     "start": 389.86,
+     "end": 399.71
+    },
+    {
+     "id": "s053",
+     "zh": "80年代，政府债券收益率高达15%到16%。",
+     "en": "",
+     "segments": [
+      {"zh": "80年代，政府债券收益率高达15%到16%。"}
+     ],
+     "start": 400.54,
+     "end": 406.41
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s054",
+     "zh": "《股票交易者年鉴》的杰弗里·赫希预测道指将涨到75000点，比现在的51678点高约50%。",
+     "en": "",
+     "segments": [
+      {"zh": "《股票交易者年鉴》的杰弗里·赫希预测道指将涨到75000点，比现在的51678点高约50%。"}
+     ]
+    },
+    {
+     "id": "s055",
+     "zh": "史蒂文还提醒：美联储独立于总统，尽管特朗普正向新任主席沃什施压。",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文还提醒：美联储独立于总统，尽管特朗普正向新任主席沃什施压。"}
+     ],
+     "start": 419.76,
+     "end": 427.61
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "债券入门：价格跌了，收益率为什么涨？",
+     "en": "",
+     "segments": [
+      {"zh": "债券入门：价格跌了，收益率为什么涨？"}
+     ],
+     "start": 427.94,
+     "end": 432.71
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "史蒂文讲了个故事：1982年，他的祖父母买了一张20年期、面值1000美元、利率15%的债券。",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文讲了个故事：1982年，他的祖父母买了一张20年期、面值1000美元、利率15%的债券。"}
+     ],
+     "start": 434.0,
+     "end": 444.75
+    },
+    {
+     "id": "s058",
+     "zh": "如果1992年他们以900美元卖出，买家仍按1000美元拿15%的利息，到期还能拿回1000美元，实际收益率更高。",
+     "en": "",
+     "segments": [
+      {"zh": "如果1992年他们以900美元卖出，买家仍按1000美元拿15%的利息，到期还能拿回1000美元，实际收益率更高。"}
+     ],
+     "start": 445.28,
+     "end": 456.32
+    },
+    {
+     "id": "s059",
+     "zh": "一句话：价格越低，收益率越高。",
+     "en": "",
+     "segments": [
+      {"zh": "一句话：价格越低，收益率越高。"}
+     ],
+     "start": 456.32,
+     "end": 460.45
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s060",
+     "zh": "买家主要是国债拍卖上的大机构，比如银行和各国央行。",
+     "en": "",
+     "segments": [
+      {"zh": "买家主要是国债拍卖上的大机构，比如银行和各国央行。"}
+     ],
+     "start": 460.76,
+     "end": 466.59
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "持有人在二级市场抛售时，价格下跌，收益率随之上升。",
+     "en": "",
+     "segments": [
+      {"zh": "持有人在二级市场抛售时，价格下跌，收益率随之上升。"}
+     ],
+     "start": 467.5,
+     "end": 474.57
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "散户的“捡漏单”撼动不了市场：“我可不是什么大鱼。”",
+     "en": "",
+     "segments": [
+      {"zh": "散户的“捡漏单”撼动不了市场：“我可不是什么大鱼。”"}
+     ],
+     "start": 475.62,
+     "end": 480.68
+    }
+   ]
+  },
+  {
+   "id": "p36",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s063",
+     "zh": "他的免责声明：“不构成任何买卖建议……钱是你的，后果自负。”",
+     "en": "",
+     "segments": [
+      {"zh": "他的免责声明：“不构成任何买卖建议……钱是你的，后果自负。”"}
+     ],
+     "start": 480.68,
+     "end": 488.57
+    }
+   ]
+  },
+  {
+   "id": "p37",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s064",
+     "zh": "今日总结",
+     "en": "",
+     "segments": [
+      {"zh": "今日总结"}
+     ],
+     "start": 488.9,
+     "end": 490.35
+    }
+   ]
+  },
+  {
+   "id": "p38",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s065",
+     "zh": "史蒂文觉得这次塔可节值得去，但值的是人，不是塔可。",
+     "en": "",
+     "segments": [
+      {"zh": "史蒂文觉得这次塔可节值得去，但值的是人，不是塔可。"}
+     ],
+     "start": 491.12,
+     "end": 497.37
+    },
+    {
+     "id": "s066",
+     "zh": "至于债券，只要记住面值永远不变，变的只是别人愿意出的价钱，也就没那么难懂了。",
+     "en": "",
+     "segments": [
+      {"zh": "至于债券，只要记住面值永远不变，变的只是别人愿意出的价钱，也就没那么难懂了。"}
+     ],
+     "start": 497.68,
+     "end": 507.25
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "得不偿失", "py": "dé bù cháng shī", "en": "the gains don't make up for the losses; not worth it"},
+  {"zh": "吐苦水", "py": "tǔ kǔ shuǐ", "en": "to pour out one's troubles; to vent"},
+  {"zh": "指指点点", "py": "zhǐ zhǐ diǎn diǎn", "en": "to point at someone and gossip"},
+  {"zh": "原汁原味", "py": "yuán zhī yuán wèi", "en": "original and authentic; unaltered"},
+  {"zh": "后果自负", "py": "hòu guǒ zì fù", "en": "you bear the consequences yourself"},
+  {"zh": "收益率", "py": "shōu yì lǜ", "en": "yield; rate of return"},
+  {"zh": "面值", "py": "miàn zhí", "en": "face value"},
+  {"zh": "二级市场", "py": "èr jí shì chǎng", "en": "secondary market"},
+  {"zh": "永久居留", "py": "yǒng jiǔ jū liú", "en": "permanent residency"},
+  {"zh": "免学费", "py": "miǎn xué fèi", "en": "tuition-free"}
+ ]
+}
