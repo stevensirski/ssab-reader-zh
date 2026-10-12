@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T17:09",
+ "updated": "2026-10-12T08:55",
  "episodes": [
   {
    "id": "ssab-2026-10-09",
@@ -29,6 +29,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-04",
+   "date": "2026-09-04",
+   "title": "From an Airport Bench to Lake Erie",
+   "titleZh": "机场长椅到伊利湖畔",
+   "description": "Steven records from a Cleveland-area truck stop after a sleepless night on a Buffalo airport bench, a pricey walk-in car rental, and a day exploring Buffalo, dipping his feet in Lake Erie, and reaching Cleveland. He reflects on the costs of travel in America, his improvised travel style, and whether to stay for the air show or press on to Detroit.",
+   "duration": 475,
+   "chars": 1383,
    "hasAudio": true
   },
   {
