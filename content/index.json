@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-12T09:17",
+ "updated": "2026-10-12T15:31",
  "episodes": [
+  {
+   "id": "ssab-2026-10-12",
+   "date": "2026-10-12",
+   "title": "AI Pipelines, Creatine, and Goodbyes",
+   "titleZh": "AI流水线、肌酸与告别",
+   "description": "Steven shows the fully automated video workflow he built with Claude, which turns one MOV file into transcripts, translations, captioned shorts, and Substack drafts. He also tests five cameras, talks about Gary Vee's one-topic-per-account approach and his first days on creatine, and remembers two people who died, urging listeners to reach out to old friends.",
+   "duration": 543,
+   "chars": 1516,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-09",
    "date": "2026-10-09",
