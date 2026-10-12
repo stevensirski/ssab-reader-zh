@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T08:55",
+ "updated": "2026-10-12T09:17",
  "episodes": [
   {
    "id": "ssab-2026-10-09",
@@ -49,6 +49,16 @@
    "description": "Steven records outside a Buffalo tavern and recounts a night in a traveling salesman's hotel room, a free manuscript museum, Buffalo wings at Gabriel's Gate, and being turned away from a charity house. He weighs pricey options for leaving town and asks whether anyone can really travel the U.S. this way, and he also meets a bartender who is learning Chinese.",
    "duration": 471,
    "chars": 1370,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-02",
+   "date": "2026-09-02",
+   "title": "SSAB – 2026-09-02",
+   "titleZh": "",
+   "description": "",
+   "duration": 491,
+   "chars": 1433,
    "hasAudio": true
   }
  ]
