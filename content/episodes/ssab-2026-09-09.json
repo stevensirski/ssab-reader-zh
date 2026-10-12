@@ -1,0 +1,2024 @@
+{
+ "id": "ssab-2026-09-09",
+ "date": "2026-09-09",
+ "title": "The Trip Home That Started With Half a Bottle of Water",
+ "titleZh": "半瓶水引发的回家路",
+ "description": "Steven flies home from Toronto to Winnipeg and runs into one problem after another: a security fight over half a bottle of water, an $18 airport beer, a forced bag check that ended in a broken zipper, and a hurried plan to get back to his job in Beijing. He also explains the difference between travel and medical insurance, and tells how he climbed a borrowed ladder to clear out his mom's eavestroughs.",
+ "duration": 493,
+ "audio": {
+  "src": "audio/ssab-2026-09-09.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Summary at a glance",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 12.94,
+     "end": 14.11
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "史蒂文从多伦多飞回温尼伯。",
+     "en": "Steven flies from Toronto back to Winnipeg.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "多伦多", "py": "Duōlúnduō", "gl": "Toronto"},
+      {"zh": "飞回", "py": "fēihuí", "gl": "fly back to"},
+      {"zh": "温尼伯", "py": "Wēnníbó", "gl": "Winnipeg"},
+      {"zh": "。"}
+     ],
+     "start": 14.34,
+     "end": 16.73
+    },
+    {
+     "id": "s003",
+     "zh": "飞行本身“相当平淡”，地面上的麻烦却一个接一个：先是在安检口为半瓶水吵了一架，最后以行李箱拉链坏掉收场。",
+     "en": "The flight itself was \"pretty uneventful,\" but the trouble on the ground came one thing after another: first an argument at security over half a bottle of water, and finally it all ended with a broken suitcase zipper.",
+     "segments": [
+      {"zh": "飞行", "py": "fēixíng", "gl": "flight"},
+      {"zh": "本身", "py": "běnshēn", "gl": "itself"},
+      {"zh": "“"},
+      {"zh": "相当", "py": "xiāngdāng", "gl": "quite"},
+      {"zh": "平淡", "py": "píngdàn", "gl": "uneventful"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "地面", "py": "dìmiàn", "gl": "ground"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "麻烦", "py": "máfan", "gl": "trouble"},
+      {"zh": "却", "py": "què", "gl": "but"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "接", "py": "jiē", "gl": "following"},
+      {"zh": "一个", "py": "yí ge", "gl": "another"},
+      {"zh": "："},
+      {"zh": "先是", "py": "xiānshì", "gl": "first"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "安检口", "py": "ānjiǎnkǒu", "gl": "security checkpoint"},
+      {"zh": "为", "py": "wèi", "gl": "over; because of"},
+      {"zh": "半", "py": "bàn", "gl": "half"},
+      {"zh": "瓶", "py": "píng", "gl": "bottle"},
+      {"zh": "水", "py": "shuǐ", "gl": "water"},
+      {"zh": "吵", "py": "chǎo", "gl": "argue"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一架", "py": "yí jià", "gl": "a fight"},
+      {"zh": "，"},
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "以", "py": "yǐ", "gl": "with"},
+      {"zh": "行李箱", "py": "xínglixiāng", "gl": "suitcase"},
+      {"zh": "拉链", "py": "lāliàn", "gl": "zipper"},
+      {"zh": "坏掉", "py": "huàidiào", "gl": "break"},
+      {"zh": "收场", "py": "shōuchǎng", "gl": "end"},
+      {"zh": "。"}
+     ],
+     "start": 17.66,
+     "end": 30.05
+    },
+    {
+     "id": "s004",
+     "zh": "一路上，他还吐槽了一杯18加元的机场啤酒，讲解了旅行保险和医疗保险到底保什么，还爬上梯子帮妈妈清理屋檐排水槽。",
+     "en": "Along the way, he also complained about an 18-dollar airport beer, explained what travel insurance and medical insurance actually cover, and climbed a ladder to help his mom clean out the eavestroughs.",
+     "segments": [
+      {"zh": "一路上", "py": "yílùshang", "gl": "along the way"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "吐槽", "py": "tǔcáo", "gl": "complain about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "杯", "py": "bēi", "gl": "glass (measure word)"},
+      {"zh": "18"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "，"},
+      {"zh": "讲解", "py": "jiǎngjiě", "gl": "explain"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "医疗", "py": "yīliáo", "gl": "medical"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "actually"},
+      {"zh": "保", "py": "bǎo", "gl": "cover"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "爬上", "py": "páshang", "gl": "climb up"},
+      {"zh": "梯子", "py": "tīzi", "gl": "ladder"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "妈妈", "py": "māma", "gl": "mom"},
+      {"zh": "清理", "py": "qīnglǐ", "gl": "clean out"},
+      {"zh": "屋檐", "py": "wūyán", "gl": "eaves"},
+      {"zh": "排水槽", "py": "páishuǐcáo", "gl": "gutter"},
+      {"zh": "。"}
+     ],
+     "start": 30.96,
+     "end": 44.97
+    },
+    {
+     "id": "s005",
+     "zh": "他说，这期节目就是一份“旅行反面教材”。",
+     "en": "He says this episode is a \"how not to travel\" lesson.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "issue; episode (measure word)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "份", "py": "fèn", "gl": "(measure word)"},
+      {"zh": "“"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "反面教材", "py": "fǎnmiànjiàocái", "gl": "negative example"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 45.74,
+     "end": 51.19
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "多伦多安检与那瓶水",
+     "en": "Toronto Airport Security and That Bottle of Water",
+     "segments": [
+      {"zh": "多伦多", "py": "Duōlúnduō", "gl": "Toronto"},
+      {"zh": "安检", "py": "ānjiǎn", "gl": "security check"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "瓶", "py": "píng", "gl": "(bottle measure word)"},
+      {"zh": "水", "py": "shuǐ", "gl": "water"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "史蒂文已经网上值机，只带随身行李，本以为这趟路会很轻松。",
+     "en": "Steven had already checked in online and was only bringing carry-on luggage, so he expected the trip to be easy.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "网上", "py": "wǎngshàng", "gl": "online"},
+      {"zh": "值机", "py": "zhíjī", "gl": "check in (flight)"},
+      {"zh": "，"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "带", "py": "dài", "gl": "bring"},
+      {"zh": "随身", "py": "suíshēn", "gl": "carry-on"},
+      {"zh": "行李", "py": "xíngli", "gl": "luggage"},
+      {"zh": "，"},
+      {"zh": "本以为", "py": "běnyǐwéi", "gl": "had expected"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "趟", "py": "tàng", "gl": "(trip measure word)"},
+      {"zh": "路", "py": "lù", "gl": "journey"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "轻松", "py": "qīngsōng", "gl": "easy, relaxed"},
+      {"zh": "。"}
+     ],
+     "start": 55.66,
+     "end": 62.63
+    },
+    {
+     "id": "s008",
+     "zh": "多伦多机场换了新式扫描仪，东西都不用拿出来。",
+     "en": "Toronto airport had new scanners, so you didn't have to take anything out of your bag.",
+     "segments": [
+      {"zh": "多伦多", "py": "Duōlúnduō", "gl": "Toronto"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "换", "py": "huàn", "gl": "switch to"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "新式", "py": "xīnshì", "gl": "new-style"},
+      {"zh": "扫描仪", "py": "sǎomiáoyí", "gl": "scanner"},
+      {"zh": "，"},
+      {"zh": "东西", "py": "dōngxi", "gl": "things"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "不用", "py": "búyòng", "gl": "don't need to"},
+      {"zh": "拿出来", "py": "náchūlai", "gl": "take out"},
+      {"zh": "。"}
+     ],
+     "start": 63.12,
+     "end": 69.15
+    },
+    {
+     "id": "s009",
+     "zh": "可他的背包还是被拦下了，原因是里面有半瓶没喝完的水。",
+     "en": "But his backpack was still stopped, because it had half a bottle of unfinished water inside.",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "背包", "py": "bēibāo", "gl": "backpack"},
+      {"zh": "还是", "py": "háishi", "gl": "still"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "拦下", "py": "lánxià", "gl": "stop, hold back"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "原因", "py": "yuányīn", "gl": "reason"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "里面", "py": "lǐmiàn", "gl": "inside"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "半", "py": "bàn", "gl": "half"},
+      {"zh": "瓶", "py": "píng", "gl": "bottle"},
+      {"zh": "没", "py": "méi", "gl": "not"},
+      {"zh": "喝完", "py": "hēwán", "gl": "finish drinking"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "水", "py": "shuǐ", "gl": "water"},
+      {"zh": "。"}
+     ],
+     "start": 69.6,
+     "end": 76.37
+    },
+    {
+     "id": "s010",
+     "zh": "工作人员不许他在原地喝掉，他只好走出安检区喝完，再重新排队。",
+     "en": "The staff wouldn't let him drink it on the spot, so he had to leave the security area to finish it and then line up again.",
+     "segments": [
+      {"zh": "工作人员", "py": "gōngzuò rényuán", "gl": "staff"},
+      {"zh": "不许", "py": "bùxǔ", "gl": "not allow"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "原地", "py": "yuándì", "gl": "the spot"},
+      {"zh": "喝掉", "py": "hēdiào", "gl": "drink up"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "只好", "py": "zhǐhǎo", "gl": "had no choice but"},
+      {"zh": "走出", "py": "zǒuchū", "gl": "walk out of"},
+      {"zh": "安检区", "py": "ānjiǎnqū", "gl": "security area"},
+      {"zh": "喝完", "py": "hēwán", "gl": "finish drinking"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "重新", "py": "chóngxīn", "gl": "again"},
+      {"zh": "排队", "py": "páiduì", "gl": "line up"},
+      {"zh": "。"}
+     ],
+     "start": 77.08,
+     "end": 83.59
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s011",
+     "zh": "他照做了，一半是为了较真，一半是“为了做节目”。",
+     "en": "He did as told, half out of stubbornness and half \"for the show.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "照做", "py": "zhàozuò", "gl": "do as told"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "一半", "py": "yíbàn", "gl": "half"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "为了", "py": "wèile", "gl": "for the sake of"},
+      {"zh": "较真", "py": "jiàozhēn", "gl": "being stubborn"},
+      {"zh": "，"},
+      {"zh": "一半", "py": "yíbàn", "gl": "half"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "为了", "py": "wèile", "gl": "for"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "节目", "py": "jiémù", "gl": "the show"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 85.98,
+     "end": 92.31
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "第二次过检时，金属探测器先因为腰带响了，又因为一袋准备在温莎坐公交的硬币响了。",
+     "en": "The second time through security, the metal detector went off first because of his belt, and then because of a bag of coins he'd brought for the bus in Windsor.",
+     "segments": [
+      {"zh": "第二次", "py": "dì'èrcì", "gl": "the second time"},
+      {"zh": "过检", "py": "guòjiǎn", "gl": "go through security"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "金属", "py": "jīnshǔ", "gl": "metal"},
+      {"zh": "探测器", "py": "tàncèqì", "gl": "detector"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because of"},
+      {"zh": "腰带", "py": "yāodài", "gl": "belt"},
+      {"zh": "响", "py": "xiǎng", "gl": "beep, go off"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "then again"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because of"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "袋", "py": "dài", "gl": "bag"},
+      {"zh": "准备", "py": "zhǔnbèi", "gl": "intended"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "温莎", "py": "Wēnshā", "gl": "Windsor"},
+      {"zh": "坐", "py": "zuò", "gl": "take (a vehicle)"},
+      {"zh": "公交", "py": "gōngjiāo", "gl": "bus"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "硬币", "py": "yìngbì", "gl": "coins"},
+      {"zh": "响", "py": "xiǎng", "gl": "beep, go off"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 92.86,
+     "end": 103.09
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "响第三声之后，他被“随机抽中”，接受了搜身。",
+     "en": "After the third beep, he was \"randomly selected\" and given a pat-down.",
+     "segments": [
+      {"zh": "响", "py": "xiǎng", "gl": "beep"},
+      {"zh": "第三", "py": "dì-sān", "gl": "third"},
+      {"zh": "声", "py": "shēng", "gl": "(sound measure word)"},
+      {"zh": "之后", "py": "zhīhòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "“"},
+      {"zh": "随机", "py": "suíjī", "gl": "randomly"},
+      {"zh": "抽中", "py": "chōuzhòng", "gl": "selected"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "接受", "py": "jiēshòu", "gl": "undergo"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "搜身", "py": "sōushēn", "gl": "pat-down"},
+      {"zh": "。"}
+     ],
+     "start": 104.0,
+     "end": 109.06
+    },
+    {
+     "id": "s014",
+     "zh": "“还真巧啊。”",
+     "en": "\"What a coincidence.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "还", "py": "hái", "gl": "(emphasis)"},
+      {"zh": "真", "py": "zhēn", "gl": "really"},
+      {"zh": "巧", "py": "qiǎo", "gl": "coincidental"},
+      {"zh": "啊", "py": "a", "gl": "(exclamation)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 109.06,
+     "end": 110.9
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "他承认，当初直接把水倒掉就好了：“上坡难走，过河更难。”",
+     "en": "He admits he should have just poured the water out in the first place: \"Going uphill is hard, but crossing the river is even harder.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "，"},
+      {"zh": "当初", "py": "dāngchū", "gl": "in the first place"},
+      {"zh": "直接", "py": "zhíjiē", "gl": "just, directly"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "水", "py": "shuǐ", "gl": "water"},
+      {"zh": "倒掉", "py": "dàodiào", "gl": "pour out"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "好", "py": "hǎo", "gl": "fine"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "上坡", "py": "shàngpō", "gl": "going uphill"},
+      {"zh": "难走", "py": "nánzǒu", "gl": "hard going"},
+      {"zh": "，"},
+      {"zh": "过河", "py": "guòhé", "gl": "crossing a river"},
+      {"zh": "更", "py": "gèng", "gl": "even more"},
+      {"zh": "难", "py": "nán", "gl": "difficult"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 110.9,
+     "end": 118.85
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "18加元的啤酒与小费之争",
+     "en": "The $18 beer and the fight over tipping",
+     "segments": [
+      {"zh": "18"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "小费", "py": "xiǎofèi", "gl": "tip"},
+      {"zh": "之争", "py": "zhīzhēng", "gl": "dispute over"}
+     ],
+     "start": 120.3,
+     "end": 122.25
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "在机场酒吧，一品脱啤酒税前就要18加元。",
+     "en": "At an airport bar, a pint of beer costs 18 Canadian dollars before tax.",
+     "segments": [
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "酒吧", "py": "jiǔbā", "gl": "bar"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "品脱", "py": "pǐntuō", "gl": "pint"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "税前", "py": "shuìqián", "gl": "before tax"},
+      {"zh": "就", "py": "jiù", "gl": "already"},
+      {"zh": "要", "py": "yào", "gl": "costs"},
+      {"zh": "18"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "。"}
+     ],
+     "start": 122.86,
+     "end": 127.53
+    },
+    {
+     "id": "s018",
+     "zh": "他拒绝付18%的小费，认为老板应该给员工合理的工资，而不是把这笔钱“硬推”给顾客。",
+     "en": "He refuses to pay an 18% tip. He thinks owners should pay their staff fair wages instead of \"forcing\" that money onto customers.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "拒绝", "py": "jùjué", "gl": "refuses"},
+      {"zh": "付", "py": "fù", "gl": "pay"},
+      {"zh": "18"},
+      {"zh": "%"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "小费", "py": "xiǎofèi", "gl": "tip"},
+      {"zh": "，"},
+      {"zh": "认为", "py": "rènwéi", "gl": "thinks"},
+      {"zh": "老板", "py": "lǎobǎn", "gl": "boss, owner"},
+      {"zh": "应该", "py": "yīnggāi", "gl": "should"},
+      {"zh": "给", "py": "gěi", "gl": "give"},
+      {"zh": "员工", "py": "yuángōng", "gl": "employees"},
+      {"zh": "合理", "py": "hélǐ", "gl": "reasonable"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "工资", "py": "gōngzī", "gl": "wages"},
+      {"zh": "，"},
+      {"zh": "而不是", "py": "ér búshì", "gl": "rather than"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "笔", "py": "bǐ", "gl": "(measure word: sum)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "“"},
+      {"zh": "硬推", "py": "yìngtuī", "gl": "force, push"},
+      {"zh": "”"},
+      {"zh": "给", "py": "gěi", "gl": "onto"},
+      {"zh": "顾客", "py": "gùkè", "gl": "customers"},
+      {"zh": "。"}
+     ],
+     "start": 128.84,
+     "end": 138.92
+    },
+    {
+     "id": "s019",
+     "zh": "他还纳闷：机场为什么不用机器倒啤酒，再把价格砍一半呢？",
+     "en": "He also wonders why airports don't use machines to pour beer and cut the price in half.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "纳闷", "py": "nàmèn", "gl": "wonders"},
+      {"zh": "："},
+      {"zh": "机场", "py": "jīchǎng", "gl": "airport"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不用", "py": "búyòng", "gl": "not use"},
+      {"zh": "机器", "py": "jīqì", "gl": "machines"},
+      {"zh": "倒", "py": "dào", "gl": "pour"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "砍", "py": "kǎn", "gl": "cut"},
+      {"zh": "一半", "py": "yíbàn", "gl": "in half"},
+      {"zh": "呢", "py": "ne", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 138.92,
+     "end": 145.82
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s020",
+     "zh": "被迫托运的行李与坏掉的拉链",
+     "en": "Forced to check his bag, and a broken zipper",
+     "segments": [
+      {"zh": "被迫", "py": "bèipò", "gl": "forced to"},
+      {"zh": "托运", "py": "tuōyùn", "gl": "check (luggage)"},
+      {"zh": "的", "py": "de", "gl": "(possessive/modifier)"},
+      {"zh": "行李", "py": "xíngli", "gl": "luggage"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "坏掉", "py": "huàidiào", "gl": "broken"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "拉链", "py": "lāliàn", "gl": "zipper"}
+     ],
+     "start": 145.82,
+     "end": 149.35
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s021",
+     "zh": "他在App里说过愿意托运随身箱。",
+     "en": "In the app, he had said he was willing to check his carry-on.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "App"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "be willing"},
+      {"zh": "托运", "py": "tuōyùn", "gl": "check (luggage)"},
+      {"zh": "随身箱", "py": "suíshēnxiāng", "gl": "carry-on suitcase"},
+      {"zh": "。"}
+     ],
+     "start": 150.0,
+     "end": 153.43
+    },
+    {
+     "id": "s022",
+     "zh": "到了登机口，一位“脾气很臭”的加拿大航空工作人员却说，航班“相当满”，他必须托运。",
+     "en": "But at the gate, a \"really grumpy\" Air Canada employee said the flight was \"pretty full\" and he had to check it.",
+     "segments": [
+      {"zh": "到", "py": "dào", "gl": "arrive at"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "登机口", "py": "dēngjīkǒu", "gl": "boarding gate"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "“"},
+      {"zh": "脾气", "py": "píqi", "gl": "temper"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "臭", "py": "chòu", "gl": "bad, nasty"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "加拿大航空", "py": "Jiānádà Hángkōng", "gl": "Air Canada"},
+      {"zh": "工作人员", "py": "gōngzuò rényuán", "gl": "staff member"},
+      {"zh": "却", "py": "què", "gl": "but, however"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "航班", "py": "hángbān", "gl": "flight"},
+      {"zh": "“"},
+      {"zh": "相当", "py": "xiāngdāng", "gl": "quite"},
+      {"zh": "满", "py": "mǎn", "gl": "full"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "必须", "py": "bìxū", "gl": "must"},
+      {"zh": "托运", "py": "tuōyùn", "gl": "check (luggage)"},
+      {"zh": "。"}
+     ],
+     "start": 154.28,
+     "end": 165.09
+    },
+    {
+     "id": "s023",
+     "zh": "结果上了飞机，后半个机舱几乎是空的。",
+     "en": "Then, once he got on the plane, the back half of the cabin was almost empty.",
+     "segments": [
+      {"zh": "结果", "py": "jiéguǒ", "gl": "as it turned out"},
+      {"zh": "上", "py": "shàng", "gl": "board"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "飞机", "py": "fēijī", "gl": "plane"},
+      {"zh": "，"},
+      {"zh": "后半", "py": "hòubàn", "gl": "back half"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "机舱", "py": "jīcāng", "gl": "cabin"},
+      {"zh": "几乎", "py": "jīhū", "gl": "almost"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "空", "py": "kōng", "gl": "empty"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "。"}
+     ],
+     "start": 165.58,
+     "end": 170.22
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s024",
+     "zh": "他匆忙把电池转移到背包里，行李箱拉链被卡住，当场断了。",
+     "en": "He hurriedly moved his batteries into his backpack, and the suitcase zipper got stuck and broke right there.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "匆忙", "py": "cōngmáng", "gl": "hurriedly"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "电池", "py": "diànchí", "gl": "batteries"},
+      {"zh": "转移", "py": "zhuǎnyí", "gl": "move, transfer"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "背包", "py": "bēibāo", "gl": "backpack"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "，"},
+      {"zh": "行李箱", "py": "xínglixiāng", "gl": "suitcase"},
+      {"zh": "拉链", "py": "lāliàn", "gl": "zipper"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "卡住", "py": "qiǎzhù", "gl": "get stuck"},
+      {"zh": "，"},
+      {"zh": "当场", "py": "dāngchǎng", "gl": "on the spot"},
+      {"zh": "断", "py": "duàn", "gl": "break"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 170.22,
+     "end": 178.51
+    },
+    {
+     "id": "s025",
+     "zh": "这条拉链同时是箱子自带的锁，现在箱子再也锁不上了。",
+     "en": "The zipper was also the suitcase's built-in lock, so now the suitcase can't be locked anymore.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word)"},
+      {"zh": "拉链", "py": "lāliàn", "gl": "zipper"},
+      {"zh": "同时", "py": "tóngshí", "gl": "also, at the same time"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "箱子", "py": "xiāngzi", "gl": "suitcase"},
+      {"zh": "自带", "py": "zìdài", "gl": "built-in"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "锁", "py": "suǒ", "gl": "lock"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "箱子", "py": "xiāngzi", "gl": "suitcase"},
+      {"zh": "再也", "py": "zàiyě", "gl": "(not) anymore"},
+      {"zh": "锁不上", "py": "suǒbushàng", "gl": "can't be locked"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 178.92,
+     "end": 186.31
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "他立刻投诉，并拍了照片。",
+     "en": "He complained right away and took photos.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "立刻", "py": "lìkè", "gl": "immediately"},
+      {"zh": "投诉", "py": "tóusù", "gl": "complain"},
+      {"zh": "，"},
+      {"zh": "并", "py": "bìng", "gl": "and also"},
+      {"zh": "拍", "py": "pāi", "gl": "take (photo)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "照片", "py": "zhàopiàn", "gl": "photos"},
+      {"zh": "。"}
+     ],
+     "start": 186.66,
+     "end": 190.39
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s027",
+     "zh": "到了温尼伯，工作人员说，拉链坏了算不上真正的“损坏”。",
+     "en": "When he got to Winnipeg, the staff said a broken zipper doesn't count as real \"damage.\"",
+     "segments": [
+      {"zh": "到", "py": "dào", "gl": "arrive at"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "温尼伯", "py": "Wēnníbó", "gl": "Winnipeg"},
+      {"zh": "，"},
+      {"zh": "工作人员", "py": "gōngzuò rényuán", "gl": "staff"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "拉链", "py": "lāliàn", "gl": "zipper"},
+      {"zh": "坏", "py": "huài", "gl": "break"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "算不上", "py": "suànbushàng", "gl": "doesn't count as"},
+      {"zh": "真正", "py": "zhēnzhèng", "gl": "real"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "“"},
+      {"zh": "损坏", "py": "sǔnhuài", "gl": "damage"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 190.92,
+     "end": 197.91
+    },
+    {
+     "id": "s028",
+     "zh": "史蒂文回敬：这是因为你们的要求才坏的。",
+     "en": "Steve shot back: it broke because of your requirement.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steve(n)"},
+      {"zh": "回敬", "py": "huíjìng", "gl": "retort"},
+      {"zh": "："},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because of"},
+      {"zh": "你们", "py": "nǐmen", "gl": "you (plural)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "要求", "py": "yāoqiú", "gl": "requirement"},
+      {"zh": "才", "py": "cái", "gl": "only then"},
+      {"zh": "坏", "py": "huài", "gl": "break"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "。"}
+     ],
+     "start": 199.82,
+     "end": 204.75
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s029",
+     "zh": "他估计最多赔一两百加元，但他说：“我只是想留个记录。”",
+     "en": "He figures he'll get at most a hundred or two Canadian dollars in compensation, but he said, \"I just want it on record.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "估计", "py": "gūjì", "gl": "estimate"},
+      {"zh": "最多", "py": "zuìduō", "gl": "at most"},
+      {"zh": "赔", "py": "péi", "gl": "compensate"},
+      {"zh": "一两百", "py": "yìliǎngbǎi", "gl": "one or two hundred"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "just"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "留", "py": "liú", "gl": "leave, keep"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "记录", "py": "jìlù", "gl": "record"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 205.52,
+     "end": 211.92
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "航班上有咸脆饼干和一瓶Molson Canadian啤酒：“好，好，都齐了。”",
+     "en": "On the flight there were pretzels and a bottle of Molson Canadian beer: \"OK, OK, everything's here.\"",
+     "segments": [
+      {"zh": "航班", "py": "hángbān", "gl": "flight"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "咸脆", "py": "xiáncuì", "gl": "salty and crunchy"},
+      {"zh": "饼干", "py": "bǐnggān", "gl": "crackers"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "瓶", "py": "píng", "gl": "bottle"},
+      {"zh": "Molson Canadian"},
+      {"zh": "啤酒", "py": "píjiǔ", "gl": "beer"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "好", "py": "hǎo", "gl": "OK"},
+      {"zh": "，"},
+      {"zh": "好", "py": "hǎo", "gl": "OK"},
+      {"zh": "，"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "齐", "py": "qí", "gl": "complete"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 211.92,
+     "end": 220.44
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s031",
+     "zh": "行程紧凑，赶回中国",
+     "en": "A tight schedule: rushing back to China",
+     "segments": [
+      {"zh": "行程", "py": "xíngchéng", "gl": "itinerary"},
+      {"zh": "紧凑", "py": "jǐncòu", "gl": "tight, packed"},
+      {"zh": "，"},
+      {"zh": "赶回", "py": "gǎnhuí", "gl": "rush back to"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"}
+     ],
+     "start": 220.44,
+     "end": 223.55
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s032",
+     "zh": "史蒂文周六下午6点45分起飞，经温哥华转机，周一下午4点55分抵达北京，周二上午就要上第一节课。",
+     "en": "Steven takes off at 6:45 p.m. on Saturday, changes planes in Vancouver, lands in Beijing at 4:55 p.m. on Monday, and has to teach his first class on Tuesday morning.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "周六", "py": "zhōuliù", "gl": "Saturday"},
+      {"zh": "下午", "py": "xiàwǔ", "gl": "afternoon, p.m."},
+      {"zh": "6"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "45"},
+      {"zh": "分", "py": "fēn", "gl": "minutes"},
+      {"zh": "起飞", "py": "qǐfēi", "gl": "take off"},
+      {"zh": "，"},
+      {"zh": "经", "py": "jīng", "gl": "via"},
+      {"zh": "温哥华", "py": "Wēngēhuá", "gl": "Vancouver"},
+      {"zh": "转机", "py": "zhuǎnjī", "gl": "change planes"},
+      {"zh": "，"},
+      {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
+      {"zh": "下午", "py": "xiàwǔ", "gl": "afternoon, p.m."},
+      {"zh": "4"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "55"},
+      {"zh": "分", "py": "fēn", "gl": "minutes"},
+      {"zh": "抵达", "py": "dǐdá", "gl": "arrive at"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "，"},
+      {"zh": "周二", "py": "zhōu'èr", "gl": "Tuesday"},
+      {"zh": "上午", "py": "shàngwǔ", "gl": "morning"},
+      {"zh": "就要", "py": "jiùyào", "gl": "will already"},
+      {"zh": "上", "py": "shàng", "gl": "teach, attend"},
+      {"zh": "第一", "py": "dìyī", "gl": "first"},
+      {"zh": "节", "py": "jié", "gl": "(measure word: class)"},
+      {"zh": "课", "py": "kè", "gl": "class, lesson"},
+      {"zh": "。"}
+     ],
+     "start": 224.42,
+     "end": 236.97
+    },
+    {
+     "id": "s033",
+     "zh": "他从没去过那个封闭校区，还得自己找教室。",
+     "en": "He has never been to that closed-off campus, and he'll have to find the classroom on his own.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "从没", "py": "cóngméi", "gl": "never"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "那个", "py": "nàge", "gl": "that"},
+      {"zh": "封闭", "py": "fēngbì", "gl": "closed-off"},
+      {"zh": "校区", "py": "xiàoqū", "gl": "campus"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "得", "py": "děi", "gl": "have to"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "by himself"},
+      {"zh": "找", "py": "zhǎo", "gl": "find"},
+      {"zh": "教室", "py": "jiàoshì", "gl": "classroom"},
+      {"zh": "。"}
+     ],
+     "start": 237.24,
+     "end": 241.61
+    },
+    {
+     "id": "s034",
+     "zh": "不过备课是他最不担心的事，因为他花了几个月编写自己的教材，为的是有朝一日把工作搬到线上，不再被签证问题牵着走。",
+     "en": "Still, preparing lessons is the least of his worries, because he has spent months writing his own teaching materials so that one day he can move his work online and no longer be at the mercy of visa issues.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "however, still"},
+      {"zh": "备课", "py": "bèikè", "gl": "prepare lessons"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "担心", "py": "dānxīn", "gl": "worry about"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "事", "py": "shì", "gl": "thing, matter"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "几", "py": "jǐ", "gl": "several"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "months"},
+      {"zh": "编写", "py": "biānxiě", "gl": "write, compile"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "his own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "教材", "py": "jiàocái", "gl": "teaching materials"},
+      {"zh": "，"},
+      {"zh": "为的是", "py": "wèi de shì", "gl": "in order to"},
+      {"zh": "有朝一日", "py": "yǒuzhāoyírì", "gl": "someday"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "搬到", "py": "bāndào", "gl": "move to"},
+      {"zh": "线上", "py": "xiànshàng", "gl": "online"},
+      {"zh": "，"},
+      {"zh": "不再", "py": "búzài", "gl": "no longer"},
+      {"zh": "被", "py": "bèi", "gl": "(passive) by"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "问题", "py": "wèntí", "gl": "issues"},
+      {"zh": "牵着走", "py": "qiānzhezǒu", "gl": "led around"},
+      {"zh": "。"}
+     ],
+     "start": 242.58,
+     "end": 257.69
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s035",
+     "zh": "三万英尺高空看《毒枭》",
+     "en": "Watching Narcos at thirty thousand feet",
+     "segments": [
+      {"zh": "三万", "py": "sānwàn", "gl": "thirty thousand"},
+      {"zh": "英尺", "py": "yīngchǐ", "gl": "feet"},
+      {"zh": "高空", "py": "gāokōng", "gl": "high altitude"},
+      {"zh": "看", "py": "kàn", "gl": "watch"},
+      {"zh": "《"},
+      {"zh": "毒枭", "py": "Dúxiāo", "gl": "Narcos (drug lord)"},
+      {"zh": "》"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s036",
+     "zh": "这架飞机没有座椅屏幕，也没有电源插座，他只好用笔记本电脑给iPhone充电。",
+     "en": "This plane had no seatback screens and no power outlets, so he had to charge his iPhone with his laptop.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "架", "py": "jià", "gl": "(measure word for planes)"},
+      {"zh": "飞机", "py": "fēijī", "gl": "plane"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
+      {"zh": "座椅", "py": "zuòyǐ", "gl": "seat"},
+      {"zh": "屏幕", "py": "píngmù", "gl": "screen"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
+      {"zh": "电源", "py": "diànyuán", "gl": "power supply"},
+      {"zh": "插座", "py": "chāzuò", "gl": "socket"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "只好", "py": "zhǐhǎo", "gl": "had no choice but"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "笔记本", "py": "bǐjìběn", "gl": "notebook (laptop)"},
+      {"zh": "电脑", "py": "diànnǎo", "gl": "computer"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "iPhone"},
+      {"zh": "充电", "py": "chōngdiàn", "gl": "charge"},
+      {"zh": "。"}
+     ],
+     "start": 261.54,
+     "end": 270.69
+    },
+    {
+     "id": "s037",
+     "zh": "他看了一集半讲帕布罗·埃斯科瓦尔的《毒枭》（Narcos），评价是“一部引人入胜的剧”。",
+     "en": "He watched an episode and a half of Narcos, the show about Pablo Escobar, and called it \"a gripping show.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "看", "py": "kàn", "gl": "watch"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "集", "py": "jí", "gl": "episode"},
+      {"zh": "半", "py": "bàn", "gl": "and a half"},
+      {"zh": "讲", "py": "jiǎng", "gl": "about"},
+      {"zh": "帕布罗", "py": "Pàbùluó", "gl": "Pablo"},
+      {"zh": "·"},
+      {"zh": "埃斯科瓦尔", "py": "Āisīkēwǎ'ěr", "gl": "Escobar"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "《"},
+      {"zh": "毒枭", "py": "Dúxiāo", "gl": "Narcos (drug lord)"},
+      {"zh": "》"},
+      {"zh": "（"},
+      {"zh": "Narcos"},
+      {"zh": "）"},
+      {"zh": "，"},
+      {"zh": "评价", "py": "píngjià", "gl": "assessment"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "部", "py": "bù", "gl": "(measure word for shows)"},
+      {"zh": "引人入胜", "py": "yǐnrénrùshèng", "gl": "gripping"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "剧", "py": "jù", "gl": "show"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 271.04,
+     "end": 280.06
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "旅行中的“千万别”",
+     "en": "Travel \"Don'ts\"",
+     "segments": [
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "中", "py": "zhōng", "gl": "during"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "“"},
+      {"zh": "千万", "py": "qiānwàn", "gl": "by all means"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "”"}
+     ],
+     "start": 280.06,
+     "end": 282.54
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s039",
+     "zh": "他猜家人会说：“哎呀，史蒂夫，不就是个拉链坏了嘛。”",
+     "en": "He guesses his family would say, \"Oh come on, Steve, it's just a broken zipper.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "猜", "py": "cāi", "gl": "guesses"},
+      {"zh": "家人", "py": "jiārén", "gl": "family"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "哎呀", "py": "āiyā", "gl": "oh come on"},
+      {"zh": "，"},
+      {"zh": "史蒂夫", "py": "Shǐdìfū", "gl": "Steve"},
+      {"zh": "，"},
+      {"zh": "不", "py": "bú", "gl": "isn't it"},
+      {"zh": "就是", "py": "jiùshì", "gl": "just"},
+      {"zh": "个", "py": "ge", "gl": "a"},
+      {"zh": "拉链", "py": "lāliàn", "gl": "zipper"},
+      {"zh": "坏", "py": "huài", "gl": "broken"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "嘛", "py": "ma", "gl": "(obviously)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 282.54,
+     "end": 289.26
+    },
+    {
+     "id": "s040",
+     "zh": "但他的看法是：据理力争有代价，任人摆布同样有代价。",
+     "en": "But his view is: standing up for yourself has a cost, and letting others push you around has a cost too.",
+     "segments": [
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "看法", "py": "kànfǎ", "gl": "view"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "据理力争", "py": "jùlǐ-lìzhēng", "gl": "argue one's case"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "代价", "py": "dàijià", "gl": "a cost"},
+      {"zh": "，"},
+      {"zh": "任人摆布", "py": "rènrén-bǎibù", "gl": "be pushed around"},
+      {"zh": "同样", "py": "tóngyàng", "gl": "equally"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "代价", "py": "dàijià", "gl": "a cost"},
+      {"zh": "。"}
+     ],
+     "start": 289.26,
+     "end": 296.57
+    },
+    {
+     "id": "s041",
+     "zh": "他本该对工作人员说，自己查过座位图，行李必须带在身边。",
+     "en": "He should have told the staff that he had checked the seat map and needed to keep his luggage with him.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "本该", "py": "běngāi", "gl": "should have"},
+      {"zh": "对", "py": "duì", "gl": "to"},
+      {"zh": "工作人员", "py": "gōngzuò rényuán", "gl": "staff"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "he himself"},
+      {"zh": "查", "py": "chá", "gl": "check"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "座位图", "py": "zuòwèitú", "gl": "seat map"},
+      {"zh": "，"},
+      {"zh": "行李", "py": "xíngli", "gl": "luggage"},
+      {"zh": "必须", "py": "bìxū", "gl": "must"},
+      {"zh": "带", "py": "dài", "gl": "keep"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "身边", "py": "shēnbiān", "gl": "one's side"},
+      {"zh": "。"}
+     ],
+     "start": 296.88,
+     "end": 304.63
+    },
+    {
+     "id": "s042",
+     "zh": "至于航空公司会不会给乘客记小本本，他不信：“拿出来给我看看。”",
+     "en": "As for whether airlines keep a blacklist of passengers, he doesn't buy it: \"Show it to me.\"",
+     "segments": [
+      {"zh": "至于", "py": "zhìyú", "gl": "as for"},
+      {"zh": "航空公司", "py": "hángkōng gōngsī", "gl": "airline"},
+      {"zh": "会不会", "py": "huìbuhuì", "gl": "whether would"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "乘客", "py": "chéngkè", "gl": "passengers"},
+      {"zh": "记", "py": "jì", "gl": "write down"},
+      {"zh": "小本本", "py": "xiǎoběnběn", "gl": "blacklist"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "信", "py": "xìn", "gl": "believe"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "拿出来", "py": "ná chūlai", "gl": "take out"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "看看", "py": "kànkan", "gl": "have a look"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 305.06,
+     "end": 313.33
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s043",
+     "zh": "温尼伯的杂事与倒时差计划",
+     "en": "Errands in Winnipeg and a plan for jet lag",
+     "segments": [
+      {"zh": "温尼伯", "py": "Wēnníbó", "gl": "Winnipeg"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "杂事", "py": "záshì", "gl": "errands"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "倒时差", "py": "dǎoshíchā", "gl": "adjust to jet lag"},
+      {"zh": "计划", "py": "jìhuà", "gl": "plan"}
+     ],
+     "start": 314.6,
+     "end": 317.05
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "他骑自行车跑腿办事：给帮自己拿到北京新工作的朋友买了雪茄，还买了万圣节“吻”形糖，“有点像中国的大白兔奶糖”。",
+     "en": "He rode his bike around running errands: he bought cigars for the friend who helped him get his new job in Beijing, and he also bought Halloween \"Kisses\" candy, \"kind of like China's White Rabbit candy.\"",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "骑", "py": "qí", "gl": "ride"},
+      {"zh": "自行车", "py": "zìxíngchē", "gl": "bicycle"},
+      {"zh": "跑腿", "py": "pǎotuǐ", "gl": "run errands"},
+      {"zh": "办事", "py": "bànshì", "gl": "take care of things"},
+      {"zh": "："},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "拿到", "py": "nádào", "gl": "get"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "job"},
+      {"zh": "的", "py": "de", "gl": "(relative clause marker)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "雪茄", "py": "xuějiā", "gl": "cigars"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "万圣节", "py": "Wànshèngjié", "gl": "Halloween"},
+      {"zh": "“"},
+      {"zh": "吻", "py": "wěn", "gl": "kiss"},
+      {"zh": "”"},
+      {"zh": "形", "py": "xíng", "gl": "-shaped"},
+      {"zh": "糖", "py": "táng", "gl": "candy"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "大白兔", "py": "Dàbáitù", "gl": "White Rabbit (brand)"},
+      {"zh": "奶糖", "py": "nǎitáng", "gl": "milk candy"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 317.34,
+     "end": 330.53
+    },
+    {
+     "id": "s045",
+     "zh": "他还得归还租了一周的麦克风。",
+     "en": "He also has to return the microphone he rented for a week.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "得", "py": "děi", "gl": "have to"},
+      {"zh": "归还", "py": "guīhuán", "gl": "return"},
+      {"zh": "租", "py": "zū", "gl": "rent"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "的", "py": "de", "gl": "(relative clause marker)"},
+      {"zh": "麦克风", "py": "màikèfēng", "gl": "microphone"},
+      {"zh": "。"}
+     ],
+     "start": 332.04,
+     "end": 335.23
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "他不担心时差，估计会在凌晨两三点醒来。",
+     "en": "He's not worried about jet lag and expects he'll wake up at two or three in the morning.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "担心", "py": "dānxīn", "gl": "worry about"},
+      {"zh": "时差", "py": "shíchā", "gl": "jet lag"},
+      {"zh": "，"},
+      {"zh": "估计", "py": "gūjì", "gl": "estimate, expect"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "凌晨", "py": "língchén", "gl": "early morning"},
+      {"zh": "两三", "py": "liǎngsān", "gl": "two or three"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "醒来", "py": "xǐnglái", "gl": "wake up"},
+      {"zh": "。"}
+     ],
+     "start": 335.58,
+     "end": 341.13
+    },
+    {
+     "id": "s047",
+     "zh": "温哥华到北京这条航线用的是梦想客机，“坐起来非常舒服”。",
+     "en": "The Vancouver–Beijing route uses the Dreamliner, which is \"really comfortable to fly in.\"",
+     "segments": [
+      {"zh": "温哥华", "py": "Wēngēhuá", "gl": "Vancouver"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word)"},
+      {"zh": "航线", "py": "hángxiàn", "gl": "flight route"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "梦想客机", "py": "Mèngxiǎng Kèjī", "gl": "Dreamliner"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "坐起来", "py": "zuòqilai", "gl": "to sit in"},
+      {"zh": "非常", "py": "fēicháng", "gl": "very"},
+      {"zh": "舒服", "py": "shūfu", "gl": "comfortable"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 342.68,
+     "end": 348.37
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "旅行保险与医疗保险",
+     "en": "Travel Insurance and Medical Insurance",
+     "segments": [
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "医疗", "py": "yīliáo", "gl": "medical"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"}
+     ],
+     "start": 348.7,
+     "end": 351.59
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s049",
+     "zh": "他坦白说，自己没买保险就进了美国。",
+     "en": "He admits that he entered the US without buying insurance.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "坦白", "py": "tǎnbái", "gl": "frankly; honestly"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "就", "py": "jiù", "gl": "then; just"},
+      {"zh": "进", "py": "jìn", "gl": "enter"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "美国", "py": "Měiguó", "gl": "the United States"},
+      {"zh": "。"}
+     ],
+     "start": 351.96,
+     "end": 356.83
+    },
+    {
+     "id": "s050",
+     "zh": "他平时用World Nomads，这家公司允许人上路后再投保，但现在有48小时等待期，而他一拖再拖。",
+     "en": "He usually uses World Nomads, a company that lets people buy coverage after they've already set off, but there's now a 48-hour waiting period, and he kept putting it off.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "平时", "py": "píngshí", "gl": "usually"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "World Nomads"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word for companies)"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "允许", "py": "yǔnxǔ", "gl": "allow"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "上路", "py": "shànglù", "gl": "set off; be on the road"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "投保", "py": "tóubǎo", "gl": "buy insurance"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "48"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "等待期", "py": "děngdàiqī", "gl": "waiting period"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "and yet"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "一拖再拖", "py": "yìtuōzàituō", "gl": "keep putting off"},
+      {"zh": "。"}
+     ],
+     "start": 357.2,
+     "end": 368.87
+    },
+    {
+     "id": "s051",
+     "zh": "他的建议是：",
+     "en": "His advice is:",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："}
+     ],
+     "start": 369.32,
+     "end": 370.56
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s052",
+     "zh": "出发前就买。",
+     "en": "Buy it before you leave.",
+     "segments": [
+      {"zh": "出发", "py": "chūfā", "gl": "set out; depart"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "就", "py": "jiù", "gl": "(emphasis: already)"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "。"}
+     ],
+     "start": 370.56,
+     "end": 372.48
+    },
+    {
+     "id": "s053",
+     "zh": "已经上路却不如实说明，保险可能被判无效。",
+     "en": "If you're already on the road and don't say so truthfully, your insurance may be ruled invalid.",
+     "segments": [
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "上路", "py": "shànglù", "gl": "be on the road"},
+      {"zh": "却", "py": "què", "gl": "but; yet"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "如实", "py": "rúshí", "gl": "truthfully"},
+      {"zh": "说明", "py": "shuōmíng", "gl": "state; explain"},
+      {"zh": "，"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "判", "py": "pàn", "gl": "be judged; ruled"},
+      {"zh": "无效", "py": "wúxiào", "gl": "invalid"},
+      {"zh": "。"}
+     ],
+     "start": 372.48,
+     "end": 377.67
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s054",
+     "zh": "美国尤其危险。",
+     "en": "The US is especially dangerous.",
+     "segments": [
+      {"zh": "美国", "py": "Měiguó", "gl": "the United States"},
+      {"zh": "尤其", "py": "yóuqí", "gl": "especially"},
+      {"zh": "危险", "py": "wēixiǎn", "gl": "dangerous"},
+      {"zh": "。"}
+     ],
+     "start": 378.24,
+     "end": 379.88
+    },
+    {
+     "id": "s055",
+     "zh": "“他们很乐意帮你，然后向你收费。”",
+     "en": "\"They're very happy to help you, and then they charge you for it.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "乐意", "py": "lèyì", "gl": "be happy to"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "，"},
+      {"zh": "然后", "py": "ránhòu", "gl": "then"},
+      {"zh": "向", "py": "xiàng", "gl": "to; toward"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "收费", "py": "shōufèi", "gl": "charge a fee"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 379.88,
+     "end": 384.31
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "信用卡通常只保旅行问题，比如行李和航班延误，一般不包医疗。",
+     "en": "Credit cards usually only cover travel problems, like luggage and flight delays, and generally don't cover medical care.",
+     "segments": [
+      {"zh": "信用卡", "py": "xìnyòngkǎ", "gl": "credit card"},
+      {"zh": "通常", "py": "tōngcháng", "gl": "usually"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "保", "py": "bǎo", "gl": "cover; insure"},
+      {"zh": "旅行", "py": "lǚxíng", "gl": "travel"},
+      {"zh": "问题", "py": "wèntí", "gl": "problems"},
+      {"zh": "，"},
+      {"zh": "比如", "py": "bǐrú", "gl": "for example"},
+      {"zh": "行李", "py": "xíngli", "gl": "luggage"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "航班", "py": "hángbān", "gl": "flight"},
+      {"zh": "延误", "py": "yánwù", "gl": "delay"},
+      {"zh": "，"},
+      {"zh": "一般", "py": "yìbān", "gl": "generally"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "包", "py": "bāo", "gl": "include; cover"},
+      {"zh": "医疗", "py": "yīliáo", "gl": "medical care"},
+      {"zh": "。"}
+     ],
+     "start": 384.6,
+     "end": 392.21
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "医疗保险更重要。",
+     "en": "Medical insurance is more important.",
+     "segments": [
+      {"zh": "医疗", "py": "yīliáo", "gl": "medical"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "重要", "py": "zhòngyào", "gl": "important"},
+      {"zh": "。"}
+     ],
+     "start": 392.66,
+     "end": 395.37
+    },
+    {
+     "id": "s058",
+     "zh": "“你的健康，远比行李箱里塞的那些东西重要。”",
+     "en": "\"Your health is far more important than the stuff crammed into your suitcase.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "健康", "py": "jiànkāng", "gl": "health"},
+      {"zh": "，"},
+      {"zh": "远", "py": "yuǎn", "gl": "far"},
+      {"zh": "比", "py": "bǐ", "gl": "than (comparison)"},
+      {"zh": "行李箱", "py": "xínglixiāng", "gl": "suitcase"},
+      {"zh": "里", "py": "lǐ", "gl": "inside"},
+      {"zh": "塞", "py": "sāi", "gl": "stuffed; crammed"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "那些", "py": "nàxiē", "gl": "those"},
+      {"zh": "东西", "py": "dōngxi", "gl": "things; stuff"},
+      {"zh": "重要", "py": "zhòngyào", "gl": "important"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 395.66,
+     "end": 400.79
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s059",
+     "zh": "信用卡要留足额度，因为往往得先垫付，事后再理赔。",
+     "en": "Keep enough room on your credit card, because you often have to pay up front and claim it back later.",
+     "segments": [
+      {"zh": "信用卡", "py": "xìnyòngkǎ", "gl": "credit card"},
+      {"zh": "要", "py": "yào", "gl": "should"},
+      {"zh": "留足", "py": "liúzú", "gl": "leave enough"},
+      {"zh": "额度", "py": "édù", "gl": "credit limit"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "往往", "py": "wǎngwǎng", "gl": "often"},
+      {"zh": "得", "py": "děi", "gl": "have to"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "垫付", "py": "diànfù", "gl": "pay in advance"},
+      {"zh": "，"},
+      {"zh": "事后", "py": "shìhòu", "gl": "afterwards"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "理赔", "py": "lǐpéi", "gl": "settle a claim"},
+      {"zh": "。"}
+     ],
+     "start": 401.52,
+     "end": 408.91
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s060",
+     "zh": "“男子汉”任务：清理屋檐排水槽",
+     "en": "A \"manly\" task: clearing out the roof gutters",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "男子汉", "py": "nánzǐhàn", "gl": "real man"},
+      {"zh": "”"},
+      {"zh": "任务", "py": "rènwu", "gl": "task"},
+      {"zh": "："},
+      {"zh": "清理", "py": "qīnglǐ", "gl": "clean out"},
+      {"zh": "屋檐", "py": "wūyán", "gl": "eaves"},
+      {"zh": "排水槽", "py": "páishuǐcáo", "gl": "gutter"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "两个月前，妈妈让他看看门廊上方的排水槽。",
+     "en": "Two months ago, his mom asked him to take a look at the gutter above the porch.",
+     "segments": [
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "，"},
+      {"zh": "妈妈", "py": "māma", "gl": "mom"},
+      {"zh": "让", "py": "ràng", "gl": "ask (someone to)"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "看看", "py": "kànkan", "gl": "take a look"},
+      {"zh": "门廊", "py": "ménláng", "gl": "porch"},
+      {"zh": "上方", "py": "shàngfāng", "gl": "above"},
+      {"zh": "的", "py": "de", "gl": "(possessive/attributive)"},
+      {"zh": "排水槽", "py": "páishuǐcáo", "gl": "gutter"},
+      {"zh": "。"}
+     ],
+     "start": 414.22,
+     "end": 418.51
+    },
+    {
+     "id": "s062",
+     "zh": "家里的梯子早就送人了，他便向一位六十多岁的邻居借了一把。",
+     "en": "The family ladder had been given away long ago, so he borrowed one from a neighbor in his sixties.",
+     "segments": [
+      {"zh": "家里", "py": "jiāli", "gl": "at home"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "梯子", "py": "tīzi", "gl": "ladder"},
+      {"zh": "早就", "py": "zǎojiù", "gl": "long ago"},
+      {"zh": "送人", "py": "sòngrén", "gl": "give away"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "便", "py": "biàn", "gl": "so, then"},
+      {"zh": "向", "py": "xiàng", "gl": "from"},
+      {"zh": "一位", "py": "yíwèi", "gl": "one (polite measure)"},
+      {"zh": "六十", "py": "liùshí", "gl": "sixty"},
+      {"zh": "多", "py": "duō", "gl": "more than"},
+      {"zh": "岁", "py": "suì", "gl": "years old"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "邻居", "py": "línjū", "gl": "neighbor"},
+      {"zh": "借", "py": "jiè", "gl": "borrow"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一把", "py": "yìbǎ", "gl": "one (for ladder)"},
+      {"zh": "。"}
+     ],
+     "start": 419.7,
+     "end": 426.39
+    },
+    {
+     "id": "s063",
+     "zh": "槽里塞满了树枝、落叶和瓦片掉下的颗粒。",
+     "en": "The gutter was packed with twigs, fallen leaves, and granules that had come off the shingles.",
+     "segments": [
+      {"zh": "槽", "py": "cáo", "gl": "gutter"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "塞满", "py": "sāimǎn", "gl": "stuffed full"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "树枝", "py": "shùzhī", "gl": "twigs"},
+      {"zh": "、"},
+      {"zh": "落叶", "py": "luòyè", "gl": "fallen leaves"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "瓦片", "py": "wǎpiàn", "gl": "shingles"},
+      {"zh": "掉下", "py": "diàoxià", "gl": "fall off"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "颗粒", "py": "kēlì", "gl": "granules"},
+      {"zh": "。"}
+     ],
+     "start": 427.4,
+     "end": 431.65
+    },
+    {
+     "id": "s064",
+     "zh": "他又挖、又冲、又敲，忙了大约一个小时。",
+     "en": "He dug, flushed, and banged away, keeping busy for about an hour.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "又", "py": "yòu", "gl": "both...and"},
+      {"zh": "挖", "py": "wā", "gl": "dig"},
+      {"zh": "、"},
+      {"zh": "又", "py": "yòu", "gl": "and also"},
+      {"zh": "冲", "py": "chōng", "gl": "flush"},
+      {"zh": "、"},
+      {"zh": "又", "py": "yòu", "gl": "and also"},
+      {"zh": "敲", "py": "qiāo", "gl": "knock, bang"},
+      {"zh": "，"},
+      {"zh": "忙", "py": "máng", "gl": "be busy"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "。"}
+     ],
+     "start": 431.84,
+     "end": 438.03
+    },
+    {
+     "id": "s065",
+     "zh": "事后：",
+     "en": "Afterwards:",
+     "segments": [
+      {"zh": "事后", "py": "shìhòu", "gl": "afterwards"},
+      {"zh": "："}
+     ],
+     "start": 438.56,
+     "end": 439.65
+    }
+   ]
+  },
+  {
+   "id": "p36",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s066",
+     "zh": "妈妈想起爸爸有一根能接水管的长杆，多半还在车库里。",
+     "en": "His mom remembered that his dad had a long pole that could attach to a hose, and it was probably still in the garage.",
+     "segments": [
+      {"zh": "妈妈", "py": "māma", "gl": "mom"},
+      {"zh": "想起", "py": "xiǎngqǐ", "gl": "remember"},
+      {"zh": "爸爸", "py": "bàba", "gl": "dad"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "一根", "py": "yìgēn", "gl": "one (long thin object)"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "接", "py": "jiē", "gl": "connect to"},
+      {"zh": "水管", "py": "shuǐguǎn", "gl": "hose"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "长杆", "py": "chánggān", "gl": "long pole"},
+      {"zh": "，"},
+      {"zh": "多半", "py": "duōbàn", "gl": "probably"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "be in"},
+      {"zh": "车库", "py": "chēkù", "gl": "garage"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "。"}
+     ],
+     "start": 439.74,
+     "end": 446.69
+    }
+   ]
+  },
+  {
+   "id": "p37",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s067",
+     "zh": "邻居说，他自己家的排水槽当天正请专业人员来清理。",
+     "en": "The neighbor said he was having professionals clean his own gutters that very day.",
+     "segments": [
+      {"zh": "邻居", "py": "línjū", "gl": "neighbor"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "own"},
+      {"zh": "家", "py": "jiā", "gl": "home"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "排水槽", "py": "páishuǐcáo", "gl": "gutter"},
+      {"zh": "当天", "py": "dàngtiān", "gl": "that same day"},
+      {"zh": "正", "py": "zhèng", "gl": "(in progress)"},
+      {"zh": "请", "py": "qǐng", "gl": "hire"},
+      {"zh": "专业", "py": "zhuānyè", "gl": "professional"},
+      {"zh": "人员", "py": "rényuán", "gl": "staff, people"},
+      {"zh": "来", "py": "lái", "gl": "(to do)"},
+      {"zh": "清理", "py": "qīnglǐ", "gl": "clean out"},
+      {"zh": "。"}
+     ],
+     "start": 447.04,
+     "end": 452.91
+    }
+   ]
+  },
+  {
+   "id": "p38",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s068",
+     "zh": "史蒂文觉得这活儿“特别解压”，还半认真地考虑过转行：专业清理一次大约200加元，而且不需要签证。",
+     "en": "Steve found the job \"really stress-relieving\" and half-seriously considered a career change: a professional cleaning costs about 200 Canadian dollars, and no visa required.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steve"},
+      {"zh": "觉得", "py": "juéde", "gl": "feel"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "活儿", "py": "huór", "gl": "job, work"},
+      {"zh": "“"},
+      {"zh": "特别", "py": "tèbié", "gl": "especially"},
+      {"zh": "解压", "py": "jiěyā", "gl": "stress-relieving"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "半", "py": "bàn", "gl": "half"},
+      {"zh": "认真", "py": "rènzhēn", "gl": "serious"},
+      {"zh": "地", "py": "de", "gl": "(adverb marker)"},
+      {"zh": "考虑", "py": "kǎolǜ", "gl": "consider"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "转行", "py": "zhuǎnháng", "gl": "change careers"},
+      {"zh": "："},
+      {"zh": "专业", "py": "zhuānyè", "gl": "professional"},
+      {"zh": "清理", "py": "qīnglǐ", "gl": "cleaning"},
+      {"zh": "一次", "py": "yícì", "gl": "once"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "200"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "，"},
+      {"zh": "而且", "py": "érqiě", "gl": "moreover"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "需要", "py": "xūyào", "gl": "need"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "。"}
+     ],
+     "start": 454.54,
+     "end": 465.93
+    },
+    {
+     "id": "s069",
+     "zh": "最后他想通了：英语可以晚点再教，梯子可不能爬一辈子。",
+     "en": "In the end he figured it out: English teaching can wait a bit, but you can't climb ladders your whole life.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "in the end"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "想通", "py": "xiǎngtōng", "gl": "figure out"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "："},
+      {"zh": "英语", "py": "Yīngyǔ", "gl": "English"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "晚点", "py": "wǎndiǎn", "gl": "a bit later"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "教", "py": "jiāo", "gl": "teach"},
+      {"zh": "，"},
+      {"zh": "梯子", "py": "tīzi", "gl": "ladder"},
+      {"zh": "可", "py": "kě", "gl": "(emphasis) but"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "爬", "py": "pá", "gl": "climb"},
+      {"zh": "一辈子", "py": "yíbèizi", "gl": "whole life"},
+      {"zh": "。"}
+     ],
+     "start": 466.42,
+     "end": 473.77
+    }
+   ]
+  },
+  {
+   "id": "p39",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s070",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 474.3,
+     "end": 475.73
+    }
+   ]
+  },
+  {
+   "id": "p40",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s071",
+     "zh": "水倒掉，查座位图，出发前买好医疗保险，有问题就留下记录。",
+     "en": "Pour out the water, check the seat map, buy medical insurance before you leave, and if there's a problem, keep a record of it.",
+     "segments": [
+      {"zh": "水", "py": "shuǐ", "gl": "water"},
+      {"zh": "倒掉", "py": "dàodiào", "gl": "pour out"},
+      {"zh": "，"},
+      {"zh": "查", "py": "chá", "gl": "check"},
+      {"zh": "座位图", "py": "zuòwèitú", "gl": "seat map"},
+      {"zh": "，"},
+      {"zh": "出发", "py": "chūfā", "gl": "set off"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "买好", "py": "mǎihǎo", "gl": "buy (in advance)"},
+      {"zh": "医疗", "py": "yīliáo", "gl": "medical"},
+      {"zh": "保险", "py": "bǎoxiǎn", "gl": "insurance"},
+      {"zh": "，"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "留下", "py": "liúxià", "gl": "leave; keep"},
+      {"zh": "记录", "py": "jìlù", "gl": "record"},
+      {"zh": "。"}
+     ],
+     "start": 476.36,
+     "end": 484.97
+    },
+    {
+     "id": "s072",
+     "zh": "还有，借邻居的梯子之前，先看看自家车库里有什么。",
+     "en": "Also, before borrowing your neighbor's ladder, first check what's in your own garage.",
+     "segments": [
+      {"zh": "还有", "py": "háiyǒu", "gl": "also"},
+      {"zh": "，"},
+      {"zh": "借", "py": "jiè", "gl": "borrow"},
+      {"zh": "邻居", "py": "línjū", "gl": "neighbor"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "梯子", "py": "tīzi", "gl": "ladder"},
+      {"zh": "之前", "py": "zhīqián", "gl": "before"},
+      {"zh": "，"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "看看", "py": "kànkan", "gl": "take a look"},
+      {"zh": "自家", "py": "zìjiā", "gl": "one's own"},
+      {"zh": "车库", "py": "chēkù", "gl": "garage"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "。"}
+     ],
+     "start": 485.46,
+     "end": 492.51
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "安检", "py": "ānjiǎn", "en": "security screening"},
+  {"zh": "搜身", "py": "sōushēn", "en": "pat-down / body search"},
+  {"zh": "小费", "py": "xiǎofèi", "en": "tip, gratuity"},
+  {"zh": "托运", "py": "tuōyùn", "en": "to check (baggage)"},
+  {"zh": "据理力争", "py": "jù lǐ lì zhēng", "en": "to argue strongly on solid grounds"},
+  {"zh": "任人摆布", "py": "rèn rén bǎibù", "en": "to let others push you around"},
+  {"zh": "理赔", "py": "lǐpéi", "en": "to claim compensation (insurance)"},
+  {"zh": "垫付", "py": "diànfù", "en": "to pay up front on someone's behalf"},
+  {"zh": "时差", "py": "shíchā", "en": "jet lag / time difference"},
+  {"zh": "排水槽", "py": "páishuǐcáo", "en": "eavestrough, gutter"}
+ ]
+}

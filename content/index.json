@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:11",
+ "updated": "2026-10-12T18:54",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -39,6 +39,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-09",
+   "date": "2026-09-09",
+   "title": "The Trip Home That Started With Half a Bottle of Water",
+   "titleZh": "半瓶水引发的回家路",
+   "description": "Steven flies home from Toronto to Winnipeg and runs into one problem after another: a security fight over half a bottle of water, an $18 airport beer, a forced bag check that ended in a broken zipper, and a hurried plan to get back to his job in Beijing. He also explains the difference between travel and medical insurance, and tells how he climbed a borrowed ladder to clear out his mom's eavestroughs.",
+   "duration": 493,
+   "chars": 1438,
    "hasAudio": true
   },
   {
