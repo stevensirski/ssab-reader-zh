@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T15:31",
+ "updated": "2026-10-12T16:11",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -39,6 +39,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-08",
+   "date": "2026-09-08",
+   "title": "Walking Across the Bridge, Farewell to America",
+   "titleZh": "步行过桥，告别美国",
+   "description": "Recording at Toronto Pearson Airport, Steven wraps up his 2026 summer road trip across America. He describes walking across the new Gordie Howe International Bridge into Canada and being searched by customs, looks back on Detroit and the Rust Belt, and explains why he still recommends visiting the US.",
+   "duration": 481,
+   "chars": 1444,
    "hasAudio": true
   },
   {
