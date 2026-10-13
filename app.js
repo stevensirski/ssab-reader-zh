@@ -296,7 +296,7 @@
     el.unavailable.hidden = true;
     el.controls.hidden = false;
     if (ep.audio.label) { el.note.textContent = ep.audio.label; el.note.hidden = false; }
-    audio.src = src; // preload=auto buffers in the background so Play starts at once; never autoplay
+    audio.src = src; // preload=metadata only; never autoplay
     audio.playbackRate = Number(el.speed.value);
     return true;
   }
@@ -344,6 +344,9 @@
     audio.play().catch(() => {});
   }
 
+  // start buffering only once the reader reaches for Play (hover, touch, keyboard focus), not on page load
+  const warmUp = () => { audio.preload = "auto"; };
+  ["pointerenter", "pointerdown", "focus"].forEach((t) => el.play.addEventListener(t, warmUp, { once: true }));
   el.play.addEventListener("click", () => {
     if (audio.paused) { stopAt = null; audio.play().catch(() => {}); } else audio.pause();
   });
