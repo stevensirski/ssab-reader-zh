@@ -296,7 +296,7 @@
     el.unavailable.hidden = true;
     el.controls.hidden = false;
     if (ep.audio.label) { el.note.textContent = ep.audio.label; el.note.hidden = false; }
-    audio.src = src; // preload=metadata only; never autoplay
+    audio.src = src; // preload=auto buffers in the background so Play starts at once; never autoplay
     audio.playbackRate = Number(el.speed.value);
     return true;
   }
@@ -357,14 +357,19 @@
   });
   audio.addEventListener("play", () => {
     el.play.classList.add("playing"); el.play.setAttribute("aria-label", "Pause");
+    if (audio.readyState < 3) el.play.classList.add("loading");
     cancelAnimationFrame(rafId); tick();
   });
+  // spinner while the browser is still fetching audio, so a tap never looks ignored
+  audio.addEventListener("waiting", () => { if (!audio.paused) el.play.classList.add("loading"); });
+  audio.addEventListener("playing", () => el.play.classList.remove("loading"));
   audio.addEventListener("pause", () => {
-    el.play.classList.remove("playing"); el.play.setAttribute("aria-label", "Play");
+    el.play.classList.remove("playing", "loading"); el.play.setAttribute("aria-label", "Play");
     cancelAnimationFrame(rafId); updateTime();
   });
   audio.addEventListener("ended", () => { stopAt = null; });
   audio.addEventListener("error", () => {
+    el.play.classList.remove("loading");
     if (!audio.getAttribute("src")) return;
     showUnavailable(": the audio file could not be loaded.");
   });

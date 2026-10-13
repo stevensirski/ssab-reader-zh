@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:51",
+ "updated": "2026-10-13T18:59",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -69,6 +69,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-16",
+   "date": "2026-09-16",
+   "title": "Office Hours and China's Blueberries",
+   "titleZh": "坐班答疑与中国蓝莓",
+   "description": "Jet-lagged and waiting on a takeout delivery, Steven talks about getting back to the gym, meeting his first classes at his new university, and a surprise in his contract: his office hours are monitored and averaged. He ends with a Wall Street Journal story on how China learned to grow blueberries and why they still cost so much there.",
+   "duration": 496,
+   "chars": 1430,
    "hasAudio": true
   },
   {
