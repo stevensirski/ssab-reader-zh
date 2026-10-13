@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:16",
+ "updated": "2026-10-13T08:32",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -19,6 +19,16 @@
    "description": "Back in Beijing after the National Day holiday, Steven talks about new classroom rules: students must record their group discussions and give two-minute talks instead of reading from their phones. He also covers the privacy costs of AI agents, his four-terminal editing setup, a possible October stock market drop and Facebook Muse.",
    "duration": 523,
    "chars": 1515,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-08",
+   "date": "2026-10-08",
+   "title": "A Smoggy Jog and the Decision to Make Fewer Videos",
+   "titleZh": "雾霾慢跑与少拍视频的决定",
+   "description": "Back in Beijing the day before returning to work, Steven runs through heavy smog, talks about heavy squats, his doubts about creatine and his caffeine rules, and takes an honest look at his weak video numbers and Xiaohongshu shadow bans. He also covers progress on his AI-powered language-learning project and three Chinese stocks he's watching after the National Day holiday.",
+   "duration": 489,
+   "chars": 1532,
    "hasAudio": true
   },
   {
