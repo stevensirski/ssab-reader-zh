@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T19:09",
+ "updated": "2026-10-13T08:16",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -39,6 +39,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-14",
+   "date": "2026-09-14",
+   "title": "Back in Beijing, Jet-Lagged",
+   "titleZh": "倒着时差回北京",
+   "description": "Jet-lagged and just off a 12-hour flight from Vancouver, Steven describes the trip back to Beijing: crammed luggage, a customs check, a stubborn headache, his new teaching job and his YouTube plans. He ends by asking whether he really wants to stay in China for the long term.",
+   "duration": 518,
+   "chars": 1504,
    "hasAudio": true
   },
   {
