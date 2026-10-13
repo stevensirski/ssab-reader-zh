@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T08:32",
+ "updated": "2026-10-13T08:51",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -29,6 +29,26 @@
    "description": "Back in Beijing the day before returning to work, Steven runs through heavy smog, talks about heavy squats, his doubts about creatine and his caffeine rules, and takes an honest look at his weak video numbers and Xiaohongshu shadow bans. He also covers progress on his AI-powered language-learning project and three Chinese stocks he's watching after the National Day holiday.",
    "duration": 489,
    "chars": 1532,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-07",
+   "date": "2026-10-07",
+   "title": "Rhinitis, Supplements and a Passport Video Post-Mortem",
+   "titleZh": "鼻炎、补剂与护照视频复盘",
+   "description": "Steven recovers from rhinitis and looks at how his \"Is a passport really necessary?\" video did across six platforms, where it earned 19 cents in total. He also explains why he's sticking with his online backup plan, corrects Xiaomi founder Lei Jun's name, and walks through his new supplement routine of red ginseng, pea protein and creatine.",
+   "duration": 464,
+   "chars": 1322,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-10-05",
+   "date": "2026-10-05",
+   "title": "A Golden Week Sunday Spent Wrestling with Local AI",
+   "titleZh": "国庆周日：折腾本地AI",
+   "description": "During the National Day holiday, Steven talks about microphone trouble, blue Beijing skies, a run and end-of-range squats. He then spends a Sunday building a mostly local AI workflow that might replace paid tools like Descript, and weighs its power against the privacy risks.",
+   "duration": 509,
+   "chars": 1407,
    "hasAudio": true
   },
   {
