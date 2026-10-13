@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-13T20:52",
+ "updated": "2026-10-13T23:24",
  "episodes": [
+  {
+   "id": "ssab-2026-10-13",
+   "date": "2026-10-13",
+   "title": "Chinese Podcast Site Launches: Is 4K Worth It?",
+   "titleZh": "中文版播客上线，4K值不值？",
+   "description": "Steven tests a three-way recording setup built around the Blackmagic Camera app, works out how much storage 4K video eats up, and launches a GitHub site that turns the podcast into Chinese reading material with an interactive reader. He also explains why he's not interested in the 'vibe-cloned' Adobe software going around this weekend.",
+   "duration": 554,
+   "chars": 1452,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-12",
    "date": "2026-10-12",
