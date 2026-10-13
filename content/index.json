@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T18:59",
+ "updated": "2026-10-13T19:13",
  "episodes": [
   {
    "id": "ssab-2026-10-12",
@@ -79,6 +79,16 @@
    "description": "Jet-lagged and waiting on a takeout delivery, Steven talks about getting back to the gym, meeting his first classes at his new university, and a surprise in his contract: his office hours are monitored and averaged. He ends with a Wall Street Journal story on how China learned to grow blueberries and why they still cost so much there.",
    "duration": 496,
    "chars": 1430,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-15",
+   "date": "2026-09-15",
+   "title": "First Day of Teaching in Beijing: Commuting by Bike",
+   "titleZh": "北京开学第一天：骑单车上班",
+   "description": "Jet-lagged and just back in Beijing, Steven describes his first day teaching at a university there: smaller classes, a Hellobike commute, office hours tracked by QR code, and exams designed so students can't lean on AI. He also explains why he's keeping teaching separate from his YouTube channel, and describes a blunt new sign in his building's stairwell.",
+   "duration": 506,
+   "chars": 1502,
    "hasAudio": true
   },
   {
