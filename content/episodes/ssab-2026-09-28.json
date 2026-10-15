@@ -1,0 +1,2076 @@
+{
+ "id": "ssab-2026-09-28",
+ "date": "2026-09-28",
+ "title": "Why Not Just Leave China?",
+ "titleZh": "为什么不干脆离开中国？",
+ "description": "After a former language partner moves to Shenzhen, Steven thinks about where he would go if he ever left Beijing, and walks through the practical realities of long-term life in China: whether a Chinese degree is worth it, Class A vs. B work visas, spouse visas, the Chinese green card, and an economist's advice to stay out of stocks. He also complains about QR-code office hours and answers people who ask why he doesn't just leave.",
+ "duration": 552,
+ "audio": {
+  "src": "audio/ssab-2026-09-28.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Quick Overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 16.94,
+     "end": 17.77
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天是周一，史蒂文心情有点感慨，也有点坐不住。",
+     "en": "It's Monday, and Steven is feeling a bit nostalgic, and a bit restless too.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "心情", "py": "xīnqíng", "gl": "mood"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "感慨", "py": "gǎnkǎi", "gl": "sentimental"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "坐不住", "py": "zuòbuzhù", "gl": "restless"},
+      {"zh": "。"}
+     ],
+     "start": 19.1,
+     "end": 26.12
+    },
+    {
+     "id": "s003",
+     "zh": "一位以前的语言伙伴搬去了深圳，让他不禁想：要是哪天离开北京，自己会去哪儿？",
+     "en": "A former language partner moved to Shenzhen, which got him wondering: if he ever left Beijing, where would he go?",
+     "segments": [
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(measure word, people)"},
+      {"zh": "以前", "py": "yǐqián", "gl": "former"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "语言", "py": "yǔyán", "gl": "language"},
+      {"zh": "伙伴", "py": "huǒbàn", "gl": "partner"},
+      {"zh": "搬", "py": "bān", "gl": "move"},
+      {"zh": "去", "py": "qù", "gl": "to"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "深圳", "py": "Shēnzhèn", "gl": "Shenzhen"},
+      {"zh": "，"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "不禁", "py": "bùjīn", "gl": "can't help"},
+      {"zh": "想", "py": "xiǎng", "gl": "think"},
+      {"zh": "："},
+      {"zh": "要是", "py": "yàoshi", "gl": "if"},
+      {"zh": "哪天", "py": "nǎtiān", "gl": "someday"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "，"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "哪儿", "py": "nǎr", "gl": "where"},
+      {"zh": "？"}
+     ],
+     "start": 26.12,
+     "end": 38.74
+    },
+    {
+     "id": "s004",
+     "zh": "接着，他聊到在中国生活的“硬核现实”：中文学位值不值钱，A类、B类签证有什么区别，配偶签证和中国绿卡怎么回事，还有一位经济学家劝他远离股市。",
+     "en": "Next, he talks about the \"hard realities\" of living in China: whether a Chinese degree is worth anything, the difference between A and B category visas, how spousal visas and Chinese green cards work, and an economist who advised him to stay away from the stock market.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "聊到", "py": "liáodào", "gl": "talk about"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "living"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "“"},
+      {"zh": "硬核", "py": "yìnghé", "gl": "hardcore"},
+      {"zh": "现实", "py": "xiànshí", "gl": "reality"},
+      {"zh": "”"},
+      {"zh": "："},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "学位", "py": "xuéwèi", "gl": "degree"},
+      {"zh": "值不值钱", "py": "zhíbuzhíqián", "gl": "worth anything or not"},
+      {"zh": "，"},
+      {"zh": "A"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "、"},
+      {"zh": "B"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "区别", "py": "qūbié", "gl": "difference"},
+      {"zh": "，"},
+      {"zh": "配偶", "py": "pèi'ǒu", "gl": "spouse"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "Chinese"},
+      {"zh": "绿卡", "py": "lǜkǎ", "gl": "green card"},
+      {"zh": "怎么回事", "py": "zěnmehuíshì", "gl": "what's the deal"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(measure word, people)"},
+      {"zh": "经济学家", "py": "jīngjìxuéjiā", "gl": "economist"},
+      {"zh": "劝", "py": "quàn", "gl": "advise"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "远离", "py": "yuǎnlí", "gl": "stay away from"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "。"}
+     ],
+     "start": 38.74,
+     "end": 60.87
+    },
+    {
+     "id": "s005",
+     "zh": "最后，他吐槽了扫二维码打卡的坐班时间，也回应了那些总问“你为什么不干脆离开”的人。",
+     "en": "Finally, he vents about office hours where you clock in by scanning a QR code, and responds to the people who keep asking \"Why don't you just leave?\"",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "吐槽", "py": "tǔcáo", "gl": "complain about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "扫", "py": "sǎo", "gl": "scan"},
+      {"zh": "二维码", "py": "èrwéimǎ", "gl": "QR code"},
+      {"zh": "打卡", "py": "dǎkǎ", "gl": "clock in"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "坐班", "py": "zuòbān", "gl": "office hours"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "回应", "py": "huíyìng", "gl": "respond to"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "那些", "py": "nàxiē", "gl": "those"},
+      {"zh": "总", "py": "zǒng", "gl": "always"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "干脆", "py": "gāncuì", "gl": "simply"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "。"}
+     ],
+     "start": 62.02,
+     "end": 73.69
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "老朋友南下深圳",
+     "en": "An old friend heads south to Shenzhen",
+     "segments": [
+      {"zh": "老朋友", "py": "lǎopéngyou", "gl": "old friend"},
+      {"zh": "南下", "py": "nánxià", "gl": "go south"},
+      {"zh": "深圳", "py": "Shēnzhèn", "gl": "Shenzhen"}
+     ],
+     "start": 74.18,
+     "end": 76.77
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s007",
+     "zh": "史蒂文以前的一位语言伙伴升了职，搬到深圳，还找了新男友。",
+     "en": "One of Steven's former language partners got a promotion, moved to Shenzhen, and found a new boyfriend.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "以前", "py": "yǐqián", "gl": "former"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "语言", "py": "yǔyán", "gl": "language"},
+      {"zh": "伙伴", "py": "huǒbàn", "gl": "partner"},
+      {"zh": "升", "py": "shēng", "gl": "rise; be promoted"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "职", "py": "zhí", "gl": "position"},
+      {"zh": "，"},
+      {"zh": "搬到", "py": "bāndào", "gl": "move to"},
+      {"zh": "深圳", "py": "Shēnzhèn", "gl": "Shenzhen"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "找", "py": "zhǎo", "gl": "find"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "男友", "py": "nányǒu", "gl": "boyfriend"},
+      {"zh": "。"}
+     ],
+     "start": 77.74,
+     "end": 85.35
+    },
+    {
+     "id": "s008",
+     "zh": "她说深圳更绿，但没有北京那么有历史味儿。",
+     "en": "She says Shenzhen is greener, but it doesn't have as much of a sense of history as Beijing.",
+     "segments": [
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "深圳", "py": "Shēnzhèn", "gl": "Shenzhen"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "绿", "py": "lǜ", "gl": "green"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not as … as"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "那么", "py": "nàme", "gl": "so; that much"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "味儿", "py": "wèir", "gl": "flavor; feel"},
+      {"zh": "。"}
+     ],
+     "start": 86.32,
+     "end": 91.03
+    },
+    {
+     "id": "s009",
+     "zh": "这让他浮想联翩：深圳离香港和广州都近；而从北京出发，附近只有朝鲜、韩国，以及飞三个小时就到的日本，不过那儿“贵得要命”。",
+     "en": "This set his mind wandering: Shenzhen is close to both Hong Kong and Guangzhou, while from Beijing the only places nearby are North Korea, South Korea, and Japan, just a three-hour flight away, but it's \"insanely expensive\" there.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "让", "py": "ràng", "gl": "make; cause"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "浮想联翩", "py": "fúxiǎngliánpiān", "gl": "let one's mind wander"},
+      {"zh": "："},
+      {"zh": "深圳", "py": "Shēnzhèn", "gl": "Shenzhen"},
+      {"zh": "离", "py": "lí", "gl": "from (distance)"},
+      {"zh": "香港", "py": "Xiānggǎng", "gl": "Hong Kong"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "广州", "py": "Guǎngzhōu", "gl": "Guangzhou"},
+      {"zh": "都", "py": "dōu", "gl": "both"},
+      {"zh": "近", "py": "jìn", "gl": "close"},
+      {"zh": "；"},
+      {"zh": "而", "py": "ér", "gl": "whereas"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "出发", "py": "chūfā", "gl": "set out"},
+      {"zh": "，"},
+      {"zh": "附近", "py": "fùjìn", "gl": "nearby"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "there are only"},
+      {"zh": "朝鲜", "py": "Cháoxiǎn", "gl": "North Korea"},
+      {"zh": "、"},
+      {"zh": "韩国", "py": "Hánguó", "gl": "South Korea"},
+      {"zh": "，"},
+      {"zh": "以及", "py": "yǐjí", "gl": "as well as"},
+      {"zh": "飞", "py": "fēi", "gl": "fly"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hour"},
+      {"zh": "就", "py": "jiù", "gl": "just; only"},
+      {"zh": "到", "py": "dào", "gl": "arrive"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "日本", "py": "Rìběn", "gl": "Japan"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "那儿", "py": "nàr", "gl": "there"},
+      {"zh": "“"},
+      {"zh": "贵", "py": "guì", "gl": "expensive"},
+      {"zh": "得", "py": "de", "gl": "(degree complement)"},
+      {"zh": "要命", "py": "yàomìng", "gl": "extremely"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 92.1,
+     "end": 110.53
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s010",
+     "zh": "可问题还在：“不在北京，不在中国，那去哪儿？”",
+     "en": "But the question remains: \"If not Beijing, and not China, then where?\"",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "问题", "py": "wèntí", "gl": "question"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "在", "py": "zài", "gl": "remain; exist"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "在", "py": "zài", "gl": "be in"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "，"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "在", "py": "zài", "gl": "be in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "，"},
+      {"zh": "那", "py": "nà", "gl": "then"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "哪儿", "py": "nǎr", "gl": "where"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 110.56,
+     "end": 117.73
+    },
+    {
+     "id": "s011",
+     "zh": "新雇主问他会待多久，他指指自己的中国女朋友：“她把我留在了这儿。”",
+     "en": "His new employer asked how long he would stay, and he pointed to his Chinese girlfriend: \"She's the one who's kept me here.\"",
+     "segments": [
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "雇主", "py": "gùzhǔ", "gl": "employer"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "待", "py": "dāi", "gl": "stay"},
+      {"zh": "多久", "py": "duōjiǔ", "gl": "how long"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "指指", "py": "zhǐzhi", "gl": "point at"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "Chinese"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "留", "py": "liú", "gl": "keep"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "这儿", "py": "zhèr", "gl": "here"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 118.0,
+     "end": 126.59
+    },
+    {
+     "id": "s012",
+     "zh": "同事请他推荐北京周边的好去处，他在这座城市住了十二年，回答却是：“我就待在家里，没了。”",
+     "en": "A coworker asked him to recommend good places to visit around Beijing, and although he's lived in the city for twelve years, his answer was: \"I just stay at home. That's it.\"",
+     "segments": [
+      {"zh": "同事", "py": "tóngshì", "gl": "coworker"},
+      {"zh": "请", "py": "qǐng", "gl": "ask"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "推荐", "py": "tuījiàn", "gl": "recommend"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "周边", "py": "zhōubiān", "gl": "surrounding area"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "去处", "py": "qùchù", "gl": "place to go"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word, cities)"},
+      {"zh": "城市", "py": "chéngshì", "gl": "city"},
+      {"zh": "住", "py": "zhù", "gl": "live"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "十二", "py": "shí'èr", "gl": "twelve"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "，"},
+      {"zh": "回答", "py": "huídá", "gl": "answer"},
+      {"zh": "却", "py": "què", "gl": "yet"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "就", "py": "jiù", "gl": "just"},
+      {"zh": "待", "py": "dāi", "gl": "stay"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "家里", "py": "jiālǐ", "gl": "home"},
+      {"zh": "，"},
+      {"zh": "没了", "py": "méile", "gl": "that's it"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 127.04,
+     "end": 138.7
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "读中国历史的同事",
+     "en": "The colleague who studied Chinese history",
+     "segments": [
+      {"zh": "读", "py": "dú", "gl": "study"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleague"}
+     ],
+     "start": 138.7,
+     "end": 141.13
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s014",
+     "zh": "新来的同事是个个子很高的英国小伙子，1999年出生，中文相当出色：",
+     "en": "The new colleague is a very tall young Englishman, born in 1999, whose Chinese is quite outstanding:",
+     "segments": [
+      {"zh": "新来", "py": "xīnlái", "gl": "newly arrived"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleague"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "个", "py": "ge", "gl": "a (measure word)"},
+      {"zh": "个子", "py": "gèzi", "gl": "height, stature"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "高", "py": "gāo", "gl": "tall"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "英国", "py": "Yīngguó", "gl": "British"},
+      {"zh": "小伙子", "py": "xiǎohuǒzi", "gl": "young man"},
+      {"zh": "，"},
+      {"zh": "1999"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "出生", "py": "chūshēng", "gl": "born"},
+      {"zh": "，"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "相当", "py": "xiāngdāng", "gl": "quite"},
+      {"zh": "出色", "py": "chūsè", "gl": "outstanding"},
+      {"zh": "："}
+     ],
+     "start": 142.18,
+     "end": 151.34
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "通过了HSK六级。",
+     "en": "He passed HSK Level 6.",
+     "segments": [
+      {"zh": "通过", "py": "tōngguò", "gl": "pass"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "HSK"},
+      {"zh": "六级", "py": "liùjí", "gl": "level six"},
+      {"zh": "。"}
+     ],
+     "start": 151.34,
+     "end": 154.06
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "在英国读了中国历史本科，又在台湾读了同专业的硕士，还拿到了奖学金。",
+     "en": "He did a bachelor's degree in Chinese history in the UK, then a master's in the same field in Taiwan, and he even got a scholarship.",
+     "segments": [
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "英国", "py": "Yīngguó", "gl": "the UK"},
+      {"zh": "读", "py": "dú", "gl": "study"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "本科", "py": "běnkē", "gl": "bachelor's degree"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "then also"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "台湾", "py": "Táiwān", "gl": "Taiwan"},
+      {"zh": "读", "py": "dú", "gl": "study"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "同", "py": "tóng", "gl": "same"},
+      {"zh": "专业", "py": "zhuānyè", "gl": "major, field"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "硕士", "py": "shuòshì", "gl": "master's degree"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also, even"},
+      {"zh": "拿到", "py": "nádào", "gl": "obtain"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "奖学金", "py": "jiǎngxuéjīn", "gl": "scholarship"},
+      {"zh": "。"}
+     ],
+     "start": 154.06,
+     "end": 163.65
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s017",
+     "zh": "他现在在大学里旁听马克思主义、中国历史和书法课。",
+     "en": "He is now auditing classes in Marxism, Chinese history and calligraphy at the university.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "大学", "py": "dàxué", "gl": "university"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "旁听", "py": "pángtīng", "gl": "audit (a class)"},
+      {"zh": "马克思主义", "py": "Mǎkèsīzhǔyì", "gl": "Marxism"},
+      {"zh": "、"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "书法", "py": "shūfǎ", "gl": "calligraphy"},
+      {"zh": "课", "py": "kè", "gl": "class"},
+      {"zh": "。"}
+     ],
+     "start": 164.34,
+     "end": 171.51
+    },
+    {
+     "id": "s018",
+     "zh": "连人事都承认，这些课上的学生不是在打游戏，就是在刷微信。",
+     "en": "Even HR admits that the students in these classes are either playing games or scrolling WeChat.",
+     "segments": [
+      {"zh": "连", "py": "lián", "gl": "even"},
+      {"zh": "人事", "py": "rénshì", "gl": "HR"},
+      {"zh": "都", "py": "dōu", "gl": "(emphasis with 连)"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "，"},
+      {"zh": "这些", "py": "zhèxiē", "gl": "these"},
+      {"zh": "课", "py": "kè", "gl": "class"},
+      {"zh": "上", "py": "shang", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "学生", "py": "xuésheng", "gl": "students"},
+      {"zh": "不是", "py": "búshì", "gl": "either (not)"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "打游戏", "py": "dǎyóuxì", "gl": "play games"},
+      {"zh": "，"},
+      {"zh": "就是", "py": "jiùshì", "gl": "or else"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "刷", "py": "shuā", "gl": "scroll through"},
+      {"zh": "微信", "py": "Wēixìn", "gl": "WeChat"},
+      {"zh": "。"}
+     ],
+     "start": 171.98,
+     "end": 180.17
+    },
+    {
+     "id": "s019",
+     "zh": "所以史蒂文不让用电脑、逼学生开口说话的课堂，才会让他们大吃一惊。",
+     "en": "That's why Steven's classes, where computers aren't allowed and students are pushed to speak, take them completely by surprise.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so, therefore"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "让", "py": "ràng", "gl": "allow"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "电脑", "py": "diànnǎo", "gl": "computer"},
+      {"zh": "、"},
+      {"zh": "逼", "py": "bī", "gl": "force"},
+      {"zh": "学生", "py": "xuésheng", "gl": "students"},
+      {"zh": "开口", "py": "kāikǒu", "gl": "open one's mouth"},
+      {"zh": "说话", "py": "shuōhuà", "gl": "speak"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "课堂", "py": "kètáng", "gl": "classroom, class"},
+      {"zh": "，"},
+      {"zh": "才", "py": "cái", "gl": "(that's why)"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "他们", "py": "tāmen", "gl": "them"},
+      {"zh": "大吃一惊", "py": "dàchīyìjīng", "gl": "be greatly surprised"},
+      {"zh": "。"}
+     ],
+     "start": 180.64,
+     "end": 189.66
+    },
+    {
+     "id": "s020",
+     "zh": "同事开玩笑说，想旁听，“只要证明你是中国的朋友就行”。",
+     "en": "The colleague joked that if you want to audit, \"you just have to prove you're a friend of China.\"",
+     "segments": [
+      {"zh": "同事", "py": "tóngshì", "gl": "colleague"},
+      {"zh": "开玩笑", "py": "kāiwánxiào", "gl": "joke"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "旁听", "py": "pángtīng", "gl": "audit (a class)"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "只要", "py": "zhǐyào", "gl": "as long as"},
+      {"zh": "证明", "py": "zhèngmíng", "gl": "prove"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "行", "py": "xíng", "gl": "be OK"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 189.66,
+     "end": 197.91
+    },
+    {
+     "id": "s021",
+     "zh": "史蒂文回敬：“你没看到我YouTube频道最近的评论吗？”",
+     "en": "Steven shot back: \"Haven't you seen the recent comments on my YouTube channel?\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "回敬", "py": "huíjìng", "gl": "retort"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "没", "py": "méi", "gl": "not (past)"},
+      {"zh": "看到", "py": "kàndào", "gl": "see"},
+      {"zh": "我", "py": "wǒ", "gl": "my"},
+      {"zh": "YouTube"},
+      {"zh": "频道", "py": "píndào", "gl": "channel"},
+      {"zh": "最近", "py": "zuìjìn", "gl": "recent"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "评论", "py": "pínglùn", "gl": "comments"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 198.84,
+     "end": 204.69
+    },
+    {
+     "id": "s022",
+     "zh": "他家里也有一本《毛主席语录》。",
+     "en": "He also has a copy of \"Quotations from Chairman Mao\" at home.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "家里", "py": "jiāli", "gl": "at home"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "本", "py": "běn", "gl": "(measure word for books)"},
+      {"zh": "《"},
+      {"zh": "毛主席", "py": "Máozhǔxí", "gl": "Chairman Mao"},
+      {"zh": "语录", "py": "yǔlù", "gl": "quotations"},
+      {"zh": "》"},
+      {"zh": "。"}
+     ],
+     "start": 205.04,
+     "end": 208.54
+    },
+    {
+     "id": "s023",
+     "zh": "读过吗？",
+     "en": "Has he read it?",
+     "segments": [
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 208.54,
+     "end": 210.17
+    },
+    {
+     "id": "s024",
+     "zh": "“没有，但我有。”",
+     "en": "\"No, but I have.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "no, haven't"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 210.68,
+     "end": 212.28
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s025",
+     "zh": "中文学位有什么用？",
+     "en": "What's the use of a Chinese degree?",
+     "segments": [
+      {"zh": "中文", "py": "zhōngwén", "gl": "Chinese"},
+      {"zh": "学位", "py": "xuéwèi", "gl": "degree"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "？"}
+     ],
+     "start": 212.28,
+     "end": 215.09
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "史蒂文问人事，中文学位到底有什么用。",
+     "en": "Steven asked HR what use a Chinese degree really is.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "问", "py": "wèn", "gl": "asked"},
+      {"zh": "人事", "py": "rénshì", "gl": "HR"},
+      {"zh": "，"},
+      {"zh": "中文", "py": "zhōngwén", "gl": "Chinese"},
+      {"zh": "学位", "py": "xuéwèi", "gl": "degree"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "really; after all"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "。"}
+     ],
+     "start": 215.74,
+     "end": 219.93
+    },
+    {
+     "id": "s027",
+     "zh": "她说：能为签证加分。",
+     "en": "She said: it can earn points for a visa.",
+     "segments": [
+      {"zh": "她", "py": "tā", "gl": "she"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "："},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "为", "py": "wèi", "gl": "for"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "加分", "py": "jiāfēn", "gl": "add points"},
+      {"zh": "。"}
+     ],
+     "start": 220.66,
+     "end": 223.47
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s028",
+     "zh": "史蒂文持有的是B类Z字（工作）签证。",
+     "en": "Steven holds a Category B Z (work) visa.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "持有", "py": "chíyǒu", "gl": "hold"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "B"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "Z"},
+      {"zh": "字", "py": "zì", "gl": "(visa) letter"},
+      {"zh": "（"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "）"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "。"}
+     ],
+     "start": 224.54,
+     "end": 230.02
+    },
+    {
+     "id": "s029",
+     "zh": "B类就是“普通人”，A类则按学历、中文水平和“特殊人才”来打分。",
+     "en": "Category B means \"ordinary people,\" while Category A is scored by education, Chinese level, and \"special talent.\"",
+     "segments": [
+      {"zh": "B"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is exactly"},
+      {"zh": "“"},
+      {"zh": "普通人", "py": "pǔtōngrén", "gl": "ordinary people"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "A"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "则", "py": "zé", "gl": "whereas"},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "学历", "py": "xuélì", "gl": "education level"},
+      {"zh": "、"},
+      {"zh": "中文", "py": "zhōngwén", "gl": "Chinese"},
+      {"zh": "水平", "py": "shuǐpíng", "gl": "level"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "“"},
+      {"zh": "特殊", "py": "tèshū", "gl": "special"},
+      {"zh": "人才", "py": "réncái", "gl": "talent"},
+      {"zh": "”"},
+      {"zh": "来", "py": "lái", "gl": "(to do)"},
+      {"zh": "打分", "py": "dǎfēn", "gl": "score"},
+      {"zh": "。"}
+     ],
+     "start": 230.02,
+     "end": 239.9
+    },
+    {
+     "id": "s030",
+     "zh": "最大的区别是年龄：北京不给60岁以上的人办工作签证，而A类可以到70岁。",
+     "en": "The biggest difference is age: Beijing doesn't issue work visas to people over 60, while Category A allows up to 70.",
+     "segments": [
+      {"zh": "最大", "py": "zuìdà", "gl": "biggest"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "区别", "py": "qūbié", "gl": "difference"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "年龄", "py": "niánlíng", "gl": "age"},
+      {"zh": "："},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "给", "py": "gěi", "gl": "for; to"},
+      {"zh": "60"},
+      {"zh": "岁", "py": "suì", "gl": "years old"},
+      {"zh": "以上", "py": "yǐshàng", "gl": "over"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "办", "py": "bàn", "gl": "issue; process"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "while"},
+      {"zh": "A"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "到", "py": "dào", "gl": "up to"},
+      {"zh": "70"},
+      {"zh": "岁", "py": "suì", "gl": "years old"},
+      {"zh": "。"}
+     ],
+     "start": 239.9,
+     "end": 251.41
+    },
+    {
+     "id": "s031",
+     "zh": "“然后呢？”",
+     "en": "\"And then what?\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "然后", "py": "ránhòu", "gl": "then"},
+      {"zh": "呢", "py": "ne", "gl": "(question particle)"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 251.84,
+     "end": 252.9
+    },
+    {
+     "id": "s032",
+     "zh": "话题就这么“不了了之”。",
+     "en": "And so the topic just \"fizzled out.\"",
+     "segments": [
+      {"zh": "话题", "py": "huàtí", "gl": "topic"},
+      {"zh": "就", "py": "jiù", "gl": "just"},
+      {"zh": "这么", "py": "zhème", "gl": "like this"},
+      {"zh": "“"},
+      {"zh": "不了了之", "py": "bùliǎoliǎozhī", "gl": "fizzle out"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 252.9,
+     "end": 256.03
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s033",
+     "zh": "他十二年没违过法，有HSK四级和五级证书。",
+     "en": "He hasn't broken the law in twelve years, and has HSK Level 4 and Level 5 certificates.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "十二", "py": "shí'èr", "gl": "twelve"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "没", "py": "méi", "gl": "not (past)"},
+      {"zh": "违", "py": "wéi", "gl": "violate"},
+      {"zh": "过", "py": "guo", "gl": "(experience)"},
+      {"zh": "法", "py": "fǎ", "gl": "law"},
+      {"zh": "，"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "HSK"},
+      {"zh": "四级", "py": "sìjí", "gl": "Level 4"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "五级", "py": "wǔjí", "gl": "Level 5"},
+      {"zh": "证书", "py": "zhèngshū", "gl": "certificate"},
+      {"zh": "。"}
+     ],
+     "start": 256.58,
+     "end": 262.67
+    },
+    {
+     "id": "s034",
+     "zh": "读个学位要两到四年，那时他都快五十了。",
+     "en": "A degree takes two to four years, by which time he'd be nearly fifty.",
+     "segments": [
+      {"zh": "读", "py": "dú", "gl": "study for"},
+      {"zh": "个", "py": "ge", "gl": "a"},
+      {"zh": "学位", "py": "xuéwèi", "gl": "degree"},
+      {"zh": "要", "py": "yào", "gl": "takes"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "四", "py": "sì", "gl": "four"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "，"},
+      {"zh": "那时", "py": "nàshí", "gl": "by then"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "都", "py": "dōu", "gl": "already"},
+      {"zh": "快", "py": "kuài", "gl": "almost"},
+      {"zh": "五十", "py": "wǔshí", "gl": "fifty"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 263.34,
+     "end": 268.77
+    },
+    {
+     "id": "s035",
+     "zh": "能给英语老师涨工资吗？",
+     "en": "Would it get an English teacher a raise?",
+     "segments": [
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "英语", "py": "yīngyǔ", "gl": "English"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "涨", "py": "zhǎng", "gl": "raise"},
+      {"zh": "工资", "py": "gōngzī", "gl": "salary"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 269.08,
+     "end": 271.93
+    },
+    {
+     "id": "s036",
+     "zh": "“大概不会。”",
+     "en": "\"Probably not.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "大概", "py": "dàgài", "gl": "probably"},
+      {"zh": "不会", "py": "búhuì", "gl": "won't"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 272.48,
+     "end": 273.85
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s037",
+     "zh": "配偶签证与中国绿卡",
+     "en": "Spousal Visas and the Chinese Green Card",
+     "segments": [
+      {"zh": "配偶", "py": "pèi'ǒu", "gl": "spouse"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "绿卡", "py": "lǜkǎ", "gl": "green card"}
+     ],
+     "start": 274.48,
+     "end": 277.25
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "配偶签证不能工作，也不能同时持有两种签证。",
+     "en": "A spousal visa doesn't let you work, and you can't hold two visas at the same time.",
+     "segments": [
+      {"zh": "配偶", "py": "pèi'ǒu", "gl": "spouse"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "不能", "py": "bùnéng", "gl": "cannot"},
+      {"zh": "同时", "py": "tóngshí", "gl": "at the same time"},
+      {"zh": "持有", "py": "chíyǒu", "gl": "hold"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "种", "py": "zhǒng", "gl": "kind"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "。"}
+     ],
+     "start": 277.64,
+     "end": 284.11
+    },
+    {
+     "id": "s039",
+     "zh": "丢了工作签证，公安会给你30天的人道主义签证，这期间可以申请最长两年的配偶签证。",
+     "en": "If you lose your work visa, the police give you a 30-day humanitarian visa, and during that time you can apply for a spousal visa of up to two years.",
+     "segments": [
+      {"zh": "丢", "py": "diū", "gl": "lose"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "，"},
+      {"zh": "公安", "py": "gōng'ān", "gl": "police"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "给", "py": "gěi", "gl": "give"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "30"},
+      {"zh": "天", "py": "tiān", "gl": "day"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人道主义", "py": "réndàozhǔyì", "gl": "humanitarian"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期间", "py": "qījiān", "gl": "period"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "申请", "py": "shēnqǐng", "gl": "apply for"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "长", "py": "cháng", "gl": "long"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "配偶", "py": "pèi'ǒu", "gl": "spouse"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "。"}
+     ],
+     "start": 284.48,
+     "end": 295.69
+    },
+    {
+     "id": "s040",
+     "zh": "“看，这里多重视家庭纽带。”",
+     "en": "\"See how much they value family ties here.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "看", "py": "kàn", "gl": "look"},
+      {"zh": "，"},
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "多", "py": "duō", "gl": "how much"},
+      {"zh": "重视", "py": "zhòngshì", "gl": "value"},
+      {"zh": "家庭", "py": "jiātíng", "gl": "family"},
+      {"zh": "纽带", "py": "niǔdài", "gl": "bond"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 296.26,
+     "end": 300.27
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s041",
+     "zh": "中国永久居留证要五年，持有人能做中国人能做的任何工作，只是没有投票权：“去问问中国人上次是怎么投的吧。”",
+     "en": "Chinese permanent residence takes five years; holders can do any job a Chinese citizen can, they just can't vote: \"Go ask Chinese people how they voted last time.\"",
+     "segments": [
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "永久", "py": "yǒngjiǔ", "gl": "permanent"},
+      {"zh": "居留证", "py": "jūliúzhèng", "gl": "residence permit"},
+      {"zh": "要", "py": "yào", "gl": "takes"},
+      {"zh": "五", "py": "wǔ", "gl": "five"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "，"},
+      {"zh": "持有人", "py": "chíyǒurén", "gl": "holder"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "中国人", "py": "Zhōngguórén", "gl": "Chinese people"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "任何", "py": "rènhé", "gl": "any"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "job"},
+      {"zh": "，"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "only"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not have"},
+      {"zh": "投票权", "py": "tóupiàoquán", "gl": "right to vote"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "问问", "py": "wènwen", "gl": "ask"},
+      {"zh": "中国人", "py": "Zhōngguórén", "gl": "Chinese people"},
+      {"zh": "上次", "py": "shàngcì", "gl": "last time"},
+      {"zh": "是", "py": "shì", "gl": "(emphasis)"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "投", "py": "tóu", "gl": "vote"},
+      {"zh": "的", "py": "de", "gl": "(emphasis)"},
+      {"zh": "吧", "py": "ba", "gl": "(suggestion)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 301.6,
+     "end": 315.61
+    },
+    {
+     "id": "s042",
+     "zh": "史蒂文认识的持卡人，要么在2020年前是高额纳税人，要么是娶了中国人的长期居民。",
+     "en": "The card holders Steven knows were either high taxpayers before 2020 or long-term residents who married a Chinese person.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "认识", "py": "rènshi", "gl": "know"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "持卡人", "py": "chíkǎrén", "gl": "cardholder"},
+      {"zh": "，"},
+      {"zh": "要么", "py": "yàome", "gl": "either"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "2020"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "是", "py": "shì", "gl": "be"},
+      {"zh": "高额", "py": "gāo'é", "gl": "high-amount"},
+      {"zh": "纳税人", "py": "nàshuìrén", "gl": "taxpayer"},
+      {"zh": "，"},
+      {"zh": "要么", "py": "yàome", "gl": "or"},
+      {"zh": "是", "py": "shì", "gl": "be"},
+      {"zh": "娶", "py": "qǔ", "gl": "marry (a wife)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "中国人", "py": "Zhōngguórén", "gl": "Chinese person"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "长期", "py": "chángqī", "gl": "long-term"},
+      {"zh": "居民", "py": "jūmín", "gl": "resident"},
+      {"zh": "。"}
+     ],
+     "start": 316.24,
+     "end": 326.99
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s043",
+     "zh": "“离股市远一点”",
+     "en": "\"Stay away from the stock market\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "离", "py": "lí", "gl": "away from"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "远", "py": "yuǎn", "gl": "far"},
+      {"zh": "一点", "py": "yìdiǎn", "gl": "a bit"},
+      {"zh": "”"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "人事的父亲是经济学博士，他的建议是：别碰股票，把积蓄存在银行。",
+     "en": "Renshi's father has a PhD in economics, and his advice is: don't touch stocks, keep your savings in the bank.",
+     "segments": [
+      {"zh": "人事", "py": "Rénshì", "gl": "Renshi (name)"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "父亲", "py": "fùqīn", "gl": "father"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "经济学", "py": "jīngjìxué", "gl": "economics"},
+      {"zh": "博士", "py": "bóshì", "gl": "PhD"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "碰", "py": "pèng", "gl": "touch"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stocks"},
+      {"zh": "，"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "积蓄", "py": "jīxù", "gl": "savings"},
+      {"zh": "存", "py": "cún", "gl": "deposit"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "银行", "py": "yínháng", "gl": "bank"},
+      {"zh": "。"}
+     ],
+     "start": 328.88,
+     "end": 338.61
+    },
+    {
+     "id": "s045",
+     "zh": "史蒂文说“这建议不坏”，想起这些年自己给中国股市交的那些“有趣的学费”。",
+     "en": "Steven says \"that's not bad advice,\" recalling all the \"interesting tuition\" he has paid to the Chinese stock market over the years.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "坏", "py": "huài", "gl": "bad"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "想起", "py": "xiǎngqǐ", "gl": "recall"},
+      {"zh": "这些", "py": "zhèxiē", "gl": "these"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
+      {"zh": "给", "py": "gěi", "gl": "to"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "交", "py": "jiāo", "gl": "pay"},
+      {"zh": "的", "py": "de", "gl": "(relative clause marker)"},
+      {"zh": "那些", "py": "nàxiē", "gl": "those"},
+      {"zh": "“"},
+      {"zh": "有趣", "py": "yǒuqù", "gl": "interesting"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "学费", "py": "xuéfèi", "gl": "tuition"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 338.88,
+     "end": 347.95
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s046",
+     "zh": "不过他不同意：",
+     "en": "But he disagrees:",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "同意", "py": "tóngyì", "gl": "agree"},
+      {"zh": "："}
+     ],
+     "start": 348.42,
+     "end": 350.18
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "加拿大、美国和英国有ETF和税优账户，把钱放进去就能不用管；中国没有同样的东西。",
+     "en": "Canada, the US and the UK have ETFs and tax-advantaged accounts, so you can put your money in and not have to manage it; China has nothing like that.",
+     "segments": [
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "、"},
+      {"zh": "美国", "py": "Měiguó", "gl": "USA"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "英国", "py": "Yīngguó", "gl": "UK"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "ETF"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "税优", "py": "shuìyōu", "gl": "tax-advantaged"},
+      {"zh": "账户", "py": "zhànghù", "gl": "accounts"},
+      {"zh": "，"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "放", "py": "fàng", "gl": "put"},
+      {"zh": "进去", "py": "jìnqu", "gl": "in"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "不用", "py": "búyòng", "gl": "not need to"},
+      {"zh": "管", "py": "guǎn", "gl": "manage"},
+      {"zh": "；"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "doesn't have"},
+      {"zh": "同样", "py": "tóngyàng", "gl": "the same"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "东西", "py": "dōngxi", "gl": "thing"},
+      {"zh": "。"}
+     ],
+     "start": 350.18,
+     "end": 361.53
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "外国人只能买A股，不能买H股，也不能做期权。",
+     "en": "Foreigners can only buy A-shares, not H-shares, and they can't trade options either.",
+     "segments": [
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "只能", "py": "zhǐnéng", "gl": "can only"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "A股", "py": "A gǔ", "gl": "A-shares"},
+      {"zh": "，"},
+      {"zh": "不能", "py": "bù néng", "gl": "cannot"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "H股", "py": "H gǔ", "gl": "H-shares"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "不能", "py": "bù néng", "gl": "cannot"},
+      {"zh": "做", "py": "zuò", "gl": "trade"},
+      {"zh": "期权", "py": "qīquán", "gl": "options"},
+      {"zh": "。"}
+     ],
+     "start": 361.98,
+     "end": 367.33
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s049",
+     "zh": "这不算投资建议：“钱是你的，麻烦是你的，责任也是你的。”",
+     "en": "This isn't investment advice: \"It's your money, your hassle, and your responsibility.\"",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "算", "py": "suàn", "gl": "count as"},
+      {"zh": "投资", "py": "tóuzī", "gl": "investment"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "，"},
+      {"zh": "麻烦", "py": "máfan", "gl": "hassle"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "，"},
+      {"zh": "责任", "py": "zérèn", "gl": "responsibility"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 368.32,
+     "end": 376.31
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s050",
+     "zh": "读金融，开公司，拿绿卡？",
+     "en": "Study finance, start a company, get a green card?",
+     "segments": [
+      {"zh": "读", "py": "dú", "gl": "study"},
+      {"zh": "金融", "py": "jīnróng", "gl": "finance"},
+      {"zh": "，"},
+      {"zh": "开", "py": "kāi", "gl": "start"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "，"},
+      {"zh": "拿", "py": "ná", "gl": "get"},
+      {"zh": "绿卡", "py": "lǜkǎ", "gl": "green card"},
+      {"zh": "？"}
+     ],
+     "start": 377.42,
+     "end": 381.47
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s051",
+     "zh": "史蒂文把这些线索串了起来：如果他用中文在中国大学读金融呢？",
+     "en": "Steven connected the dots: what if he studied finance in Chinese at a Chinese university?",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "这些", "py": "zhèxiē", "gl": "these"},
+      {"zh": "线索", "py": "xiànsuǒ", "gl": "clues"},
+      {"zh": "串", "py": "chuàn", "gl": "string together"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "起来", "py": "qǐlai", "gl": "(bring together)"},
+      {"zh": "："},
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "用", "py": "yòng", "gl": "using"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "大学", "py": "dàxué", "gl": "university"},
+      {"zh": "读", "py": "dú", "gl": "study"},
+      {"zh": "金融", "py": "jīnróng", "gl": "finance"},
+      {"zh": "呢", "py": "ne", "gl": "(what if)"},
+      {"zh": "？"}
+     ],
+     "start": 381.8,
+     "end": 390.25
+    },
+    {
+     "id": "s052",
+     "zh": "既能提高中文，又能拿A类加分，还能开一家咨询公司，为自己担保签证，朝绿卡努力。",
+     "en": "He could improve his Chinese, earn Category A bonus points, and also open a consulting company to sponsor his own visa and work toward a green card.",
+     "segments": [
+      {"zh": "既", "py": "jì", "gl": "both"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "提高", "py": "tígāo", "gl": "improve"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "and also"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "拿", "py": "ná", "gl": "get"},
+      {"zh": "A"},
+      {"zh": "类", "py": "lèi", "gl": "category"},
+      {"zh": "加分", "py": "jiāfēn", "gl": "bonus points"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "开", "py": "kāi", "gl": "open"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word)"},
+      {"zh": "咨询", "py": "zīxún", "gl": "consulting"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "，"},
+      {"zh": "为", "py": "wèi", "gl": "for"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "担保", "py": "dānbǎo", "gl": "sponsor"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "，"},
+      {"zh": "朝", "py": "cháo", "gl": "toward"},
+      {"zh": "绿卡", "py": "lǜkǎ", "gl": "green card"},
+      {"zh": "努力", "py": "nǔlì", "gl": "strive"},
+      {"zh": "。"}
+     ],
+     "start": 390.76,
+     "end": 401.51
+    },
+    {
+     "id": "s053",
+     "zh": "数学怎么办？",
+     "en": "What about math?",
+     "segments": [
+      {"zh": "数学", "py": "shùxué", "gl": "math"},
+      {"zh": "怎么办", "py": "zěnmebàn", "gl": "what to do"},
+      {"zh": "？"}
+     ],
+     "start": 401.8,
+     "end": 403.99
+    },
+    {
+     "id": "s054",
+     "zh": "“这不就是AI的用处吗？一直用到考试前。”",
+     "en": "\"Isn't that exactly what AI is for? Use it right up until the exam.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "就是", "py": "jiùshì", "gl": "exactly"},
+      {"zh": "AI"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "用处", "py": "yòngchu", "gl": "use"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"},
+      {"zh": "一直", "py": "yìzhí", "gl": "all the way"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "到", "py": "dào", "gl": "until"},
+      {"zh": "考试", "py": "kǎoshì", "gl": "exam"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 404.64,
+     "end": 410.1
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s055",
+     "zh": "可接着疑虑来了：他没有替别人管钱的业绩，而且到那时他“多半已经结婚生子了。所以，史蒂夫，哪条路更容易？”",
+     "en": "But then the doubts set in: he has no track record managing other people's money, and by then he'd \"most likely be married with kids. So, Steve, which path is easier?\"",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "接着", "py": "jiēzhe", "gl": "then"},
+      {"zh": "疑虑", "py": "yílǜ", "gl": "doubts"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "doesn't have"},
+      {"zh": "替", "py": "tì", "gl": "for"},
+      {"zh": "别人", "py": "biérén", "gl": "others"},
+      {"zh": "管", "py": "guǎn", "gl": "manage"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "业绩", "py": "yèjì", "gl": "track record"},
+      {"zh": "，"},
+      {"zh": "而且", "py": "érqiě", "gl": "moreover"},
+      {"zh": "到", "py": "dào", "gl": "by"},
+      {"zh": "那时", "py": "nàshí", "gl": "that time"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "“"},
+      {"zh": "多半", "py": "duōbàn", "gl": "most likely"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "结婚", "py": "jiéhūn", "gl": "married"},
+      {"zh": "生子", "py": "shēngzǐ", "gl": "have children"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "，"},
+      {"zh": "史蒂夫", "py": "Shǐdìfū", "gl": "Steve"},
+      {"zh": "，"},
+      {"zh": "哪", "py": "nǎ", "gl": "which"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word)"},
+      {"zh": "路", "py": "lù", "gl": "path"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "容易", "py": "róngyì", "gl": "easy"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 410.1,
+     "end": 426.11
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "⏰ 院长会议与坐班时间",
+     "en": "⏰ The Dean Meeting and Office Hours",
+     "segments": [
+      {"zh": "⏰"},
+      {"zh": " "},
+      {"zh": "院长", "py": "yuànzhǎng", "gl": "dean"},
+      {"zh": "会议", "py": "huìyì", "gl": "meeting"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "坐班", "py": "zuòbān", "gl": "office hours"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "史蒂文七点半离开健身房时，人事提醒他十点四十五有场与院长的会议，他早忘了。",
+     "en": "As Steven left the gym at 7:30, HR reminded him that he had a meeting with the dean at 10:45, which he had completely forgotten.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "七点半", "py": "qīdiǎnbàn", "gl": "half past seven"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "人事", "py": "rénshì", "gl": "HR"},
+      {"zh": "提醒", "py": "tíxǐng", "gl": "remind"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "十点", "py": "shídiǎn", "gl": "ten o'clock"},
+      {"zh": "四十五", "py": "sìshíwǔ", "gl": "forty-five"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "场", "py": "chǎng", "gl": "(measure word for events)"},
+      {"zh": "与", "py": "yǔ", "gl": "with"},
+      {"zh": "院长", "py": "yuànzhǎng", "gl": "dean"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "会议", "py": "huìyì", "gl": "meeting"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "早", "py": "zǎo", "gl": "long since"},
+      {"zh": "忘", "py": "wàng", "gl": "forget"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 431.42,
+     "end": 440.9
+    },
+    {
+     "id": "s058",
+     "zh": "他在会上提出了对坐班时间的担忧：",
+     "en": "At the meeting he raised his concerns about office hours:",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "会上", "py": "huìshang", "gl": "at the meeting"},
+      {"zh": "提出", "py": "tíchū", "gl": "raise"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "对", "py": "duì", "gl": "about"},
+      {"zh": "坐班", "py": "zuòbān", "gl": "office hours"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "的", "py": "de", "gl": "(possessive particle)"},
+      {"zh": "担忧", "py": "dānyōu", "gl": "concern"},
+      {"zh": "："}
+     ],
+     "start": 440.9,
+     "end": 445.87
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s059",
+     "zh": "学生通过扫二维码签到，他每周平均得坐班六小时。",
+     "en": "Students check in by scanning a QR code, and he has to average six office hours a week.",
+     "segments": [
+      {"zh": "学生", "py": "xuésheng", "gl": "student"},
+      {"zh": "通过", "py": "tōngguò", "gl": "by means of"},
+      {"zh": "扫", "py": "sǎo", "gl": "scan"},
+      {"zh": "二维码", "py": "èrwéimǎ", "gl": "QR code"},
+      {"zh": "签到", "py": "qiāndào", "gl": "check in"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "每周", "py": "měizhōu", "gl": "every week"},
+      {"zh": "平均", "py": "píngjūn", "gl": "on average"},
+      {"zh": "得", "py": "děi", "gl": "must"},
+      {"zh": "坐班", "py": "zuòbān", "gl": "hold office hours"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "。"}
+     ],
+     "start": 446.92,
+     "end": 453.33
+    },
+    {
+     "id": "s060",
+     "zh": "可时段只有六个，所以“只要一个学生缺席，平均就不可能是六小时”。",
+     "en": "But there are only six time slots, so \"if even one student is absent, the average can't possibly be six hours.\"",
+     "segments": [
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "时段", "py": "shíduàn", "gl": "time slot"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "only have"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "，"},
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "“"},
+      {"zh": "只要", "py": "zhǐyào", "gl": "as long as"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "学生", "py": "xuésheng", "gl": "student"},
+      {"zh": "缺席", "py": "quēxí", "gl": "be absent"},
+      {"zh": "，"},
+      {"zh": "平均", "py": "píngjūn", "gl": "average"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "不可能", "py": "bùkěnéng", "gl": "impossible"},
+      {"zh": "是", "py": "shì", "gl": "be"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 453.84,
+     "end": 463.07
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "再加上备课，他一周大约工作22小时。",
+     "en": "Add lesson prep, and he works about 22 hours a week.",
+     "segments": [
+      {"zh": "再", "py": "zài", "gl": "further"},
+      {"zh": "加上", "py": "jiāshàng", "gl": "add"},
+      {"zh": "备课", "py": "bèikè", "gl": "lesson prep"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "一周", "py": "yìzhōu", "gl": "one week"},
+      {"zh": "大约", "py": "dàyuē", "gl": "about"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "22"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "。"}
+     ],
+     "start": 463.12,
+     "end": 469.59
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "院长说可以看看措辞，他也不指望有什么改变。",
+     "en": "The dean said they could look at the wording, but he doesn't expect anything to change.",
+     "segments": [
+      {"zh": "院长", "py": "yuànzhǎng", "gl": "dean"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "看看", "py": "kànkan", "gl": "take a look"},
+      {"zh": "措辞", "py": "cuòcí", "gl": "wording"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "指望", "py": "zhǐwàng", "gl": "expect"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "什么", "py": "shénme", "gl": "any"},
+      {"zh": "改变", "py": "gǎibiàn", "gl": "change"},
+      {"zh": "。"}
+     ],
+     "start": 470.5,
+     "end": 476.31
+    },
+    {
+     "id": "s063",
+     "zh": "那位讨人喜欢的年轻同事先进去了，“然后轮到留着二十英寸大白胡子的我来谈坐班：你们给得太少了。”",
+     "en": "The likable young colleague went in first, \"and then it was my turn, with my twenty-inch white beard, to talk about office hours: you're paying us too little.\"",
+     "segments": [
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "讨人喜欢", "py": "tǎorénxǐhuan", "gl": "likable"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "年轻", "py": "niánqīng", "gl": "young"},
+      {"zh": "同事", "py": "tóngshì", "gl": "colleague"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "进去", "py": "jìnqu", "gl": "go in"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "然后", "py": "ránhòu", "gl": "then"},
+      {"zh": "轮到", "py": "lúndào", "gl": "be one's turn"},
+      {"zh": "留", "py": "liú", "gl": "grow (hair)"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing state)"},
+      {"zh": "二十", "py": "èrshí", "gl": "twenty"},
+      {"zh": "英寸", "py": "yīngcùn", "gl": "inch"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "白", "py": "bái", "gl": "white"},
+      {"zh": "胡子", "py": "húzi", "gl": "beard"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "来", "py": "lái", "gl": "(to do sth)"},
+      {"zh": "谈", "py": "tán", "gl": "talk about"},
+      {"zh": "坐班", "py": "zuòbān", "gl": "office hours"},
+      {"zh": "："},
+      {"zh": "你们", "py": "nǐmen", "gl": "you all"},
+      {"zh": "给", "py": "gěi", "gl": "give"},
+      {"zh": "得", "py": "de", "gl": "(complement particle)"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "少", "py": "shǎo", "gl": "little"},
+      {"zh": "了", "py": "le", "gl": "(emphasis)"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 477.2,
+     "end": 490.05
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s064",
+     "zh": "“你为什么不干脆离开中国？”",
+     "en": "\"Why don't you just leave China?\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "干脆", "py": "gāncuì", "gl": "simply; just"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 490.52,
+     "end": 493.22
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s065",
+     "zh": "史蒂文希望这期节目能回答那些“你为什么不……”",
+     "en": "Steven hopes this episode can answer those \"Why don't you...\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "希望", "py": "xīwàng", "gl": "hope"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word for episodes)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show; episode"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "回答", "py": "huídá", "gl": "answer"},
+      {"zh": "那些", "py": "nàxiē", "gl": "those"},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "……"},
+      {"zh": "”"}
+     ],
+     "start": 493.22,
+     "end": 499.45
+    },
+    {
+     "id": "s066",
+     "zh": "的问题：开学校、换工作、离开中国。",
+     "en": "questions: opening a school, changing jobs, leaving China.",
+     "segments": [
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "问题", "py": "wèntí", "gl": "questions"},
+      {"zh": "："},
+      {"zh": "开", "py": "kāi", "gl": "open; start"},
+      {"zh": "学校", "py": "xuéxiào", "gl": "school"},
+      {"zh": "、"},
+      {"zh": "换", "py": "huàn", "gl": "change"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "job"},
+      {"zh": "、"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "。"}
+     ],
+     "start": 499.88,
+     "end": 505.63
+    },
+    {
+     "id": "s067",
+     "zh": "“没那么容易。”",
+     "en": "\"It's not that easy.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "没", "py": "méi", "gl": "not"},
+      {"zh": "那么", "py": "nàme", "gl": "that; so"},
+      {"zh": "容易", "py": "róngyì", "gl": "easy"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 506.06,
+     "end": 507.67
+    },
+    {
+     "id": "s068",
+     "zh": "他的女朋友一辈子都在中国，不太想走。",
+     "en": "His girlfriend has lived in China her whole life and doesn't really want to leave.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "一辈子", "py": "yíbèizi", "gl": "whole life"},
+      {"zh": "都", "py": "dōu", "gl": "all along"},
+      {"zh": "在", "py": "zài", "gl": "be in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "，"},
+      {"zh": "不太", "py": "bútài", "gl": "not very"},
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "走", "py": "zǒu", "gl": "leave"},
+      {"zh": "。"}
+     ],
+     "start": 508.12,
+     "end": 512.46
+    },
+    {
+     "id": "s069",
+     "zh": "对老家那些把离开说得轻飘飘的人，他想反问：“你们为什么没离开家乡？”",
+     "en": "To the people back home who talk about leaving as if it were nothing, he'd like to ask in return: \"Why didn't you leave your hometown?\"",
+     "segments": [
+      {"zh": "对", "py": "duì", "gl": "to; toward"},
+      {"zh": "老家", "py": "lǎojiā", "gl": "hometown; back home"},
+      {"zh": "那些", "py": "nàxiē", "gl": "those"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "离开", "py": "líkāi", "gl": "leaving"},
+      {"zh": "说", "py": "shuō", "gl": "talk about"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "轻飘飘", "py": "qīngpiāopiāo", "gl": "lightly; casually"},
+      {"zh": "的", "py": "de", "gl": "(links modifier to noun)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "反问", "py": "fǎnwèn", "gl": "ask in return"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你们", "py": "nǐmen", "gl": "you (plural)"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "离开", "py": "líkāi", "gl": "leave"},
+      {"zh": "家乡", "py": "jiāxiāng", "gl": "hometown"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 512.46,
+     "end": 522.28
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s070",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 522.28,
+     "end": 524.12
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s071",
+     "zh": "对长期在华的外国人来说，留下来取决于签证分数、年龄限制、合同和人际关系，而不只是喜不喜欢这个地方。",
+     "en": "For foreigners who have lived in China long-term, staying depends on visa points, age limits, contracts and personal connections, not just on whether they like the place.",
+     "segments": [
+      {"zh": "对", "py": "duì", "gl": "for"},
+      {"zh": "长期", "py": "chángqī", "gl": "long-term"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "华", "py": "Huá", "gl": "China"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigners"},
+      {"zh": "来说", "py": "láishuō", "gl": "as far as… concerned"},
+      {"zh": "，"},
+      {"zh": "留下来", "py": "liú xiàlái", "gl": "to stay"},
+      {"zh": "取决于", "py": "qǔjué yú", "gl": "depends on"},
+      {"zh": "签证", "py": "qiānzhèng", "gl": "visa"},
+      {"zh": "分数", "py": "fēnshù", "gl": "points; score"},
+      {"zh": "、"},
+      {"zh": "年龄", "py": "niánlíng", "gl": "age"},
+      {"zh": "限制", "py": "xiànzhì", "gl": "limit"},
+      {"zh": "、"},
+      {"zh": "合同", "py": "hétong", "gl": "contract"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "人际关系", "py": "rénjì guānxi", "gl": "personal connections"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "and; rather"},
+      {"zh": "不只是", "py": "bùzhǐshì", "gl": "not only"},
+      {"zh": "喜不喜欢", "py": "xǐbuxǐhuan", "gl": "whether (one) likes"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "地方", "py": "dìfang", "gl": "place"},
+      {"zh": "。"}
+     ],
+     "start": 524.12,
+     "end": 538.27
+    },
+    {
+     "id": "s072",
+     "zh": "史蒂文用幽默的态度权衡着各种选择，而对“你会去哪儿”的回答依然是：“到了那座桥再过那座桥。”",
+     "en": "Steven weighs the various options with a sense of humor, and his answer to \"Where will you go?\" is still: \"I'll cross that bridge when I come to it.\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "用", "py": "yòng", "gl": "with; using"},
+      {"zh": "幽默", "py": "yōumò", "gl": "humorous"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "态度", "py": "tàidu", "gl": "attitude"},
+      {"zh": "权衡", "py": "quánhéng", "gl": "to weigh"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing action)"},
+      {"zh": "各种", "py": "gèzhǒng", "gl": "various"},
+      {"zh": "选择", "py": "xuǎnzé", "gl": "options"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "and"},
+      {"zh": "对", "py": "duì", "gl": "to; regarding"},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "哪儿", "py": "nǎr", "gl": "where"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "回答", "py": "huídá", "gl": "answer"},
+      {"zh": "依然", "py": "yīrán", "gl": "still"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "到", "py": "dào", "gl": "to reach"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word for bridges)"},
+      {"zh": "桥", "py": "qiáo", "gl": "bridge"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "过", "py": "guò", "gl": "to cross"},
+      {"zh": "那", "py": "nà", "gl": "that"},
+      {"zh": "座", "py": "zuò", "gl": "(measure word for bridges)"},
+      {"zh": "桥", "py": "qiáo", "gl": "bridge"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 539.28,
+     "end": 550.87
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "浮想联翩", "py": "fú xiǎng lián piān", "en": "thoughts coming one after another; to daydream"},
+  {"zh": "硬核现实", "py": "yìng hé xiàn shí", "en": "hard-core reality; the tough practical side of things"},
+  {"zh": "人事", "py": "rén shì", "en": "HR (human resources) department or officer"},
+  {"zh": "旁听", "py": "páng tīng", "en": "to sit in on a class as a non-registered listener"},
+  {"zh": "不了了之", "py": "bù liǎo liǎo zhī", "en": "to leave a matter unresolved; to let it fizzle out"},
+  {"zh": "加分", "py": "jiā fēn", "en": "to add points; to give an advantage"},
+  {"zh": "永久居留证", "py": "yǒng jiǔ jū liú zhèng", "en": "permanent residence card (the \"Chinese green card\")"},
+  {"zh": "资本利得税", "py": "zī běn lì dé shuì", "en": "capital gains tax"},
+  {"zh": "坐班", "py": "zuò bān", "en": "to be on duty at the office during set hours"},
+  {"zh": "轻飘飘", "py": "qīng piāo piāo", "en": "light and casual; making something sound easy"}
+ ]
+}
