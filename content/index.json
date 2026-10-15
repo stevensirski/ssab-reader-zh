@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T18:46",
+ "updated": "2026-10-15T21:07",
  "episodes": [
   {
    "id": "ssab-2026-10-15",
@@ -109,6 +109,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-30",
+   "date": "2026-09-30",
+   "title": "Before National Day: PPTs, Russian and a Viral Hit",
+   "titleZh": "国庆前夕：PPT、俄语与爆款",
+   "description": "Steven looks back on his first month teaching university English in China: packed office hours, ten-minute AI-assisted PowerPoint tasks, and freshmen still worn out from the gaokao. He also covers a rough Russian lesson, his frustration over a rejected permanent-residence application, and a Singapore underpass video that unexpectedly took off on Instagram.",
+   "duration": 561,
+   "chars": 1472,
    "hasAudio": true
   },
   {
