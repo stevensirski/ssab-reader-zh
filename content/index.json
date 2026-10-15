@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-15T17:06",
+ "updated": "2026-10-15T17:43",
  "episodes": [
+  {
+   "id": "ssab-2026-10-15",
+   "date": "2026-10-15",
+   "title": "AI Takes Over Post-Production as Markets Flash a Golden Cross",
+   "titleZh": "AI接管后期，股市迎金叉",
+   "description": "Steven talks about getting ready for a video version of the podcast and about his growing Claude Code workflow, which handles clips, translations, B-roll searches and code-generated animations, and he asks whether those animations need an AI label. He also covers the seasonal moves in China's stock market, Bitcoin's golden cross and Micron's slide, then answers a listener's question about microphones.",
+   "duration": 591,
+   "chars": 1387,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-14",
    "date": "2026-10-14",
