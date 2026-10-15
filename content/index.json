@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:43",
+ "updated": "2026-10-15T18:46",
  "episodes": [
   {
    "id": "ssab-2026-10-15",
@@ -109,6 +109,16 @@
    "description": "On National Day, Steven gives a personal tour of what \"5,000 years of Chinese history\" means, running from the Shang dynasty to China as the world's factory. Along the way he covers cities worth visiting, why \"Hong Kong\" and \"Xianggang\" sound so different, his favourite foods, and his girlfriend's claim that Marco Polo stole pizza from China.",
    "duration": 438,
    "chars": 1238,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-29",
+   "date": "2026-09-29",
+   "title": "AI Didn't Save Time, Publishing Does",
+   "titleZh": "AI没省事，发布才是正道",
+   "description": "Steven looks back on his attempts to automate content with AI and argues that portable skills and publishing every day matter more than visa strategies. He also asks whether a market correction is coming, pointing to Bitcoin's four-year cycle, the midterm elections and the Fed.",
+   "duration": 587,
+   "chars": 1481,
    "hasAudio": true
   },
   {
