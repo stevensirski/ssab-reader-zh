@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-15T21:07",
+ "updated": "2026-10-16T21:08",
  "episodes": [
+  {
+   "id": "ssab-2026-10-16",
+   "date": "2026-10-16",
+   "title": "AI Clears the Backlog, Discipline Still Required",
+   "titleZh": "AI清库存，自律不能停",
+   "description": "Steven talks about using AI workflows to turn 15 years of English-teaching material into months of scheduled content, along with gym routines, creatine, a broken elevator, and falling blueberry prices in Beijing. He also admits his coal stock call was wrong and says goodbye to Adam Curry as he leaves No Agenda.",
+   "duration": 577,
+   "chars": 1461,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-15",
    "date": "2026-10-15",
