@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T21:08",
+ "updated": "2026-10-19T10:24",
  "episodes": [
   {
    "id": "ssab-2026-10-16",
@@ -189,6 +189,16 @@
    "description": "On his last night in Canada, Steven says goodbye to family and friends, lays out his three-day trip back to Beijing, and admits his plan to move his work online this year didn't work out. He also talks about his cymbal album, splitting his language blog between Substack and YouTube, and why convenience, not love, is what keeps him in China.",
    "duration": 492,
    "chars": 1442,
+   "hasAudio": true
+  },
+  {
+   "id": "ssab-2026-09-10",
+   "date": "2026-09-10",
+   "title": "A Cymbal Album Before Flying to Beijing",
+   "titleZh": "飞北京前的镲片专辑",
+   "description": "In his last days in Winnipeg before the fall semester in Beijing, Steven goes over his teaching schedule, his packing (mostly not done), a birthday dinner spent browsing magazines, and backing up 400GB of footage with the macOS Terminal. He also records an album using cymbals from his collection and asks whether kids should have to get a job before they're allowed on social media.",
+   "duration": 620,
+   "chars": 1481,
    "hasAudio": true
   },
   {
