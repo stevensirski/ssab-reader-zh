@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-19T10:24",
+ "updated": "2026-10-19T18:15",
  "episodes": [
+  {
+   "id": "ssab-2026-10-19",
+   "date": "2026-10-19",
+   "title": "AI Editing, Privacy Worries, and Meeting the Parents",
+   "titleZh": "AI剪辑、隐私忧虑与见家长",
+   "description": "Steven talks about how Claude Code has changed his video editing workflow, from automated clips to editable Final Cut Pro titles, and why he worries about how much of his computer the AI can see. He also lays out plans for a separate faceless English-learning brand, gives a gym update, and describes meeting his girlfriend's parents for the first time.",
+   "duration": 587,
+   "chars": 1433,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-16",
    "date": "2026-10-16",
