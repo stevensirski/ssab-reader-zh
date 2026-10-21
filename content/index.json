@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-20T17:56",
+ "updated": "2026-10-21T17:43",
  "episodes": [
+  {
+   "id": "ssab-2026-10-21",
+   "date": "2026-10-21",
+   "title": "A Botched Recording and Will AI Take My Job?",
+   "titleZh": "录音翻车与AI抢饭碗之问",
+   "description": "Steven explains how yesterday's recording (and a steak) got ruined, plans this year's Halloween horror readings, and gives an update on his lifting plateau. Most of the episode covers a student's pointed office-hours questions about how he uses Claude, what AI costs him, whether AI will replace teachers, and why Canada won't extradite a Chinese corruption suspect.",
+   "duration": 590,
+   "chars": 1473,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-20",
    "date": "2026-10-20",
