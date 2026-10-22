@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-21T17:43",
+ "updated": "2026-10-22T17:35",
  "episodes": [
+  {
+   "id": "ssab-2026-10-22",
+   "date": "2026-10-22",
+   "title": "A China Telecom Surprise and Trapped in the Gym",
+   "titleZh": "电信惊喜与健身房被困记",
+   "description": "Steven describes the smart device China Telecom installed in his home without asking him, which leads into his worries about surveillance, and tells the story of getting locked inside his gym. He also talks about practicing handwritten Chinese characters, new projects for his university classes, and Alberta's independence referendum compared with Quebec's separatist history.",
+   "duration": 542,
+   "chars": 1412,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-21",
    "date": "2026-10-21",
