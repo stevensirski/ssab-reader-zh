@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-22T17:35",
+ "updated": "2026-10-23T22:18",
  "episodes": [
+  {
+   "id": "ssab-2026-10-23",
+   "date": "2026-10-23",
+   "title": "Earthquakes, Smog, and a Third-Draft Class",
+   "titleZh": "地震、雾霾与三稿课堂",
+   "description": "Steven covers the Tibet earthquake and Beijing's smog, then explains how a new creative classroom activity only worked on its third try. He also talks about an awkward lunch with a student, AI workflows filling up his hard drive, and Rolls-Royce's plunge in a market that looks top-heavy.",
+   "duration": 596,
+   "chars": 1494,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-22",
    "date": "2026-10-22",
