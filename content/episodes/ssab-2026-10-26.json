@@ -1,0 +1,2021 @@
+{
+ "id": "ssab-2026-10-26",
+ "date": "2026-10-26",
+ "title": "Gym HPV Scares and the Rolls-Royce Rebound",
+ "titleZh": "健身房HPV与劳斯莱斯反弹",
+ "description": "Steven talks about hygiene in Chinese gyms and an alarmist headline about catching HPV at the gym, then explains Rolls-Royce's sharp drop and technical rebound, call options, and why his broker wouldn't let him trade it. He also covers the Getty quote that inspired his AI-built video editor, his plan to split the podcast into several brands, and the one-year deadline he has set to make it pay off.",
+ "duration": 581,
+ "audio": {
+  "src": "audio/ssab-2026-10-26.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Content overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 17.0,
+     "end": 18.29
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天这期节目，史蒂文先聊了中国健身房的卫生问题，以及一条可能吓跑健身爱好者的新闻：在健身房感染HPV。",
+     "en": "In today's episode, Steven first talks about hygiene problems in Chinese gyms, plus a news story that might scare off fitness fans: catching HPV at the gym.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "program; episode"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "聊", "py": "liáo", "gl": "chat about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "卫生", "py": "wèishēng", "gl": "hygiene"},
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "，"},
+      {"zh": "以及", "py": "yǐjí", "gl": "as well as"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word: news item)"},
+      {"zh": "可能", "py": "kěnéng", "gl": "might"},
+      {"zh": "吓跑", "py": "xiàpǎo", "gl": "scare away"},
+      {"zh": "健身", "py": "jiànshēn", "gl": "fitness"},
+      {"zh": "爱好者", "py": "àihàozhě", "gl": "enthusiasts"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "："},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "感染", "py": "gǎnrǎn", "gl": "get infected with"},
+      {"zh": "HPV"},
+      {"zh": "。"}
+     ],
+     "start": 18.74,
+     "end": 33.23
+    },
+    {
+     "id": "s003",
+     "zh": "接着，他回到上周五暴跌的劳斯莱斯，讲了技术性反弹和看涨期权，还说明了自己为什么在加拿大下不了单。",
+     "en": "Next, he returns to Rolls-Royce, which plunged last Friday, talks about technical rebounds and call options, and explains why he can't place an order in Canada.",
+     "segments": [
+      {"zh": "接着", "py": "jiēzhe", "gl": "next"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "回到", "py": "huídào", "gl": "return to"},
+      {"zh": "上周五", "py": "shàngzhōuwǔ", "gl": "last Friday"},
+      {"zh": "暴跌", "py": "bàodiē", "gl": "plunge"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "，"},
+      {"zh": "讲", "py": "jiǎng", "gl": "talk about"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "技术性", "py": "jìshùxìng", "gl": "technical"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "看涨期权", "py": "kànzhǎngqīquán", "gl": "call options"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "说明", "py": "shuōmíng", "gl": "explain"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "加拿大", "py": "Jiānádà", "gl": "Canada"},
+      {"zh": "下", "py": "xià", "gl": "place (an order)"},
+      {"zh": "不了", "py": "buliǎo", "gl": "unable to"},
+      {"zh": "单", "py": "dān", "gl": "order"},
+      {"zh": "。"}
+     ],
+     "start": 33.54,
+     "end": 46.89
+    },
+    {
+     "id": "s004",
+     "zh": "之后，他谈到一句触动他的盖蒂名言、自己用AI搭建的视频控制面板，以及把播客拆成多个“品牌”的计划，并给自己定下一年期限。",
+     "en": "After that, he talks about a Getty quote that struck a chord with him, a video control panel he built with AI, and his plan to split the podcast into multiple \"brands,\" giving himself a one-year deadline.",
+     "segments": [
+      {"zh": "之后", "py": "zhīhòu", "gl": "after that"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "谈到", "py": "tándào", "gl": "talk about"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "句", "py": "jù", "gl": "(measure word: sentence)"},
+      {"zh": "触动", "py": "chùdòng", "gl": "move; touch"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "盖蒂", "py": "Gàidì", "gl": "Getty"},
+      {"zh": "名言", "py": "míngyán", "gl": "famous quote"},
+      {"zh": "、"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "用", "py": "yòng", "gl": "using"},
+      {"zh": "AI"},
+      {"zh": "搭建", "py": "dājiàn", "gl": "build"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "控制面板", "py": "kòngzhì miànbǎn", "gl": "control panel"},
+      {"zh": "，"},
+      {"zh": "以及", "py": "yǐjí", "gl": "as well as"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "拆成", "py": "chāichéng", "gl": "split into"},
+      {"zh": "多个", "py": "duō ge", "gl": "multiple"},
+      {"zh": "“"},
+      {"zh": "品牌", "py": "pǐnpái", "gl": "brands"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "计划", "py": "jìhuà", "gl": "plan"},
+      {"zh": "，"},
+      {"zh": "并", "py": "bìng", "gl": "and"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "定下", "py": "dìngxià", "gl": "set"},
+      {"zh": "一年", "py": "yì nián", "gl": "one year"},
+      {"zh": "期限", "py": "qīxiàn", "gl": "deadline"},
+      {"zh": "。"}
+     ],
+     "start": 47.58,
+     "end": 64.71
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s005",
+     "zh": "中国健身房的卫生",
+     "en": "Hygiene in Chinese Gyms",
+     "segments": [
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "卫生", "py": "wèishēng", "gl": "hygiene"}
+     ],
+     "start": 65.46,
+     "end": 67.71
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "如果你是在中国生活的外国人，大概都见过清洁工作做到一半，心想：“这真的有用吗？”",
+     "en": "If you're a foreigner living in China, you've probably seen cleaning done halfway and thought, \"Does this actually do anything?\"",
+     "segments": [
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "生活", "py": "shēnghuó", "gl": "live"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "外国人", "py": "wàiguórén", "gl": "foreigner"},
+      {"zh": "，"},
+      {"zh": "大概", "py": "dàgài", "gl": "probably"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "见", "py": "jiàn", "gl": "see"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "清洁", "py": "qīngjié", "gl": "cleaning"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "work"},
+      {"zh": "做到", "py": "zuòdào", "gl": "done up to"},
+      {"zh": "一半", "py": "yíbàn", "gl": "halfway"},
+      {"zh": "，"},
+      {"zh": "心想", "py": "xīnxiǎng", "gl": "think to oneself"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "真的", "py": "zhēnde", "gl": "really"},
+      {"zh": "有用", "py": "yǒuyòng", "gl": "useful"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 68.42,
+     "end": 78.91
+    },
+    {
+     "id": "s007",
+     "zh": "史蒂文认识的人几乎都说中国的游泳池有点恶心。",
+     "en": "Almost everyone Steven knows says China's swimming pools are a bit gross.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "认识", "py": "rènshi", "gl": "know"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "几乎", "py": "jīhū", "gl": "almost"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "游泳池", "py": "yóuyǒngchí", "gl": "swimming pool"},
+      {"zh": "有点", "py": "yǒudiǎn", "gl": "a bit"},
+      {"zh": "恶心", "py": "ěxin", "gl": "gross"},
+      {"zh": "。"}
+     ],
+     "start": 80.62,
+     "end": 84.16
+    },
+    {
+     "id": "s008",
+     "zh": "不过公平地讲，中国绝不是全世界最糟糕的。",
+     "en": "But to be fair, China is by no means the worst in the world.",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "公平", "py": "gōngpíng", "gl": "fair"},
+      {"zh": "地", "py": "de", "gl": "(adverb marker)"},
+      {"zh": "讲", "py": "jiǎng", "gl": "speaking"},
+      {"zh": "，"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "绝", "py": "jué", "gl": "absolutely"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "全世界", "py": "quánshìjiè", "gl": "whole world"},
+      {"zh": "最", "py": "zuì", "gl": "most"},
+      {"zh": "糟糕", "py": "zāogāo", "gl": "bad"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "。"}
+     ],
+     "start": 84.16,
+     "end": 90.45
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s009",
+     "zh": "他的检验方法是“闻一闻”：拖把桶里有没有漂白水、肥皂或柠檬味清洁剂的气味？",
+     "en": "His test is the \"sniff test\": does the mop bucket smell of bleach, soap, or lemon-scented cleaner?",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "检验", "py": "jiǎnyàn", "gl": "testing"},
+      {"zh": "方法", "py": "fāngfǎ", "gl": "method"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "闻一闻", "py": "wényiwén", "gl": "take a sniff"},
+      {"zh": "”"},
+      {"zh": "："},
+      {"zh": "拖把", "py": "tuōbǎ", "gl": "mop"},
+      {"zh": "桶", "py": "tǒng", "gl": "bucket"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "有没有", "py": "yǒuméiyǒu", "gl": "is there or not"},
+      {"zh": "漂白水", "py": "piǎobáishuǐ", "gl": "bleach"},
+      {"zh": "、"},
+      {"zh": "肥皂", "py": "féizào", "gl": "soap"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "柠檬", "py": "níngméng", "gl": "lemon"},
+      {"zh": "味", "py": "wèi", "gl": "scented"},
+      {"zh": "清洁剂", "py": "qīngjiéjì", "gl": "cleaner"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "气味", "py": "qìwèi", "gl": "smell"},
+      {"zh": "？"}
+     ],
+     "start": 90.8,
+     "end": 100.68
+    },
+    {
+     "id": "s010",
+     "zh": "他健身房里的消毒液，从来闻不出能打扫干净什么。",
+     "en": "The disinfectant at his gym never smells like it could clean anything.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "消毒液", "py": "xiāodúyè", "gl": "disinfectant"},
+      {"zh": "，"},
+      {"zh": "从来", "py": "cónglái", "gl": "never (with neg.)"},
+      {"zh": "闻不出", "py": "wénbuchū", "gl": "can't tell by smell"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "打扫", "py": "dǎsǎo", "gl": "clean"},
+      {"zh": "干净", "py": "gānjìng", "gl": "clean (result)"},
+      {"zh": "什么", "py": "shénme", "gl": "anything"},
+      {"zh": "。"}
+     ],
+     "start": 100.68,
+     "end": 107.79
+    },
+    {
+     "id": "s011",
+     "zh": "直到最近两周，健身房才摆出湿巾。",
+     "en": "Only in the last two weeks has the gym started putting out wet wipes.",
+     "segments": [
+      {"zh": "直到", "py": "zhídào", "gl": "until"},
+      {"zh": "最近", "py": "zuìjìn", "gl": "recent"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "周", "py": "zhōu", "gl": "weeks"},
+      {"zh": "，"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "才", "py": "cái", "gl": "only then"},
+      {"zh": "摆出", "py": "bǎichū", "gl": "put out"},
+      {"zh": "湿巾", "py": "shījīn", "gl": "wet wipes"},
+      {"zh": "。"}
+     ],
+     "start": 108.28,
+     "end": 112.61
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "HPV新闻",
+     "en": "HPV News",
+     "segments": [
+      {"zh": "HPV"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"}
+     ],
+     "start": 113.68,
+     "end": 115.36
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "有些人本来就担心在马桶圈上染上HPV，现在又冒出“健身房感染”的标题。",
+     "en": "Some people already worry about catching HPV from toilet seats, and now headlines about \"gym infections\" are popping up too.",
+     "segments": [
+      {"zh": "有些", "py": "yǒuxiē", "gl": "some"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "本来", "py": "běnlái", "gl": "already"},
+      {"zh": "就", "py": "jiù", "gl": "(emphasis)"},
+      {"zh": "担心", "py": "dānxīn", "gl": "worry"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "马桶圈", "py": "mǎtǒngquān", "gl": "toilet seat"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "染上", "py": "rǎnshang", "gl": "catch (disease)"},
+      {"zh": "HPV"},
+      {"zh": "，"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "又", "py": "yòu", "gl": "also; again"},
+      {"zh": "冒出", "py": "màochū", "gl": "pop up"},
+      {"zh": "“"},
+      {"zh": "健身房", "py": "jiànshēnfáng", "gl": "gym"},
+      {"zh": "感染", "py": "gǎnrǎn", "gl": "infection"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "标题", "py": "biāotí", "gl": "headline"},
+      {"zh": "。"}
+     ],
+     "start": 115.36,
+     "end": 125.66
+    },
+    {
+     "id": "s014",
+     "zh": "想让大家更健康，这标题实在糟糕。",
+     "en": "If the goal is to make people healthier, this headline is really terrible.",
+     "segments": [
+      {"zh": "想", "py": "xiǎng", "gl": "want"},
+      {"zh": "让", "py": "ràng", "gl": "make; let"},
+      {"zh": "大家", "py": "dàjiā", "gl": "everyone"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "健康", "py": "jiànkāng", "gl": "healthy"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "标题", "py": "biāotí", "gl": "headline"},
+      {"zh": "实在", "py": "shízài", "gl": "really"},
+      {"zh": "糟糕", "py": "zāogāo", "gl": "terrible"},
+      {"zh": "。"}
+     ],
+     "start": 125.66,
+     "end": 131.15
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "新闻说，一名28岁男子健身后用没洗的手抓脸，脸上长出了小肉粒。",
+     "en": "According to the news, a 28-year-old man touched his face with unwashed hands after working out, and small bumps grew on his face.",
+     "segments": [
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "名", "py": "míng", "gl": "(measure word)"},
+      {"zh": "28"},
+      {"zh": "岁", "py": "suì", "gl": "years old"},
+      {"zh": "男子", "py": "nánzǐ", "gl": "man"},
+      {"zh": "健身", "py": "jiànshēn", "gl": "work out"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "用", "py": "yòng", "gl": "with"},
+      {"zh": "没", "py": "méi", "gl": "not"},
+      {"zh": "洗", "py": "xǐ", "gl": "wash"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "手", "py": "shǒu", "gl": "hands"},
+      {"zh": "抓", "py": "zhuā", "gl": "touch; scratch"},
+      {"zh": "脸", "py": "liǎn", "gl": "face"},
+      {"zh": "，"},
+      {"zh": "脸上", "py": "liǎnshang", "gl": "on the face"},
+      {"zh": "长出", "py": "zhǎngchū", "gl": "grow"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "小", "py": "xiǎo", "gl": "small"},
+      {"zh": "肉粒", "py": "ròulì", "gl": "fleshy bumps"},
+      {"zh": "。"}
+     ],
+     "start": 131.58,
+     "end": 140.29
+    },
+    {
+     "id": "s016",
+     "zh": "史蒂文的反应是：“第一，废话；第二，对，我们知道；第三，那到底打算怎么办？”",
+     "en": "Steven's reaction was: \"First, duh; second, yes, we know; third, so what are we actually supposed to do about it?\"",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "反应", "py": "fǎnyìng", "gl": "reaction"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "第一", "py": "dìyī", "gl": "first"},
+      {"zh": "，"},
+      {"zh": "废话", "py": "fèihuà", "gl": "duh; obviously"},
+      {"zh": "；"},
+      {"zh": "第二", "py": "dì'èr", "gl": "second"},
+      {"zh": "，"},
+      {"zh": "对", "py": "duì", "gl": "right; yes"},
+      {"zh": "，"},
+      {"zh": "我们", "py": "wǒmen", "gl": "we"},
+      {"zh": "知道", "py": "zhīdào", "gl": "know"},
+      {"zh": "；"},
+      {"zh": "第三", "py": "dìsān", "gl": "third"},
+      {"zh": "，"},
+      {"zh": "那", "py": "nà", "gl": "then; so"},
+      {"zh": "到底", "py": "dàodǐ", "gl": "actually"},
+      {"zh": "打算", "py": "dǎsuan", "gl": "plan; intend"},
+      {"zh": "怎么办", "py": "zěnmebàn", "gl": "what to do"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 141.62,
+     "end": 153.41
+    },
+    {
+     "id": "s017",
+     "zh": "海南省人民医院的医生说，低危型HPV可引起疣，传染性软疣和体癣也能通过接触传播。",
+     "en": "A doctor at Hainan Provincial People's Hospital said that low-risk HPV can cause warts, and that molluscum contagiosum and ringworm can also spread through contact.",
+     "segments": [
+      {"zh": "海南省", "py": "Hǎinán Shěng", "gl": "Hainan Province"},
+      {"zh": "人民医院", "py": "Rénmín Yīyuàn", "gl": "People's Hospital"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "医生", "py": "yīshēng", "gl": "doctor"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "，"},
+      {"zh": "低危型", "py": "dīwēixíng", "gl": "low-risk type"},
+      {"zh": "HPV"},
+      {"zh": "可", "py": "kě", "gl": "can"},
+      {"zh": "引起", "py": "yǐnqǐ", "gl": "cause"},
+      {"zh": "疣", "py": "yóu", "gl": "warts"},
+      {"zh": "，"},
+      {"zh": "传染性软疣", "py": "chuánrǎnxìng ruǎnyóu", "gl": "molluscum contagiosum"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "体癣", "py": "tǐxuǎn", "gl": "ringworm"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "通过", "py": "tōngguò", "gl": "through"},
+      {"zh": "接触", "py": "jiēchù", "gl": "contact"},
+      {"zh": "传播", "py": "chuánbō", "gl": "spread"},
+      {"zh": "。"}
+     ],
+     "start": 153.9,
+     "end": 166.74
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s018",
+     "zh": "擦干净，洗洗手",
+     "en": "Wipe things down and wash your hands",
+     "segments": [
+      {"zh": "擦", "py": "cā", "gl": "wipe"},
+      {"zh": "干净", "py": "gānjìng", "gl": "clean"},
+      {"zh": "，"},
+      {"zh": "洗洗", "py": "xǐxi", "gl": "give a wash"},
+      {"zh": "手", "py": "shǒu", "gl": "hands"}
+     ],
+     "start": 166.74,
+     "end": 170.15
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s019",
+     "zh": "时机真不巧。",
+     "en": "The timing couldn't be worse.",
+     "segments": [
+      {"zh": "时机", "py": "shíjī", "gl": "timing"},
+      {"zh": "真", "py": "zhēn", "gl": "really"},
+      {"zh": "不巧", "py": "bùqiǎo", "gl": "unfortunate"},
+      {"zh": "。"}
+     ],
+     "start": 171.18,
+     "end": 172.25
+    },
+    {
+     "id": "s020",
+     "zh": "史蒂文正想劝女朋友多练力量，这种新闻会把她和他的学生都吓退。",
+     "en": "Steven was just trying to persuade his girlfriend to do more strength training, and news like this will scare off both her and his students.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "正", "py": "zhèng", "gl": "just (then)"},
+      {"zh": "想", "py": "xiǎng", "gl": "want to"},
+      {"zh": "劝", "py": "quàn", "gl": "persuade"},
+      {"zh": "女朋友", "py": "nǚpéngyou", "gl": "girlfriend"},
+      {"zh": "多", "py": "duō", "gl": "more"},
+      {"zh": "练", "py": "liàn", "gl": "train"},
+      {"zh": "力量", "py": "lìliang", "gl": "strength"},
+      {"zh": "，"},
+      {"zh": "这种", "py": "zhèzhǒng", "gl": "this kind of"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "她", "py": "tā", "gl": "her"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "学生", "py": "xuésheng", "gl": "students"},
+      {"zh": "都", "py": "dōu", "gl": "both"},
+      {"zh": "吓退", "py": "xiàtuì", "gl": "scare off"},
+      {"zh": "。"}
+     ],
+     "start": 173.6,
+     "end": 180.41
+    },
+    {
+     "id": "s021",
+     "zh": "所以：器械要消毒，随身带免洗洗手液，别摸眼睛，旧的健身衣该换就换。",
+     "en": "So: disinfect the equipment, carry hand sanitizer with you, don't touch your eyes, and replace old workout clothes when it's time.",
+     "segments": [
+      {"zh": "所以", "py": "suǒyǐ", "gl": "so"},
+      {"zh": "："},
+      {"zh": "器械", "py": "qìxiè", "gl": "equipment"},
+      {"zh": "要", "py": "yào", "gl": "should"},
+      {"zh": "消毒", "py": "xiāodú", "gl": "disinfect"},
+      {"zh": "，"},
+      {"zh": "随身", "py": "suíshēn", "gl": "on one's person"},
+      {"zh": "带", "py": "dài", "gl": "carry"},
+      {"zh": "免洗", "py": "miǎnxǐ", "gl": "no-rinse"},
+      {"zh": "洗手液", "py": "xǐshǒuyè", "gl": "hand sanitizer"},
+      {"zh": "，"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "摸", "py": "mō", "gl": "touch"},
+      {"zh": "眼睛", "py": "yǎnjing", "gl": "eyes"},
+      {"zh": "，"},
+      {"zh": "旧", "py": "jiù", "gl": "old"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "健身衣", "py": "jiànshēnyī", "gl": "workout clothes"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "换", "py": "huàn", "gl": "replace"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "换", "py": "huàn", "gl": "replace"},
+      {"zh": "。"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s022",
+     "zh": "放在北美，他会把这类新闻当成药企的营销手段。",
+     "en": "If this were North America, he'd treat news like this as a pharmaceutical company marketing ploy.",
+     "segments": [
+      {"zh": "放在", "py": "fàngzài", "gl": "if placed in"},
+      {"zh": "北美", "py": "Běiměi", "gl": "North America"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "这类", "py": "zhèlèi", "gl": "this type of"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "当成", "py": "dàngchéng", "gl": "regard as"},
+      {"zh": "药企", "py": "yàoqǐ", "gl": "pharma company"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "营销", "py": "yíngxiāo", "gl": "marketing"},
+      {"zh": "手段", "py": "shǒuduàn", "gl": "tactic"},
+      {"zh": "。"}
+     ],
+     "start": 191.78,
+     "end": 197.84
+    },
+    {
+     "id": "s023",
+     "zh": "报道本身也承认风险极低。",
+     "en": "The report itself admits the risk is extremely low.",
+     "segments": [
+      {"zh": "报道", "py": "bàodào", "gl": "report"},
+      {"zh": "本身", "py": "běnshēn", "gl": "itself"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "承认", "py": "chéngrèn", "gl": "admit"},
+      {"zh": "风险", "py": "fēngxiǎn", "gl": "risk"},
+      {"zh": "极", "py": "jí", "gl": "extremely"},
+      {"zh": "低", "py": "dī", "gl": "low"},
+      {"zh": "。"}
+     ],
+     "start": 197.84,
+     "end": 201.11
+    },
+    {
+     "id": "s024",
+     "zh": "结论是：“洗手，去健身，吃你的西兰花，别怕举铁。”",
+     "en": "The bottom line: \"Wash your hands, go to the gym, eat your broccoli, and don't be afraid of lifting weights.\"",
+     "segments": [
+      {"zh": "结论", "py": "jiélùn", "gl": "conclusion"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "洗手", "py": "xǐshǒu", "gl": "wash hands"},
+      {"zh": "，"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "健身", "py": "jiànshēn", "gl": "work out"},
+      {"zh": "，"},
+      {"zh": "吃", "py": "chī", "gl": "eat"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "西兰花", "py": "xīlánhuā", "gl": "broccoli"},
+      {"zh": "，"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "怕", "py": "pà", "gl": "fear"},
+      {"zh": "举铁", "py": "jǔtiě", "gl": "lift weights"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 201.4,
+     "end": 209.89
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s025",
+     "zh": "劳斯莱斯：暴跌与反弹",
+     "en": "Rolls-Royce: A Plunge and a Rebound",
+     "segments": [
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "："},
+      {"zh": "暴跌", "py": "bàodiē", "gl": "plunge"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"}
+     ],
+     "start": 210.58,
+     "end": 213.87
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s026",
+     "zh": "周五，一位听众朋友发来消息：“你看盘了吗？”",
+     "en": "On Friday, a listener sent a message: \"Have you seen the market?\"",
+     "segments": [
+      {"zh": "周五", "py": "zhōuwǔ", "gl": "Friday"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "位", "py": "wèi", "gl": "(polite measure word)"},
+      {"zh": "听众", "py": "tīngzhòng", "gl": "listener"},
+      {"zh": "朋友", "py": "péngyou", "gl": "friend"},
+      {"zh": "发来", "py": "fālái", "gl": "sent over"},
+      {"zh": "消息", "py": "xiāoxi", "gl": "message"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "看盘", "py": "kànpán", "gl": "check the market"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "吗", "py": "ma", "gl": "(question particle)"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 214.54,
+     "end": 221.03
+    },
+    {
+     "id": "s027",
+     "zh": "他没看，因为他早就不整天盯盘了。",
+     "en": "He hadn't, because he stopped watching the market all day long ago.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "看", "py": "kàn", "gl": "look"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "早就", "py": "zǎojiù", "gl": "long since"},
+      {"zh": "不", "py": "bù", "gl": "no longer"},
+      {"zh": "整天", "py": "zhěngtiān", "gl": "all day"},
+      {"zh": "盯盘", "py": "dīngpán", "gl": "watch the market"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "。"}
+     ],
+     "start": 221.38,
+     "end": 226.81
+    },
+    {
+     "id": "s028",
+     "zh": "劳斯莱斯股价跌了约6%到7%，按美元算大约从1265跌到1164。",
+     "en": "Rolls-Royce shares fell about 6% to 7%, roughly from 1265 to 1164 in dollar terms.",
+     "segments": [
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "股价", "py": "gǔjià", "gl": "share price"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "6%"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "7%"},
+      {"zh": "，"},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "算", "py": "suàn", "gl": "calculate"},
+      {"zh": "大约", "py": "dàyuē", "gl": "roughly"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "1265"},
+      {"zh": "跌到", "py": "diēdào", "gl": "fall to"},
+      {"zh": "1164"},
+      {"zh": "。"}
+     ],
+     "start": 227.74,
+     "end": 236.53
+    },
+    {
+     "id": "s029",
+     "zh": "今天下午5点16分录音时，它已经反弹了约1.8%。",
+     "en": "By the time of recording at 5:16 this afternoon, it had already rebounded about 1.8%.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "下午", "py": "xiàwǔ", "gl": "afternoon"},
+      {"zh": "5"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "16"},
+      {"zh": "分", "py": "fēn", "gl": "minutes"},
+      {"zh": "录音", "py": "lùyīn", "gl": "recording"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "，"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "已经", "py": "yǐjīng", "gl": "already"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "1.8%"},
+      {"zh": "。"}
+     ],
+     "start": 238.32,
+     "end": 244.03
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "老规矩：这不是投资建议。",
+     "en": "Usual rule: this is not investment advice.",
+     "segments": [
+      {"zh": "老规矩", "py": "lǎoguīju", "gl": "usual rule"},
+      {"zh": "："},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "投资", "py": "tóuzī", "gl": "investment"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "。"}
+     ],
+     "start": 245.24,
+     "end": 249.36
+    },
+    {
+     "id": "s031",
+     "zh": "这样的下跌可能继续，也可能只是大资金在圣诞前落袋为安。",
+     "en": "A drop like this could continue, or it could just be big money taking profits before Christmas.",
+     "segments": [
+      {"zh": "这样", "py": "zhèyàng", "gl": "this kind"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "drop"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "继续", "py": "jìxù", "gl": "continue"},
+      {"zh": "，"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "merely"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "资金", "py": "zījīn", "gl": "money, funds"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "圣诞", "py": "Shèngdàn", "gl": "Christmas"},
+      {"zh": "前", "py": "qián", "gl": "before"},
+      {"zh": "落袋为安", "py": "luòdàiwéi'ān", "gl": "lock in profits"},
+      {"zh": "。"}
+     ],
+     "start": 249.36,
+     "end": 256.85
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s032",
+     "zh": "技术性反弹：大卖家一出手，止损单被全部触发。",
+     "en": "A technical rebound: as soon as a big seller moved, all the stop-loss orders were triggered.",
+     "segments": [
+      {"zh": "技术性", "py": "jìshùxìng", "gl": "technical"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"},
+      {"zh": "："},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "卖家", "py": "màijiā", "gl": "seller"},
+      {"zh": "一", "py": "yì", "gl": "as soon as"},
+      {"zh": "出手", "py": "chūshǒu", "gl": "make a move"},
+      {"zh": "，"},
+      {"zh": "止损单", "py": "zhǐsǔndān", "gl": "stop-loss order"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "全部", "py": "quánbù", "gl": "all"},
+      {"zh": "触发", "py": "chùfā", "gl": "trigger"},
+      {"zh": "。"}
+     ],
+     "start": 258.6,
+     "end": 264.55
+    },
+    {
+     "id": "s033",
+     "zh": "随后多项指标都显示超卖，机器说一声“该买了”，价格就弹了起来。",
+     "en": "Then several indicators all showed it was oversold, the machines said \"time to buy,\" and the price bounced back up.",
+     "segments": [
+      {"zh": "随后", "py": "suíhòu", "gl": "afterwards"},
+      {"zh": "多", "py": "duō", "gl": "many"},
+      {"zh": "项", "py": "xiàng", "gl": "(measure word: items)"},
+      {"zh": "指标", "py": "zhǐbiāo", "gl": "indicator"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "显示", "py": "xiǎnshì", "gl": "show"},
+      {"zh": "超卖", "py": "chāomài", "gl": "oversold"},
+      {"zh": "，"},
+      {"zh": "机器", "py": "jīqì", "gl": "machine"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "声", "py": "shēng", "gl": "(measure word: utterance)"},
+      {"zh": "“"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "弹", "py": "tán", "gl": "bounce"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "起来", "py": "qǐlai", "gl": "up"},
+      {"zh": "。"}
+     ],
+     "start": 265.08,
+     "end": 274.17
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s034",
+     "zh": "市值是个虚构的数字。",
+     "en": "Market value is a made-up number.",
+     "segments": [
+      {"zh": "市值", "py": "shìzhí", "gl": "market value"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "虚构", "py": "xūgòu", "gl": "fictional"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "数字", "py": "shùzì", "gl": "number"},
+      {"zh": "。"}
+     ],
+     "start": 274.84,
+     "end": 276.89
+    },
+    {
+     "id": "s035",
+     "zh": "一家万亿美元公司的10%就是1000亿美元，标题虽然吓人，这种波动其实很正常。",
+     "en": "10% of a trillion-dollar company is 100 billion dollars; the headlines may be scary, but this kind of swing is actually quite normal.",
+     "segments": [
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "家", "py": "jiā", "gl": "(measure word: companies)"},
+      {"zh": "万亿", "py": "wànyì", "gl": "trillion"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "公司", "py": "gōngsī", "gl": "company"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "10%"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is exactly"},
+      {"zh": "1000"},
+      {"zh": "亿", "py": "yì", "gl": "hundred million"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"},
+      {"zh": "，"},
+      {"zh": "标题", "py": "biāotí", "gl": "headline"},
+      {"zh": "虽然", "py": "suīrán", "gl": "although"},
+      {"zh": "吓人", "py": "xiàrén", "gl": "scary"},
+      {"zh": "，"},
+      {"zh": "这种", "py": "zhèzhǒng", "gl": "this kind of"},
+      {"zh": "波动", "py": "bōdòng", "gl": "fluctuation"},
+      {"zh": "其实", "py": "qíshí", "gl": "actually"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "正常", "py": "zhèngcháng", "gl": "normal"},
+      {"zh": "。"}
+     ],
+     "start": 277.28,
+     "end": 289.53
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s036",
+     "zh": "看涨期权，以及他为什么没能下单",
+     "en": "Call options, and why he couldn't place the order",
+     "segments": [
+      {"zh": "看涨期权", "py": "kànzhǎngqīquán", "gl": "call options"},
+      {"zh": "，"},
+      {"zh": "以及", "py": "yǐjí", "gl": "and"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "没能", "py": "méinéng", "gl": "was unable to"},
+      {"zh": "下单", "py": "xiàdān", "gl": "place an order"}
+     ],
+     "start": 290.86,
+     "end": 294.39
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s037",
+     "zh": "风险更高的玩法，是在下跌时买入看涨期权，价格回升后卖出，最迟周二早上就得走人，否则就像拿自己的钱玩俄罗斯轮盘赌。",
+     "en": "The riskier play is to buy call options on the dip and sell once the price recovers, getting out by Tuesday morning at the latest; otherwise it's like playing Russian roulette with your own money.",
+     "segments": [
+      {"zh": "风险", "py": "fēngxiǎn", "gl": "risk"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "玩法", "py": "wánfǎ", "gl": "play, strategy"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "drop, decline"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "买入", "py": "mǎirù", "gl": "buy"},
+      {"zh": "看涨期权", "py": "kànzhǎngqīquán", "gl": "call options"},
+      {"zh": "，"},
+      {"zh": "价格", "py": "jiàgé", "gl": "price"},
+      {"zh": "回升", "py": "huíshēng", "gl": "rebound"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "卖出", "py": "màichū", "gl": "sell"},
+      {"zh": "，"},
+      {"zh": "最迟", "py": "zuìchí", "gl": "at the latest"},
+      {"zh": "周二", "py": "zhōu'èr", "gl": "Tuesday"},
+      {"zh": "早上", "py": "zǎoshang", "gl": "morning"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "得", "py": "děi", "gl": "must"},
+      {"zh": "走人", "py": "zǒurén", "gl": "get out, leave"},
+      {"zh": "，"},
+      {"zh": "否则", "py": "fǒuzé", "gl": "otherwise"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "拿", "py": "ná", "gl": "take, use"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "one's own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "玩", "py": "wán", "gl": "play"},
+      {"zh": "俄罗斯", "py": "Éluósī", "gl": "Russian"},
+      {"zh": "轮盘赌", "py": "lúnpándǔ", "gl": "roulette"},
+      {"zh": "。"}
+     ],
+     "start": 294.88,
+     "end": 312.19
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "问题在于，劳斯莱斯没有在多伦多证券交易所上市。",
+     "en": "The problem is that Rolls-Royce isn't listed on the Toronto Stock Exchange.",
+     "segments": [
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "在于", "py": "zàiyú", "gl": "lies in"},
+      {"zh": "，"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "not"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "多伦多", "py": "Duōlúnduō", "gl": "Toronto"},
+      {"zh": "证券", "py": "zhèngquàn", "gl": "securities, stock"},
+      {"zh": "交易所", "py": "jiāoyìsuǒ", "gl": "exchange"},
+      {"zh": "上市", "py": "shàngshì", "gl": "be listed"},
+      {"zh": "。"}
+     ],
+     "start": 312.74,
+     "end": 319.47
+    },
+    {
+     "id": "s039",
+     "zh": "在美国，它通过场外交易的粉单市场交易：RYCEF、RYCEY和RLLCF。",
+     "en": "In the US, it trades over the counter on the pink sheets: RYCEF, RYCEY and RLLCF.",
+     "segments": [
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "美国", "py": "Měiguó", "gl": "the US"},
+      {"zh": "，"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "通过", "py": "tōngguò", "gl": "through"},
+      {"zh": "场外交易", "py": "chǎngwàijiāoyì", "gl": "over-the-counter trading"},
+      {"zh": "的", "py": "de", "gl": "(modifier particle)"},
+      {"zh": "粉单", "py": "fěndān", "gl": "pink sheets"},
+      {"zh": "市场", "py": "shìchǎng", "gl": "market"},
+      {"zh": "交易", "py": "jiāoyì", "gl": "be traded"},
+      {"zh": "："},
+      {"zh": "RYCEF"},
+      {"zh": "、"},
+      {"zh": "RYCEY"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "RLLCF"},
+      {"zh": "。"}
+     ],
+     "start": 319.98,
+     "end": 332.05
+    },
+    {
+     "id": "s040",
+     "zh": "Questrade不让他下这单，盈透证券或许可以。",
+     "en": "Questrade won't let him place this order, but Interactive Brokers might.",
+     "segments": [
+      {"zh": "Questrade"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "让", "py": "ràng", "gl": "let"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "下", "py": "xià", "gl": "place"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "单", "py": "dān", "gl": "order"},
+      {"zh": "，"},
+      {"zh": "盈透证券", "py": "Yíngtòuzhèngquàn", "gl": "Interactive Brokers"},
+      {"zh": "或许", "py": "huòxǔ", "gl": "perhaps"},
+      {"zh": "可以", "py": "kěyǐ", "gl": "can"},
+      {"zh": "。"}
+     ],
+     "start": 332.4,
+     "end": 337.87
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s041",
+     "zh": "股票表与十二月反弹",
+     "en": "The stock sheet and the December rebound",
+     "segments": [
+      {"zh": "股票表", "py": "gǔpiàobiǎo", "gl": "stock sheet"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "十二月", "py": "shí'èryuè", "gl": "December"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"}
+     ],
+     "start": 338.22,
+     "end": 340.72
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s042",
+     "zh": "他已把劳斯莱斯加进股票表，按周五的1164回溯记录。",
+     "en": "He has added Rolls-Royce to the stock sheet, recording it retroactively at Friday's 1164.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "已", "py": "yǐ", "gl": "already"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "加进", "py": "jiājìn", "gl": "add into"},
+      {"zh": "股票表", "py": "gǔpiàobiǎo", "gl": "stock sheet"},
+      {"zh": "，"},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "周五", "py": "zhōuwǔ", "gl": "Friday"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "1164"},
+      {"zh": "回溯", "py": "huísù", "gl": "retroactively"},
+      {"zh": "记录", "py": "jìlù", "gl": "record"},
+      {"zh": "。"}
+     ],
+     "start": 340.72,
+     "end": 348.69
+    },
+    {
+     "id": "s043",
+     "zh": "十二月中旬，人们为了抵扣税务亏损而抛售；随后出现超卖的快速反弹，被称为“华尔街唯一的免费午餐”；再往后是圣诞老人行情。",
+     "en": "In mid-December, people sell to offset tax losses; then comes a sharp rebound from oversold levels, called \"the only free lunch on Wall Street\"; after that comes the Santa Claus rally.",
+     "segments": [
+      {"zh": "十二月", "py": "shí'èryuè", "gl": "December"},
+      {"zh": "中旬", "py": "zhōngxún", "gl": "middle of month"},
+      {"zh": "，"},
+      {"zh": "人们", "py": "rénmen", "gl": "people"},
+      {"zh": "为了", "py": "wèile", "gl": "in order to"},
+      {"zh": "抵扣", "py": "dǐkòu", "gl": "offset, deduct"},
+      {"zh": "税务", "py": "shuìwù", "gl": "tax"},
+      {"zh": "亏损", "py": "kuīsǔn", "gl": "losses"},
+      {"zh": "而", "py": "ér", "gl": "(links purpose)"},
+      {"zh": "抛售", "py": "pāoshòu", "gl": "sell off"},
+      {"zh": "；"},
+      {"zh": "随后", "py": "suíhòu", "gl": "afterwards"},
+      {"zh": "出现", "py": "chūxiàn", "gl": "appear"},
+      {"zh": "超卖", "py": "chāomài", "gl": "oversold"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "快速", "py": "kuàisù", "gl": "rapid"},
+      {"zh": "反弹", "py": "fǎntán", "gl": "rebound"},
+      {"zh": "，"},
+      {"zh": "被", "py": "bèi", "gl": "(passive marker)"},
+      {"zh": "称为", "py": "chēngwéi", "gl": "be called"},
+      {"zh": "“"},
+      {"zh": "华尔街", "py": "Huá'ěrjiē", "gl": "Wall Street"},
+      {"zh": "唯一", "py": "wéiyī", "gl": "only"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "免费", "py": "miǎnfèi", "gl": "free"},
+      {"zh": "午餐", "py": "wǔcān", "gl": "lunch"},
+      {"zh": "”"},
+      {"zh": "；"},
+      {"zh": "再", "py": "zài", "gl": "further"},
+      {"zh": "往后", "py": "wǎnghòu", "gl": "later on"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "圣诞老人", "py": "Shèngdànlǎorén", "gl": "Santa Claus"},
+      {"zh": "行情", "py": "hángqíng", "gl": "market rally"},
+      {"zh": "。"}
+     ],
+     "start": 349.78,
+     "end": 366.49
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "硬盘与盖蒂法则",
+     "en": "Hard Drives and Getty's Rule",
+     "segments": [
+      {"zh": "硬盘", "py": "yìngpán", "gl": "hard drives"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "盖蒂", "py": "Gàidì", "gl": "Getty"},
+      {"zh": "法则", "py": "fǎzé", "gl": "rule; principle"}
+     ],
+     "start": 366.86,
+     "end": 369.04
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s045",
+     "zh": "半开玩笑地说：他现在花在AI上的时间，和当年花在股市上的一样多，而他还需要一份工作。",
+     "en": "Half-jokingly, he says he now spends as much time on AI as he once spent on the stock market, and he still needs a job.",
+     "segments": [
+      {"zh": "半开玩笑", "py": "bàn kāi wánxiào", "gl": "half-jokingly"},
+      {"zh": "地", "py": "de", "gl": "(adverbial marker)"},
+      {"zh": "说", "py": "shuō", "gl": "to say"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "花", "py": "huā", "gl": "to spend"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "AI"},
+      {"zh": "上", "py": "shang", "gl": "on (with 在)"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "，"},
+      {"zh": "和", "py": "hé", "gl": "as; and"},
+      {"zh": "当年", "py": "dāngnián", "gl": "back then"},
+      {"zh": "花", "py": "huā", "gl": "to spend"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"},
+      {"zh": "上", "py": "shang", "gl": "on (with 在)"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "一样", "py": "yíyàng", "gl": "the same"},
+      {"zh": "多", "py": "duō", "gl": "much"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "and yet"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "需要", "py": "xūyào", "gl": "to need"},
+      {"zh": "一份", "py": "yífèn", "gl": "a (job)"},
+      {"zh": "工作", "py": "gōngzuò", "gl": "job"},
+      {"zh": "。"}
+     ],
+     "start": 369.04,
+     "end": 380.36
+    },
+    {
+     "id": "s046",
+     "zh": "整个周末，他都在六块硬盘之间倒腾文件，不禁自问：“哪个侄子侄女会愿意翻我的硬盘，看几小时的史蒂夫叔叔自言自语？”",
+     "en": "All weekend he shuffled files between six hard drives and couldn't help asking himself: \"Which of my nephews or nieces would ever want to dig through my hard drives and watch hours of Uncle Steve talking to himself?\"",
+     "segments": [
+      {"zh": "整个", "py": "zhěnggè", "gl": "the whole"},
+      {"zh": "周末", "py": "zhōumò", "gl": "weekend"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "都", "py": "dōu", "gl": "all along"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "六", "py": "liù", "gl": "six"},
+      {"zh": "块", "py": "kuài", "gl": "(measure word)"},
+      {"zh": "硬盘", "py": "yìngpán", "gl": "hard drives"},
+      {"zh": "之间", "py": "zhījiān", "gl": "between"},
+      {"zh": "倒腾", "py": "dǎoteng", "gl": "to shuffle around"},
+      {"zh": "文件", "py": "wénjiàn", "gl": "files"},
+      {"zh": "，"},
+      {"zh": "不禁", "py": "bùjīn", "gl": "can't help but"},
+      {"zh": "自问", "py": "zìwèn", "gl": "to ask oneself"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "哪个", "py": "nǎge", "gl": "which"},
+      {"zh": "侄子", "py": "zhízi", "gl": "nephew"},
+      {"zh": "侄女", "py": "zhínǚ", "gl": "niece"},
+      {"zh": "会", "py": "huì", "gl": "would"},
+      {"zh": "愿意", "py": "yuànyì", "gl": "be willing"},
+      {"zh": "翻", "py": "fān", "gl": "to dig through"},
+      {"zh": "我", "py": "wǒ", "gl": "my"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "硬盘", "py": "yìngpán", "gl": "hard drives"},
+      {"zh": "，"},
+      {"zh": "看", "py": "kàn", "gl": "to watch"},
+      {"zh": "几", "py": "jǐ", "gl": "several"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "史蒂夫", "py": "Shǐdìfū", "gl": "Steve"},
+      {"zh": "叔叔", "py": "shūshu", "gl": "uncle"},
+      {"zh": "自言自语", "py": "zìyán-zìyǔ", "gl": "talking to oneself"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 380.36,
+     "end": 395.15
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "多年来，他的公寓里一直挂着盖蒂《如何致富》里的一句话：“永远别忘了企业的核心目标：以更低的成本，为更多的人生产更多更好的产品，或提供更多更好的服务。”",
+     "en": "For years, a line from Getty's How to Be Rich has hung in his apartment: \"Never forget the central aim of business: to produce more and better goods, or provide more and better services, for more people at ever lower cost.\"",
+     "segments": [
+      {"zh": "多年来", "py": "duōnián lái", "gl": "for many years"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "公寓", "py": "gōngyù", "gl": "apartment"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "一直", "py": "yìzhí", "gl": "all along"},
+      {"zh": "挂", "py": "guà", "gl": "to hang"},
+      {"zh": "着", "py": "zhe", "gl": "(continuous state)"},
+      {"zh": "盖蒂", "py": "Gàidì", "gl": "Getty"},
+      {"zh": "《"},
+      {"zh": "如何", "py": "rúhé", "gl": "how to"},
+      {"zh": "致富", "py": "zhìfù", "gl": "get rich"},
+      {"zh": "》"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "一句话", "py": "yíjùhuà", "gl": "a quote"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "永远", "py": "yǒngyuǎn", "gl": "ever"},
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "忘", "py": "wàng", "gl": "to forget"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "企业", "py": "qǐyè", "gl": "business"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "核心", "py": "héxīn", "gl": "core"},
+      {"zh": "目标", "py": "mùbiāo", "gl": "goal"},
+      {"zh": "："},
+      {"zh": "以", "py": "yǐ", "gl": "at; with"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "低", "py": "dī", "gl": "low"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "成本", "py": "chéngběn", "gl": "cost"},
+      {"zh": "，"},
+      {"zh": "为", "py": "wèi", "gl": "for"},
+      {"zh": "更多", "py": "gèngduō", "gl": "more"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "生产", "py": "shēngchǎn", "gl": "to produce"},
+      {"zh": "更多", "py": "gèngduō", "gl": "more"},
+      {"zh": "更好", "py": "gènghǎo", "gl": "better"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "产品", "py": "chǎnpǐn", "gl": "products"},
+      {"zh": "，"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "提供", "py": "tígōng", "gl": "to provide"},
+      {"zh": "更多", "py": "gèngduō", "gl": "more"},
+      {"zh": "更好", "py": "gènghǎo", "gl": "better"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "服务", "py": "fúwù", "gl": "services"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 395.72,
+     "end": 416.47
+    },
+    {
+     "id": "s048",
+     "zh": "今天，这句话又一次击中了他。",
+     "en": "Today, those words struck him once again.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "句", "py": "jù", "gl": "(measure for sentences)"},
+      {"zh": "话", "py": "huà", "gl": "words; saying"},
+      {"zh": "又", "py": "yòu", "gl": "again"},
+      {"zh": "一次", "py": "yícì", "gl": "one time"},
+      {"zh": "击中", "py": "jīzhòng", "gl": "to strike; hit"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "。"}
+     ],
+     "start": 417.32,
+     "end": 420.3
+    },
+    {
+     "id": "s049",
+     "zh": "那么，他自己在生产什么？",
+     "en": "So what is he himself producing?",
+     "segments": [
+      {"zh": "那么", "py": "nàme", "gl": "so; then"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "生产", "py": "shēngchǎn", "gl": "to produce"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "？"}
+     ],
+     "start": 420.3,
+     "end": 424.13
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s050",
+     "zh": "他的新视频控制面板",
+     "en": "His new video control panel",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "控制面板", "py": "kòngzhì miànbǎn", "gl": "control panel"}
+     ],
+     "start": 424.77,
+     "end": 427.35
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s051",
+     "zh": "盖蒂这条原则，正好描述了Anthropic、OpenAI和谷歌在做的事。",
+     "en": "Getty's principle describes exactly what Anthropic, OpenAI and Google are doing.",
+     "segments": [
+      {"zh": "盖蒂", "py": "Gàidì", "gl": "Getty"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word)"},
+      {"zh": "原则", "py": "yuánzé", "gl": "principle"},
+      {"zh": "，"},
+      {"zh": "正好", "py": "zhènghǎo", "gl": "exactly"},
+      {"zh": "描述", "py": "miáoshù", "gl": "describe"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "Anthropic"},
+      {"zh": "、"},
+      {"zh": "OpenAI"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "谷歌", "py": "Gǔgē", "gl": "Google"},
+      {"zh": "在", "py": "zài", "gl": "(in progress)"},
+      {"zh": "做", "py": "zuò", "gl": "do"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "事", "py": "shì", "gl": "thing"},
+      {"zh": "。"}
+     ],
+     "start": 429.1,
+     "end": 436.31
+    },
+    {
+     "id": "s052",
+     "zh": "受亚当·柯里“凭感觉写代码”的启发，史蒂文搭了一个在浏览器里运行、基于文字稿的视频编辑器。",
+     "en": "Inspired by Adam Curry's \"vibe coding,\" Steven built a transcript-based video editor that runs in the browser.",
+     "segments": [
+      {"zh": "受", "py": "shòu", "gl": "receive; be"},
+      {"zh": "亚当", "py": "Yàdāng", "gl": "Adam"},
+      {"zh": "·"},
+      {"zh": "柯里", "py": "Kēlǐ", "gl": "Curry"},
+      {"zh": "“"},
+      {"zh": "凭", "py": "píng", "gl": "by; relying on"},
+      {"zh": "感觉", "py": "gǎnjué", "gl": "feeling"},
+      {"zh": "写", "py": "xiě", "gl": "write"},
+      {"zh": "代码", "py": "dàimǎ", "gl": "code"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "启发", "py": "qǐfā", "gl": "inspiration"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "搭", "py": "dā", "gl": "build"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一个", "py": "yí ge", "gl": "a"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "浏览器", "py": "liúlǎnqì", "gl": "browser"},
+      {"zh": "里", "py": "lǐ", "gl": "inside"},
+      {"zh": "运行", "py": "yùnxíng", "gl": "run"},
+      {"zh": "、"},
+      {"zh": "基于", "py": "jīyú", "gl": "based on"},
+      {"zh": "文字稿", "py": "wénzìgǎo", "gl": "transcript"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "编辑器", "py": "biānjíqì", "gl": "editor"},
+      {"zh": "。"}
+     ],
+     "start": 437.46,
+     "end": 449.21
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s053",
+     "zh": "AI生成片段、B-roll和图表的速度，比他审核还快。",
+     "en": "AI generates clips, B-roll and charts faster than he can review them.",
+     "segments": [
+      {"zh": "AI"},
+      {"zh": "生成", "py": "shēngchéng", "gl": "generate"},
+      {"zh": "片段", "py": "piànduàn", "gl": "clip"},
+      {"zh": "、"},
+      {"zh": "B-roll"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "图表", "py": "túbiǎo", "gl": "chart"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "速度", "py": "sùdù", "gl": "speed"},
+      {"zh": "，"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "审核", "py": "shěnhé", "gl": "review"},
+      {"zh": "还", "py": "hái", "gl": "even"},
+      {"zh": "快", "py": "kuài", "gl": "fast"},
+      {"zh": "。"}
+     ],
+     "start": 449.96,
+     "end": 457.33
+    },
+    {
+     "id": "s054",
+     "zh": "他边看边用快捷键标记缩放、B-roll和标题卡，剩下的交给电脑。",
+     "en": "While watching, he uses keyboard shortcuts to mark zooms, B-roll and title cards, and leaves the rest to the computer.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "边", "py": "biān", "gl": "while"},
+      {"zh": "看", "py": "kàn", "gl": "watch"},
+      {"zh": "边", "py": "biān", "gl": "while"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "快捷键", "py": "kuàijiéjiàn", "gl": "keyboard shortcut"},
+      {"zh": "标记", "py": "biāojì", "gl": "mark"},
+      {"zh": "缩放", "py": "suōfàng", "gl": "zoom"},
+      {"zh": "、"},
+      {"zh": "B-roll"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "标题卡", "py": "biāotíkǎ", "gl": "title card"},
+      {"zh": "，"},
+      {"zh": "剩下", "py": "shèngxia", "gl": "remain"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "交给", "py": "jiāogěi", "gl": "hand over to"},
+      {"zh": "电脑", "py": "diànnǎo", "gl": "computer"},
+      {"zh": "。"}
+     ],
+     "start": 458.7,
+     "end": 467.21
+    },
+    {
+     "id": "s055",
+     "zh": "去年他花了3000元买DaVinci，只打开过一次。",
+     "en": "Last year he spent 3,000 yuan on DaVinci and opened it only once.",
+     "segments": [
+      {"zh": "去年", "py": "qùnián", "gl": "last year"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "花", "py": "huā", "gl": "spend"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "3000"},
+      {"zh": "元", "py": "yuán", "gl": "yuan"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "DaVinci"},
+      {"zh": "，"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "打开", "py": "dǎkāi", "gl": "open"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "一次", "py": "yí cì", "gl": "once"},
+      {"zh": "。"}
+     ],
+     "start": 467.8,
+     "end": 473.31
+    },
+    {
+     "id": "s056",
+     "zh": "“它依然复杂得要命。”",
+     "en": "\"It's still insanely complicated.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "依然", "py": "yīrán", "gl": "still"},
+      {"zh": "复杂", "py": "fùzá", "gl": "complicated"},
+      {"zh": "得", "py": "de", "gl": "(degree complement)"},
+      {"zh": "要命", "py": "yàomìng", "gl": "extremely"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 473.94,
+     "end": 476.07
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "一档播客，多个“品牌”",
+     "en": "One podcast, many \"brands\"",
+     "segments": [
+      {"zh": "一", "py": "yí", "gl": "one"},
+      {"zh": "档", "py": "dàng", "gl": "(measure word for shows)"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "，"},
+      {"zh": "多个", "py": "duō ge", "gl": "multiple"},
+      {"zh": "“"},
+      {"zh": "品牌", "py": "pǐnpái", "gl": "brands"},
+      {"zh": "”"}
+     ],
+     "start": 476.14,
+     "end": 479.4
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s058",
+     "zh": "加里·维纳查克说，他每天发布约400条内容。",
+     "en": "Gary Vaynerchuk says he publishes about 400 pieces of content every day.",
+     "segments": [
+      {"zh": "加里·维纳查克", "py": "Jiālǐ·Wéinàchákè", "gl": "Gary Vaynerchuk"},
+      {"zh": "说", "py": "shuō", "gl": "says"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "每天", "py": "měitiān", "gl": "every day"},
+      {"zh": "发布", "py": "fābù", "gl": "publishes"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "400"},
+      {"zh": "条", "py": "tiáo", "gl": "(measure word for items)"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "。"}
+     ],
+     "start": 479.4,
+     "end": 485.99
+    },
+    {
+     "id": "s059",
+     "zh": "史蒂文的AI流程现在能把每期节目变成漫画、梗图和短视频，供四五个品牌使用，其中三个是英语教学频道。",
+     "en": "Steven's AI pipeline can now turn each episode into comics, memes and short videos for four or five brands, three of which are English-teaching channels.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "AI"},
+      {"zh": "流程", "py": "liúchéng", "gl": "pipeline"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "每期", "py": "měi qī", "gl": "each issue"},
+      {"zh": "节目", "py": "jiémù", "gl": "episode"},
+      {"zh": "变成", "py": "biànchéng", "gl": "turn into"},
+      {"zh": "漫画", "py": "mànhuà", "gl": "comics"},
+      {"zh": "、"},
+      {"zh": "梗图", "py": "gěngtú", "gl": "memes"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "短视频", "py": "duǎnshìpín", "gl": "short videos"},
+      {"zh": "，"},
+      {"zh": "供", "py": "gōng", "gl": "for (use by)"},
+      {"zh": "四五个", "py": "sì wǔ ge", "gl": "four or five"},
+      {"zh": "品牌", "py": "pǐnpái", "gl": "brands"},
+      {"zh": "使用", "py": "shǐyòng", "gl": "to use"},
+      {"zh": "，"},
+      {"zh": "其中", "py": "qízhōng", "gl": "among them"},
+      {"zh": "三个", "py": "sān ge", "gl": "three"},
+      {"zh": "是", "py": "shì", "gl": "are"},
+      {"zh": "英语", "py": "Yīngyǔ", "gl": "English"},
+      {"zh": "教学", "py": "jiàoxué", "gl": "teaching"},
+      {"zh": "频道", "py": "píndào", "gl": "channels"},
+      {"zh": "。"}
+     ],
+     "start": 486.5,
+     "end": 500.89
+    },
+    {
+     "id": "s060",
+     "zh": "每个品牌都有一份CSV文件，可批量上传。",
+     "en": "Each brand has its own CSV file that can be bulk-uploaded.",
+     "segments": [
+      {"zh": "每个", "py": "měi ge", "gl": "each"},
+      {"zh": "品牌", "py": "pǐnpái", "gl": "brand"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "有", "py": "yǒu", "gl": "has"},
+      {"zh": "一份", "py": "yí fèn", "gl": "a (copy of)"},
+      {"zh": "CSV"},
+      {"zh": "文件", "py": "wénjiàn", "gl": "file"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "can"},
+      {"zh": "批量", "py": "pīliàng", "gl": "in bulk"},
+      {"zh": "上传", "py": "shàngchuán", "gl": "upload"},
+      {"zh": "。"}
+     ],
+     "start": 501.3,
+     "end": 507.11
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "课程、书籍和学习小组也即将推出。",
+     "en": "Courses, books and study groups are also coming soon.",
+     "segments": [
+      {"zh": "课程", "py": "kèchéng", "gl": "courses"},
+      {"zh": "、"},
+      {"zh": "书籍", "py": "shūjí", "gl": "books"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "学习", "py": "xuéxí", "gl": "study"},
+      {"zh": "小组", "py": "xiǎozǔ", "gl": "groups"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "即将", "py": "jíjiāng", "gl": "soon"},
+      {"zh": "推出", "py": "tuīchū", "gl": "launch"},
+      {"zh": "。"}
+     ],
+     "start": 507.72,
+     "end": 512.29
+    },
+    {
+     "id": "s062",
+     "zh": "他还要把吉祥物史蒂文老师请回来，因为连他自己都看腻了自己的脸。",
+     "en": "He's also bringing back his mascot, Teacher Steven, because even he is sick of seeing his own face.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "要", "py": "yào", "gl": "is going to"},
+      {"zh": "把", "py": "bǎ", "gl": "(marks object)"},
+      {"zh": "吉祥物", "py": "jíxiángwù", "gl": "mascot"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "请回来", "py": "qǐng huílai", "gl": "bring back"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "连", "py": "lián", "gl": "even"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "himself"},
+      {"zh": "都", "py": "dōu", "gl": "(emphasis with 连)"},
+      {"zh": "看腻", "py": "kànnì", "gl": "be sick of seeing"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "his own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "脸", "py": "liǎn", "gl": "face"},
+      {"zh": "。"}
+     ],
+     "start": 512.76,
+     "end": 521.47
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s063",
+     "zh": "⏳ 一年倒计时",
+     "en": "⏳ A one-year countdown",
+     "segments": [
+      {"zh": "⏳"},
+      {"zh": " "},
+      {"zh": "一年", "py": "yìnián", "gl": "one year"},
+      {"zh": "倒计时", "py": "dàojìshí", "gl": "countdown"}
+     ],
+     "start": 521.88,
+     "end": 523.62
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s064",
+     "zh": "AI估算，他的英语教学文件夹里至少有一年的内容。",
+     "en": "The AI estimated that his English-teaching folder holds at least a year's worth of content.",
+     "segments": [
+      {"zh": "AI"},
+      {"zh": "估算", "py": "gūsuàn", "gl": "estimated"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "英语", "py": "Yīngyǔ", "gl": "English"},
+      {"zh": "教学", "py": "jiàoxué", "gl": "teaching"},
+      {"zh": "文件夹", "py": "wénjiànjiā", "gl": "folder"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "至少", "py": "zhìshǎo", "gl": "at least"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "一年", "py": "yìnián", "gl": "one year"},
+      {"zh": "的", "py": "de", "gl": "(of)"},
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "。"}
+     ],
+     "start": 523.62,
+     "end": 530.29
+    },
+    {
+     "id": "s065",
+     "zh": "“如果现在做不成，那我永远也做不成。”",
+     "en": "\"If I can't make it happen now, I never will.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "做不成", "py": "zuòbuchéng", "gl": "can't succeed"},
+      {"zh": "，"},
+      {"zh": "那", "py": "nà", "gl": "then"},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "永远", "py": "yǒngyuǎn", "gl": "forever"},
+      {"zh": "也", "py": "yě", "gl": "(emphasis) still"},
+      {"zh": "做不成", "py": "zuòbuchéng", "gl": "can't succeed"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 530.74,
+     "end": 535.39
+    },
+    {
+     "id": "s066",
+     "zh": "倒计时从第一个账号上线那天开始。",
+     "en": "The countdown starts the day the first account goes live.",
+     "segments": [
+      {"zh": "倒计时", "py": "dàojìshí", "gl": "countdown"},
+      {"zh": "从", "py": "cóng", "gl": "from"},
+      {"zh": "第一", "py": "dìyī", "gl": "first"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "账号", "py": "zhànghào", "gl": "account"},
+      {"zh": "上线", "py": "shàngxiàn", "gl": "goes live"},
+      {"zh": "那天", "py": "nàtiān", "gl": "that day"},
+      {"zh": "开始", "py": "kāishǐ", "gl": "starts"},
+      {"zh": "。"}
+     ],
+     "start": 537.24,
+     "end": 540.79
+    },
+    {
+     "id": "s067",
+     "zh": "如果一年后赚不到像样的钱，他就得面对现实，包括这档播客可能也要结束。",
+     "en": "If he isn't making decent money after a year, he'll have to face reality, which could include this podcast ending too.",
+     "segments": [
+      {"zh": "如果", "py": "rúguǒ", "gl": "if"},
+      {"zh": "一年", "py": "yìnián", "gl": "one year"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "赚不到", "py": "zhuànbudào", "gl": "can't earn"},
+      {"zh": "像样", "py": "xiàngyàng", "gl": "decent"},
+      {"zh": "的", "py": "de", "gl": "(modifier marker)"},
+      {"zh": "钱", "py": "qián", "gl": "money"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "得", "py": "děi", "gl": "must"},
+      {"zh": "面对", "py": "miànduì", "gl": "face"},
+      {"zh": "现实", "py": "xiànshí", "gl": "reality"},
+      {"zh": "，"},
+      {"zh": "包括", "py": "bāokuò", "gl": "including"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "档", "py": "dàng", "gl": "(measure for shows)"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "要", "py": "yào", "gl": "will"},
+      {"zh": "结束", "py": "jiéshù", "gl": "end"},
+      {"zh": "。"}
+     ],
+     "start": 541.26,
+     "end": 550.97
+    },
+    {
+     "id": "s068",
+     "zh": "正如阿里·G所说：“你怎能和现实争辩？”",
+     "en": "As Ali G said: \"How can you argue with reality?\"",
+     "segments": [
+      {"zh": "正如", "py": "zhèngrú", "gl": "just as"},
+      {"zh": "阿里", "py": "Ālǐ", "gl": "Ali"},
+      {"zh": "·"},
+      {"zh": "G"},
+      {"zh": "所", "py": "suǒ", "gl": "(nominalizer)"},
+      {"zh": "说", "py": "shuō", "gl": "said"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "怎", "py": "zěn", "gl": "how"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "现实", "py": "xiànshí", "gl": "reality"},
+      {"zh": "争辩", "py": "zhēngbiàn", "gl": "argue"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 551.36,
+     "end": 556.25
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s069",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 557.14,
+     "end": 558.46
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s070",
+     "zh": "保持健身器械干净，对超卖的股票多留个心眼，并不断问自己：我是否在以更低的成本，为更多人提供更多更好的价值？",
+     "en": "Keep the gym equipment clean, be extra careful with oversold stocks, and keep asking yourself: am I providing more and better value to more people at a lower cost?",
+     "segments": [
+      {"zh": "保持", "py": "bǎochí", "gl": "keep"},
+      {"zh": "健身", "py": "jiànshēn", "gl": "fitness"},
+      {"zh": "器械", "py": "qìxiè", "gl": "equipment"},
+      {"zh": "干净", "py": "gānjìng", "gl": "clean"},
+      {"zh": "，"},
+      {"zh": "对", "py": "duì", "gl": "toward; with"},
+      {"zh": "超卖", "py": "chāomài", "gl": "oversold"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stocks"},
+      {"zh": "多", "py": "duō", "gl": "more; extra"},
+      {"zh": "留", "py": "liú", "gl": "keep; leave"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "心眼", "py": "xīnyǎn", "gl": "caution; wariness"},
+      {"zh": "，"},
+      {"zh": "并", "py": "bìng", "gl": "and also"},
+      {"zh": "不断", "py": "búduàn", "gl": "continually"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
+      {"zh": "："},
+      {"zh": "我", "py": "wǒ", "gl": "I"},
+      {"zh": "是否", "py": "shìfǒu", "gl": "whether"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "以", "py": "yǐ", "gl": "with; at"},
+      {"zh": "更", "py": "gèng", "gl": "more"},
+      {"zh": "低", "py": "dī", "gl": "low"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "成本", "py": "chéngběn", "gl": "cost"},
+      {"zh": "，"},
+      {"zh": "为", "py": "wèi", "gl": "for"},
+      {"zh": "更多", "py": "gèngduō", "gl": "more"},
+      {"zh": "人", "py": "rén", "gl": "people"},
+      {"zh": "提供", "py": "tígōng", "gl": "provide"},
+      {"zh": "更多", "py": "gèngduō", "gl": "more"},
+      {"zh": "更", "py": "gèng", "gl": "even more"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "价值", "py": "jiàzhí", "gl": "value"},
+      {"zh": "？"}
+     ],
+     "start": 558.46,
+     "end": 575.31
+    },
+    {
+     "id": "s071",
+     "zh": "这就是他给未来一年定的考题。",
+     "en": "This is the test question he has set for himself for the coming year.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is exactly"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "未来", "py": "wèilái", "gl": "coming; future"},
+      {"zh": "一年", "py": "yìnián", "gl": "one year"},
+      {"zh": "定", "py": "dìng", "gl": "set"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "考题", "py": "kǎotí", "gl": "test question"},
+      {"zh": "。"}
+     ],
+     "start": 575.9,
+     "end": 579.83
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "闪崩", "py": "shǎn bēng", "en": "flash crash"},
+  {"zh": "落袋为安", "py": "luò dài wéi ān", "en": "to bank one's profits"},
+  {"zh": "超卖", "py": "chāo mài", "en": "oversold"},
+  {"zh": "看涨期权", "py": "kàn zhǎng qīquán", "en": "call option"},
+  {"zh": "止损单", "py": "zhǐ sǔn dān", "en": "stop order"},
+  {"zh": "场外交易", "py": "chǎngwài jiāoyì", "en": "over-the-counter trading"},
+  {"zh": "消毒", "py": "xiāodú", "en": "to disinfect"},
+  {"zh": "吉祥物", "py": "jíxiángwù", "en": "mascot"},
+  {"zh": "批量上传", "py": "pīliàng shàngchuán", "en": "bulk upload"},
+  {"zh": "半开玩笑", "py": "bàn kāi wánxiào", "en": "half joking"}
+ ]
+}
