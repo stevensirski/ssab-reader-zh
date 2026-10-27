@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T18:24",
+ "updated": "2026-10-27T18:30",
  "episodes": [
   {
    "id": "ssab-2026-10-27",
    "date": "2026-10-27",
-   "title": "Live-Streaming the Show: Four Brands and Six Bad Openings",
-   "titleZh": "边直播边录：四个品牌与六个坏开头",
-   "description": "Steven tries live-streaming the podcast to TikTok for the first time, shows off his AI workflow, lays out four English-teaching brands while asking whether anyone actually wants them, and previews this year's Slavic folk-tale Halloween audiobook. He also explains why he told his freshmen that all six of their favorite essay openings don't work, and how he'll have them speak their essays out loud on Friday.",
-   "duration": null,
-   "chars": 1537,
-   "hasAudio": false
+   "title": "TikTok Debut and Six Bad Openings",
+   "titleZh": "TikTok首播与六个糟糕开头",
+   "description": "Steven livestreams to TikTok for the first time while recording, tours his gear and AI workflow, and weighs launching four English-teaching brands. He also previews a Slavic folk-tale Halloween audiobook and explains why he told his first-year students that all six of their favourite essay openings are banned.",
+   "duration": 588,
+   "chars": 1489,
+   "hasAudio": true
   },
   {
    "id": "ssab-2026-10-26",
