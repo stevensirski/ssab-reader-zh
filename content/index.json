@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-27T18:30",
+ "updated": "2026-10-28T18:27",
  "episodes": [
+  {
+   "id": "ssab-2026-10-28",
+   "date": "2026-10-28",
+   "title": "Mbappé Loses Endorsements, I Build Dashboards",
+   "titleZh": "姆巴佩丢代言，我造仪表盘",
+   "description": "Steven talks about Mbappé losing Chinese endorsements over a meme and the gap between free speech and freedom after speech. He also shows off the comic, video and Substack dashboards he built with Claude Code, and gives an update on office hours, the IELTS partner program and Beijing's late autumn.",
+   "duration": 582,
+   "chars": 1484,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-27",
    "date": "2026-10-27",
