@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-28T18:27",
+ "updated": "2026-10-29T17:59",
  "episodes": [
+  {
+   "id": "ssab-2026-10-29",
+   "date": "2026-10-29",
+   "title": "AI Dashboards and Farewell to No Agenda",
+   "titleZh": "AI仪表盘与告别No Agenda",
+   "description": "Steven covers a Rolls-Royce stock rebound, the end of the 19-year No Agenda Show, Apple's new touchscreen MacBook Pro, and the Claude-built AI dashboards he's using to prep for HSK5. He finishes with his Halloween reading list of Russian horror stories by Gogol, Chekhov, Turgenev and Pushkin.",
+   "duration": 622,
+   "chars": 1448,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-28",
    "date": "2026-10-28",

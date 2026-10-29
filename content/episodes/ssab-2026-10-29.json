@@ -1,0 +1,2223 @@
+{
+ "id": "ssab-2026-10-29",
+ "date": "2026-10-29",
+ "title": "AI Dashboards and Farewell to No Agenda",
+ "titleZh": "AI仪表盘与告别No Agenda",
+ "description": "Steven covers a Rolls-Royce stock rebound, the end of the 19-year No Agenda Show, Apple's new touchscreen MacBook Pro, and the Claude-built AI dashboards he's using to prep for HSK5. He finishes with his Halloween reading list of Russian horror stories by Gogol, Chekhov, Turgenev and Pushkin.",
+ "duration": 622,
+ "audio": {
+  "src": "audio/ssab-2026-10-29.m4a"
+ },
+ "paragraphs": [
+  {
+   "id": "p1",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s001",
+     "zh": "内容速览",
+     "en": "Content overview",
+     "segments": [
+      {"zh": "内容", "py": "nèiróng", "gl": "content"},
+      {"zh": "速览", "py": "sùlǎn", "gl": "quick overview"}
+     ],
+     "start": 16.9,
+     "end": 18.17
+    }
+   ]
+  },
+  {
+   "id": "p2",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s002",
+     "zh": "今天这期节目聊的是十月底的话题：一只表现不错的劳斯莱斯股票，播了19年的《No Agenda Show》宣布停播，苹果的触屏版MacBook Pro，还有史蒂文用Claude做的AI仪表盘，其中一个专门用来备考HSK5。",
+     "en": "Today's episode covers topics from late October: a Rolls-Royce stock that's been performing well, the 19-year-old \"No Agenda Show\" announcing it's ending, Apple's touchscreen MacBook Pro, and the AI dashboards Steven built with Claude, one of which is specifically for preparing for HSK5.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: issue)"},
+      {"zh": "节目", "py": "jiémù", "gl": "program; episode"},
+      {"zh": "聊", "py": "liáo", "gl": "chat about"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "十月底", "py": "shíyuèdǐ", "gl": "end of October"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "话题", "py": "huàtí", "gl": "topics"},
+      {"zh": "："},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "只", "py": "zhī", "gl": "(measure word: stock)"},
+      {"zh": "表现", "py": "biǎoxiàn", "gl": "perform"},
+      {"zh": "不错", "py": "búcuò", "gl": "pretty well"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "，"},
+      {"zh": "播", "py": "bō", "gl": "broadcast"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "19"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "《"},
+      {"zh": "No Agenda Show"},
+      {"zh": "》"},
+      {"zh": "宣布", "py": "xuānbù", "gl": "announce"},
+      {"zh": "停播", "py": "tíngbō", "gl": "stop airing"},
+      {"zh": "，"},
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "触屏版", "py": "chùpíngbǎn", "gl": "touchscreen version"},
+      {"zh": "MacBook Pro"},
+      {"zh": "，"},
+      {"zh": "还有", "py": "háiyǒu", "gl": "and also"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "用", "py": "yòng", "gl": "using"},
+      {"zh": "Claude"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "AI"},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"},
+      {"zh": "，"},
+      {"zh": "其中", "py": "qízhōng", "gl": "among them"},
+      {"zh": "一个", "py": "yí ge", "gl": "one"},
+      {"zh": "专门", "py": "zhuānmén", "gl": "specifically"},
+      {"zh": "用来", "py": "yònglái", "gl": "used for"},
+      {"zh": "备考", "py": "bèikǎo", "gl": "prepare for exam"},
+      {"zh": "HSK5"},
+      {"zh": "。"}
+     ],
+     "start": 18.62,
+     "end": 46.1
+    },
+    {
+     "id": "s003",
+     "zh": "最后是他今年的万圣节书单。",
+     "en": "Finally, there's his Halloween reading list for this year.",
+     "segments": [
+      {"zh": "最后", "py": "zuìhòu", "gl": "finally"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "万圣节", "py": "Wànshèngjié", "gl": "Halloween"},
+      {"zh": "书单", "py": "shūdān", "gl": "reading list"},
+      {"zh": "。"}
+     ],
+     "start": 46.1,
+     "end": 49.19
+    },
+    {
+     "id": "s004",
+     "zh": "这一切，都赶在晚上7点的中文课之前。",
+     "en": "All of this squeezed in before the 7 p.m. Chinese class.",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "一切", "py": "yíqiè", "gl": "all"},
+      {"zh": "，"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "赶", "py": "gǎn", "gl": "rush; hurry"},
+      {"zh": "在", "py": "zài", "gl": "at; before"},
+      {"zh": "晚上", "py": "wǎnshang", "gl": "evening"},
+      {"zh": "7"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "课", "py": "kè", "gl": "class"},
+      {"zh": "之前", "py": "zhīqián", "gl": "before"},
+      {"zh": "。"}
+     ],
+     "start": 50.86,
+     "end": 55.97
+    }
+   ]
+  },
+  {
+   "id": "p3",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s005",
+     "zh": "劳斯莱斯与十月股市",
+     "en": "Rolls-Royce and the October Stock Market",
+     "segments": [
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "十月", "py": "shíyuè", "gl": "October"},
+      {"zh": "股市", "py": "gǔshì", "gl": "stock market"}
+     ]
+    }
+   ]
+  },
+  {
+   "id": "p4",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s006",
+     "zh": "人们常说“十月惊喜”，可这个月只剩两个交易日，惊喜还没露面。",
+     "en": "People often talk about an \"October surprise,\" but with only two trading days left this month, the surprise still hasn't shown up.",
+     "segments": [
+      {"zh": "人们", "py": "rénmen", "gl": "people"},
+      {"zh": "常", "py": "cháng", "gl": "often"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "“"},
+      {"zh": "十月", "py": "shíyuè", "gl": "October"},
+      {"zh": "惊喜", "py": "jīngxǐ", "gl": "surprise"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "只", "py": "zhǐ", "gl": "only"},
+      {"zh": "剩", "py": "shèng", "gl": "remain"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "交易日", "py": "jiāoyìrì", "gl": "trading days"},
+      {"zh": "，"},
+      {"zh": "惊喜", "py": "jīngxǐ", "gl": "surprise"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "没", "py": "méi", "gl": "not (yet)"},
+      {"zh": "露面", "py": "lòumiàn", "gl": "show up"},
+      {"zh": "。"}
+     ],
+     "start": 59.98,
+     "end": 68.89
+    },
+    {
+     "id": "s007",
+     "zh": "除了两周前科技股的一轮下跌，市场基本风平浪静。",
+     "en": "Apart from a round of tech-stock declines two weeks ago, the market has been mostly calm.",
+     "segments": [
+      {"zh": "除了", "py": "chúle", "gl": "apart from"},
+      {"zh": "两", "py": "liǎng", "gl": "two"},
+      {"zh": "周", "py": "zhōu", "gl": "weeks"},
+      {"zh": "前", "py": "qián", "gl": "ago"},
+      {"zh": "科技股", "py": "kējìgǔ", "gl": "tech stocks"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "一", "py": "yì", "gl": "one"},
+      {"zh": "轮", "py": "lún", "gl": "round"},
+      {"zh": "下跌", "py": "xiàdiē", "gl": "decline"},
+      {"zh": "，"},
+      {"zh": "市场", "py": "shìchǎng", "gl": "market"},
+      {"zh": "基本", "py": "jīběn", "gl": "basically"},
+      {"zh": "风平浪静", "py": "fēngpínglàngjìng", "gl": "calm and quiet"},
+      {"zh": "。"}
+     ],
+     "start": 69.32,
+     "end": 76.17
+    },
+    {
+     "id": "s008",
+     "zh": "照例声明：这不是投资建议，请自己做好功课。",
+     "en": "The usual disclaimer: this isn't investment advice, so please do your own homework.",
+     "segments": [
+      {"zh": "照例", "py": "zhàolì", "gl": "as usual"},
+      {"zh": "声明", "py": "shēngmíng", "gl": "state; declare"},
+      {"zh": "："},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "投资", "py": "tóuzī", "gl": "investment"},
+      {"zh": "建议", "py": "jiànyì", "gl": "advice"},
+      {"zh": "，"},
+      {"zh": "请", "py": "qǐng", "gl": "please"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "yourself"},
+      {"zh": "做好", "py": "zuòhǎo", "gl": "do well"},
+      {"zh": "功课", "py": "gōngkè", "gl": "homework"},
+      {"zh": "。"}
+     ],
+     "start": 77.86,
+     "end": 83.49
+    }
+   ]
+  },
+  {
+   "id": "p5",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s009",
+     "zh": "本周早些时候，史蒂文把劳斯莱斯（RR.L）加进了股票跟踪表：",
+     "en": "Earlier this week, Steven added Rolls-Royce (RR.L) to his stock tracking sheet:",
+     "segments": [
+      {"zh": "本周", "py": "běnzhōu", "gl": "this week"},
+      {"zh": "早些", "py": "zǎoxiē", "gl": "earlier"},
+      {"zh": "时候", "py": "shíhou", "gl": "time"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "劳斯莱斯", "py": "Láosīláisī", "gl": "Rolls-Royce"},
+      {"zh": "（"},
+      {"zh": "RR.L"},
+      {"zh": "）"},
+      {"zh": "加进", "py": "jiājìn", "gl": "add into"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "股票", "py": "gǔpiào", "gl": "stock"},
+      {"zh": "跟踪表", "py": "gēnzōngbiǎo", "gl": "tracking sheet"},
+      {"zh": "："}
+     ],
+     "start": 83.92,
+     "end": 95.07
+    }
+   ]
+  },
+  {
+   "id": "p6",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s010",
+     "zh": "股价跌到11.75，三四天后回升到12.63",
+     "en": "The share price fell to 11.75, then rebounded to 12.63 three or four days later",
+     "segments": [
+      {"zh": "股价", "py": "gǔjià", "gl": "share price"},
+      {"zh": "跌", "py": "diē", "gl": "fall"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "11.75"},
+      {"zh": "，"},
+      {"zh": "三四", "py": "sānsì", "gl": "three or four"},
+      {"zh": "天", "py": "tiān", "gl": "days"},
+      {"zh": "后", "py": "hòu", "gl": "later"},
+      {"zh": "回升", "py": "huíshēng", "gl": "rebound"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "12.63"}
+     ],
+     "start": 95.16,
+     "end": 103.07
+    }
+   ]
+  },
+  {
+   "id": "p7",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s011",
+     "zh": "涨幅约9%，账面盈利约790美元",
+     "en": "A gain of about 9%, roughly $790 in paper profit",
+     "segments": [
+      {"zh": "涨幅", "py": "zhǎngfú", "gl": "gain; rise"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "9%"},
+      {"zh": "，"},
+      {"zh": "账面", "py": "zhàngmiàn", "gl": "on paper"},
+      {"zh": "盈利", "py": "yínglì", "gl": "profit"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "790"},
+      {"zh": "美元", "py": "měiyuán", "gl": "US dollars"}
+     ],
+     "start": 105.24,
+     "end": 108.66
+    }
+   ]
+  },
+  {
+   "id": "p8",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s012",
+     "zh": "周一他就提醒过，RSI已跌进超卖区",
+     "en": "As early as Monday he had pointed out that the RSI had fallen into oversold territory",
+     "segments": [
+      {"zh": "周一", "py": "zhōuyī", "gl": "Monday"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "就", "py": "jiù", "gl": "already"},
+      {"zh": "提醒", "py": "tíxǐng", "gl": "remind; point out"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "，"},
+      {"zh": "RSI"},
+      {"zh": "已", "py": "yǐ", "gl": "already"},
+      {"zh": "跌进", "py": "diējìn", "gl": "fall into"},
+      {"zh": "超卖区", "py": "chāomàiqū", "gl": "oversold zone"}
+     ],
+     "start": 108.66,
+     "end": 115.67
+    }
+   ]
+  },
+  {
+   "id": "p9",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s013",
+     "zh": "做期权，本金可能全部亏光。",
+     "en": "With options, you could lose your entire principal.",
+     "segments": [
+      {"zh": "做", "py": "zuò", "gl": "trade; do"},
+      {"zh": "期权", "py": "qīquán", "gl": "options"},
+      {"zh": "，"},
+      {"zh": "本金", "py": "běnjīn", "gl": "principal"},
+      {"zh": "可能", "py": "kěnéng", "gl": "may"},
+      {"zh": "全部", "py": "quánbù", "gl": "entirely"},
+      {"zh": "亏光", "py": "kuīguāng", "gl": "lose it all"},
+      {"zh": "。"}
+     ],
+     "start": 115.74,
+     "end": 119.91
+    },
+    {
+     "id": "s014",
+     "zh": "“别人恐惧时贪婪”说起来容易，“问题是，你终究得先战胜自己的恐惧。”",
+     "en": "\"Be greedy when others are fearful\" is easy to say, but \"the problem is, you ultimately have to conquer your own fear first.\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "别人", "py": "biérén", "gl": "others"},
+      {"zh": "恐惧", "py": "kǒngjù", "gl": "fearful"},
+      {"zh": "时", "py": "shí", "gl": "when"},
+      {"zh": "贪婪", "py": "tānlán", "gl": "greedy"},
+      {"zh": "”"},
+      {"zh": "说起来", "py": "shuōqǐlai", "gl": "when said"},
+      {"zh": "容易", "py": "róngyì", "gl": "easy"},
+      {"zh": "，"},
+      {"zh": "“"},
+      {"zh": "问题", "py": "wèntí", "gl": "problem"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "终究", "py": "zhōngjiū", "gl": "ultimately"},
+      {"zh": "得", "py": "děi", "gl": "must"},
+      {"zh": "先", "py": "xiān", "gl": "first"},
+      {"zh": "战胜", "py": "zhànshèng", "gl": "overcome"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "your own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "恐惧", "py": "kǒngjù", "gl": "fear"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 120.44,
+     "end": 130.31
+    }
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s015",
+     "zh": "告别《No Agenda Show》",
+     "en": "Farewell to The No Agenda Show",
+     "segments": [
+      {"zh": "告别", "py": "gàobié", "gl": "farewell to"},
+      {"zh": "《"},
+      {"zh": "No Agenda Show"},
+      {"zh": "》"}
+     ],
+     "start": 130.7,
+     "end": 133.49
+    }
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s016",
+     "zh": "《No Agenda Show》今晚在播出19年后落幕。",
+     "en": "The No Agenda Show ends tonight after 19 years on the air.",
+     "segments": [
+      {"zh": "《"},
+      {"zh": "No Agenda Show"},
+      {"zh": "》"},
+      {"zh": "今晚", "py": "jīnwǎn", "gl": "tonight"},
+      {"zh": "在", "py": "zài", "gl": "at; after"},
+      {"zh": "播出", "py": "bōchū", "gl": "broadcast"},
+      {"zh": "19"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "落幕", "py": "luòmù", "gl": "come to an end"},
+      {"zh": "。"}
+     ],
+     "start": 134.02,
+     "end": 139.51
+    },
+    {
+     "id": "s017",
+     "zh": "主持人亚当·柯里曾是MTV主持人，约翰·德沃夏克是《PC Magazine》的老专栏作家。",
+     "en": "Host Adam Curry was once an MTV host, and John C. Dvorak was a longtime columnist for PC Magazine.",
+     "segments": [
+      {"zh": "主持人", "py": "zhǔchírén", "gl": "host"},
+      {"zh": "亚当·柯里", "py": "Yàdāng Kēlǐ", "gl": "Adam Curry"},
+      {"zh": "曾", "py": "céng", "gl": "once; formerly"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "MTV"},
+      {"zh": "主持人", "py": "zhǔchírén", "gl": "host; VJ"},
+      {"zh": "，"},
+      {"zh": "约翰·德沃夏克", "py": "Yuēhàn Déwòxiàkè", "gl": "John Dvorak"},
+      {"zh": "是", "py": "shì", "gl": "was"},
+      {"zh": "《"},
+      {"zh": "PC Magazine"},
+      {"zh": "》"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "老", "py": "lǎo", "gl": "longtime"},
+      {"zh": "专栏", "py": "zhuānlán", "gl": "column"},
+      {"zh": "作家", "py": "zuòjiā", "gl": "writer"},
+      {"zh": "。"}
+     ],
+     "start": 139.88,
+     "end": 150.55
+    },
+    {
+     "id": "s018",
+     "zh": "两人2007年前后开办这档节目，专门拆解媒体的说法。",
+     "en": "The two started the show around 2007, devoted to taking apart the media's narratives.",
+     "segments": [
+      {"zh": "两人", "py": "liǎngrén", "gl": "the two"},
+      {"zh": "2007"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "前后", "py": "qiánhòu", "gl": "around"},
+      {"zh": "开办", "py": "kāibàn", "gl": "start; launch"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "档", "py": "dàng", "gl": "(measure word for shows)"},
+      {"zh": "节目", "py": "jiémù", "gl": "show; program"},
+      {"zh": "，"},
+      {"zh": "专门", "py": "zhuānmén", "gl": "specially; devoted to"},
+      {"zh": "拆解", "py": "chāijiě", "gl": "take apart"},
+      {"zh": "媒体", "py": "méitǐ", "gl": "media"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "说法", "py": "shuōfǎ", "gl": "narrative; version"},
+      {"zh": "。"}
+     ],
+     "start": 150.9,
+     "end": 158.43
+    },
+    {
+     "id": "s019",
+     "zh": "德沃夏克7月去世后，亚当请了一些嘉宾；如今他要专心做“播客2.0”和信仰主题的播客。",
+     "en": "After Dvorak died in July, Adam brought in some guests; now he wants to focus on Podcasting 2.0 and a faith-themed podcast.",
+     "segments": [
+      {"zh": "德沃夏克", "py": "Déwòxiàkè", "gl": "Dvorak"},
+      {"zh": "7"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "去世", "py": "qùshì", "gl": "pass away"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "亚当", "py": "Yàdāng", "gl": "Adam"},
+      {"zh": "请", "py": "qǐng", "gl": "invite"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一些", "py": "yìxiē", "gl": "some"},
+      {"zh": "嘉宾", "py": "jiābīn", "gl": "guests"},
+      {"zh": "；"},
+      {"zh": "如今", "py": "rújīn", "gl": "now; nowadays"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "要", "py": "yào", "gl": "wants to"},
+      {"zh": "专心", "py": "zhuānxīn", "gl": "focus on"},
+      {"zh": "做", "py": "zuò", "gl": "do; work on"},
+      {"zh": "“"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "2.0"},
+      {"zh": "”"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "信仰", "py": "xìnyǎng", "gl": "faith"},
+      {"zh": "主题", "py": "zhǔtí", "gl": "theme"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "播客", "py": "bōkè", "gl": "podcast"},
+      {"zh": "。"}
+     ],
+     "start": 159.12,
+     "end": 171.6
+    }
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s020",
+     "zh": "对史蒂文来说，这里就是他的新闻来源。",
+     "en": "For Steven, this is where he gets his news.",
+     "segments": [
+      {"zh": "对", "py": "duì", "gl": "for; to"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "来说", "py": "láishuō", "gl": "(as far as … is concerned)"},
+      {"zh": "，"},
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here; this"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "新闻", "py": "xīnwén", "gl": "news"},
+      {"zh": "来源", "py": "láiyuán", "gl": "source"},
+      {"zh": "。"}
+     ],
+     "start": 171.6,
+     "end": 177.45
+    },
+    {
+     "id": "s021",
+     "zh": "节目有趣，不像大电视台那样“陈旧乏味”，他称支持者为“制作人”的点子也来自这里。",
+     "en": "The show is fun, not \"stale and boring\" like the big TV networks, and it's also where he got the idea of calling his supporters \"producers.\"",
+     "segments": [
+      {"zh": "节目", "py": "jiémù", "gl": "the show"},
+      {"zh": "有趣", "py": "yǒuqù", "gl": "fun; interesting"},
+      {"zh": "，"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "像", "py": "xiàng", "gl": "like"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "电视台", "py": "diànshìtái", "gl": "TV station"},
+      {"zh": "那样", "py": "nàyàng", "gl": "in that way"},
+      {"zh": "“"},
+      {"zh": "陈旧", "py": "chénjiù", "gl": "stale; outdated"},
+      {"zh": "乏味", "py": "fáwèi", "gl": "boring"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "称", "py": "chēng", "gl": "call"},
+      {"zh": "支持者", "py": "zhīchízhě", "gl": "supporters"},
+      {"zh": "为", "py": "wéi", "gl": "as"},
+      {"zh": "“"},
+      {"zh": "制作人", "py": "zhìzuòrén", "gl": "producers"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "点子", "py": "diǎnzi", "gl": "idea"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "来自", "py": "láizì", "gl": "come from"},
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "。"}
+     ],
+     "start": 177.98,
+     "end": 190.23
+    },
+    {
+     "id": "s022",
+     "zh": "直播大结局在北京时间凌晨3点左右，他多半只能听一部分。",
+     "en": "The live finale is around 3 a.m. Beijing time, so he'll probably only catch part of it.",
+     "segments": [
+      {"zh": "直播", "py": "zhíbō", "gl": "live broadcast"},
+      {"zh": "大结局", "py": "dàjiéjú", "gl": "grand finale"},
+      {"zh": "在", "py": "zài", "gl": "is at"},
+      {"zh": "北京", "py": "Běijīng", "gl": "Beijing"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "凌晨", "py": "língchén", "gl": "early morning"},
+      {"zh": "3"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "左右", "py": "zuǒyòu", "gl": "around"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "多半", "py": "duōbàn", "gl": "most likely"},
+      {"zh": "只能", "py": "zhǐnéng", "gl": "can only"},
+      {"zh": "听", "py": "tīng", "gl": "listen to"},
+      {"zh": "一部分", "py": "yíbùfen", "gl": "a part"},
+      {"zh": "。"}
+     ],
+     "start": 190.66,
+     "end": 198.48
+    }
+   ]
+  },
+  {
+   "id": "p13",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s023",
+     "zh": "改天再聊的沉重话题",
+     "en": "Heavy topics to discuss another day",
+     "segments": [
+      {"zh": "改天", "py": "gǎitiān", "gl": "another day"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "聊", "py": "liáo", "gl": "chat"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "沉重", "py": "chénzhòng", "gl": "heavy"},
+      {"zh": "话题", "py": "huàtí", "gl": "topics"}
+     ],
+     "start": 198.48,
+     "end": 202.23
+    }
+   ]
+  },
+  {
+   "id": "p14",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s024",
+     "zh": "周日的节目引出两个大话题，史蒂文打算以后再谈。",
+     "en": "Sunday's episode raised two big topics that Steven plans to discuss later.",
+     "segments": [
+      {"zh": "周日", "py": "zhōurì", "gl": "Sunday"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "节目", "py": "jiémù", "gl": "episode"},
+      {"zh": "引出", "py": "yǐnchū", "gl": "brought up"},
+      {"zh": "两个", "py": "liǎng ge", "gl": "two"},
+      {"zh": "大", "py": "dà", "gl": "big"},
+      {"zh": "话题", "py": "huàtí", "gl": "topics"},
+      {"zh": "，"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "打算", "py": "dǎsuàn", "gl": "plans"},
+      {"zh": "以后", "py": "yǐhòu", "gl": "later"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "谈", "py": "tán", "gl": "discuss"},
+      {"zh": "。"}
+     ],
+     "start": 202.66,
+     "end": 209.25
+    },
+    {
+     "id": "s025",
+     "zh": "一是信仰：他最近在读一本天主教会的历史。",
+     "en": "The first is faith: he's recently been reading a history of the Catholic Church.",
+     "segments": [
+      {"zh": "一", "py": "yī", "gl": "first"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "信仰", "py": "xìnyǎng", "gl": "faith"},
+      {"zh": "："},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "最近", "py": "zuìjìn", "gl": "recently"},
+      {"zh": "在", "py": "zài", "gl": "(in progress)"},
+      {"zh": "读", "py": "dú", "gl": "reading"},
+      {"zh": "一本", "py": "yì běn", "gl": "a (book)"},
+      {"zh": "天主教会", "py": "Tiānzhǔjiàohuì", "gl": "Catholic Church"},
+      {"zh": "的", "py": "de", "gl": "of"},
+      {"zh": "历史", "py": "lìshǐ", "gl": "history"},
+      {"zh": "。"}
+     ],
+     "start": 209.56,
+     "end": 215.75
+    },
+    {
+     "id": "s026",
+     "zh": "二是民族主义：本周姆巴佩出了风波，中国网友反应强烈，即便道歉后，他仍丢了赞助。",
+     "en": "The second is nationalism: this week Mbappé got caught up in a controversy, Chinese netizens reacted strongly, and even after apologizing, he still lost a sponsorship.",
+     "segments": [
+      {"zh": "二", "py": "èr", "gl": "second"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "民族主义", "py": "mínzúzhǔyì", "gl": "nationalism"},
+      {"zh": "："},
+      {"zh": "本周", "py": "běnzhōu", "gl": "this week"},
+      {"zh": "姆巴佩", "py": "Mǔbāpèi", "gl": "Mbappé"},
+      {"zh": "出", "py": "chū", "gl": "ran into"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "风波", "py": "fēngbō", "gl": "controversy"},
+      {"zh": "，"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "Chinese"},
+      {"zh": "网友", "py": "wǎngyǒu", "gl": "netizens"},
+      {"zh": "反应", "py": "fǎnyìng", "gl": "reacted"},
+      {"zh": "强烈", "py": "qiángliè", "gl": "strongly"},
+      {"zh": "，"},
+      {"zh": "即便", "py": "jíbiàn", "gl": "even"},
+      {"zh": "道歉", "py": "dàoqiàn", "gl": "apologize"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "仍", "py": "réng", "gl": "still"},
+      {"zh": "丢", "py": "diū", "gl": "lost"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "赞助", "py": "zànzhù", "gl": "sponsorship"},
+      {"zh": "。"}
+     ],
+     "start": 216.44,
+     "end": 227.87
+    }
+   ]
+  },
+  {
+   "id": "p15",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s027",
+     "zh": "爱自己的国家，分寸在哪里？",
+     "en": "When it comes to loving your own country, where do you draw the line?",
+     "segments": [
+      {"zh": "爱", "py": "ài", "gl": "love"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "one's own"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "国家", "py": "guójiā", "gl": "country"},
+      {"zh": "，"},
+      {"zh": "分寸", "py": "fēncun", "gl": "sense of limits"},
+      {"zh": "在", "py": "zài", "gl": "is at"},
+      {"zh": "哪里", "py": "nǎlǐ", "gl": "where"},
+      {"zh": "？"}
+     ],
+     "start": 228.2,
+     "end": 231.67
+    },
+    {
+     "id": "s028",
+     "zh": "移居国外，又该入乡随俗到什么程度？",
+     "en": "And when you move abroad, how far should you go in adapting to local customs?",
+     "segments": [
+      {"zh": "移居", "py": "yíjū", "gl": "move to"},
+      {"zh": "国外", "py": "guówài", "gl": "abroad"},
+      {"zh": "，"},
+      {"zh": "又", "py": "yòu", "gl": "and"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "入乡随俗", "py": "rùxiāngsuísú", "gl": "follow local customs"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "什么", "py": "shénme", "gl": "what"},
+      {"zh": "程度", "py": "chéngdù", "gl": "extent"},
+      {"zh": "？"}
+     ],
+     "start": 232.74,
+     "end": 237.0
+    },
+    {
+     "id": "s029",
+     "zh": "史蒂文觉得事情被放大了，不过这个话题留到以后再说。",
+     "en": "Steven feels the whole thing was blown out of proportion, but this topic will be saved for later.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "觉得", "py": "juéde", "gl": "feels"},
+      {"zh": "事情", "py": "shìqing", "gl": "the matter"},
+      {"zh": "被", "py": "bèi", "gl": "(passive)"},
+      {"zh": "放大", "py": "fàngdà", "gl": "blown up"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "，"},
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "话题", "py": "huàtí", "gl": "topic"},
+      {"zh": "留", "py": "liú", "gl": "save"},
+      {"zh": "到", "py": "dào", "gl": "until"},
+      {"zh": "以后", "py": "yǐhòu", "gl": "later"},
+      {"zh": "再说", "py": "zàishuō", "gl": "talk about"},
+      {"zh": "。"}
+     ],
+     "start": 237.0,
+     "end": 244.6
+    }
+   ]
+  },
+  {
+   "id": "p16",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s030",
+     "zh": "苹果触屏MacBook Pro",
+     "en": "Apple's touchscreen MacBook Pro",
+     "segments": [
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "触屏", "py": "chùpíng", "gl": "touchscreen"},
+      {"zh": "MacBook Pro"}
+     ],
+     "start": 244.6,
+     "end": 248.29
+    }
+   ]
+  },
+  {
+   "id": "p17",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s031",
+     "zh": "“天哪，他们真做出来了。苹果，你怎么敢？”",
+     "en": "\"Oh my God, they actually made it. Apple, how dare you?\"",
+     "segments": [
+      {"zh": "“"},
+      {"zh": "天哪", "py": "tiān na", "gl": "oh my God"},
+      {"zh": "，"},
+      {"zh": "他们", "py": "tāmen", "gl": "they"},
+      {"zh": "真", "py": "zhēn", "gl": "really"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "出来", "py": "chūlai", "gl": "(result: produced)"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"},
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "，"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "怎么", "py": "zěnme", "gl": "how"},
+      {"zh": "敢", "py": "gǎn", "gl": "dare"},
+      {"zh": "？"},
+      {"zh": "”"}
+     ],
+     "start": 248.82,
+     "end": 254.73
+    },
+    {
+     "id": "s032",
+     "zh": "苹果一向说不会做，但在约翰·特努斯掌舵后，OLED触屏MacBook Pro还是来了。",
+     "en": "Apple always said it wouldn't make one, but after John Ternus took the helm, the OLED touchscreen MacBook Pro arrived anyway.",
+     "segments": [
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "一向", "py": "yíxiàng", "gl": "always"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "不会", "py": "búhuì", "gl": "will not"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "在", "py": "zài", "gl": "(at; after)"},
+      {"zh": "约翰·特努斯", "py": "Yuēhàn·Tènǔsī", "gl": "John Ternus"},
+      {"zh": "掌舵", "py": "zhǎngduò", "gl": "take the helm"},
+      {"zh": "后", "py": "hòu", "gl": "after"},
+      {"zh": "，"},
+      {"zh": "OLED"},
+      {"zh": "触屏", "py": "chùpíng", "gl": "touchscreen"},
+      {"zh": "MacBook Pro"},
+      {"zh": "还是", "py": "háishi", "gl": "still; anyway"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "。"}
+     ],
+     "start": 255.54,
+     "end": 265.72
+    },
+    {
+     "id": "s033",
+     "zh": "按加元算：",
+     "en": "In Canadian dollars:",
+     "segments": [
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "算", "py": "suàn", "gl": "calculate"},
+      {"zh": "："}
+     ],
+     "start": 265.72,
+     "end": 267.89
+    }
+   ]
+  },
+  {
+   "id": "p18",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s034",
+     "zh": "14英寸基础款约5000到6000加元，或分24期，每月约500加元",
+     "en": "The 14-inch base model is about 5,000 to 6,000 Canadian dollars, or about 500 Canadian dollars a month over 24 installments",
+     "segments": [
+      {"zh": "14"},
+      {"zh": "英寸", "py": "yīngcùn", "gl": "inch"},
+      {"zh": "基础款", "py": "jīchǔkuǎn", "gl": "base model"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "5000"},
+      {"zh": "到", "py": "dào", "gl": "to"},
+      {"zh": "6000"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"},
+      {"zh": "，"},
+      {"zh": "或", "py": "huò", "gl": "or"},
+      {"zh": "分", "py": "fēn", "gl": "divide into"},
+      {"zh": "24"},
+      {"zh": "期", "py": "qī", "gl": "installments"},
+      {"zh": "，"},
+      {"zh": "每月", "py": "měi yuè", "gl": "per month"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "500"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"}
+     ],
+     "start": 268.32,
+     "end": 279.23
+    }
+   ]
+  },
+  {
+   "id": "p19",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s035",
+     "zh": "顶配8TB版本约2万加元",
+     "en": "The top-spec 8TB version is about 20,000 Canadian dollars",
+     "segments": [
+      {"zh": "顶配", "py": "dǐngpèi", "gl": "top configuration"},
+      {"zh": "8TB"},
+      {"zh": "版本", "py": "bǎnběn", "gl": "version"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "2"},
+      {"zh": "万", "py": "wàn", "gl": "ten thousand"},
+      {"zh": "加元", "py": "jiāyuán", "gl": "Canadian dollars"}
+     ],
+     "start": 279.72,
+     "end": 283.28
+    }
+   ]
+  },
+  {
+   "id": "p20",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s036",
+     "zh": "乔布斯当年看不上触屏笔记本，是因为那时的技术太笨拙。",
+     "en": "Steve Jobs looked down on touchscreen laptops back then because the technology at the time was too clunky.",
+     "segments": [
+      {"zh": "乔布斯", "py": "Qiáobùsī", "gl": "Jobs"},
+      {"zh": "当年", "py": "dāngnián", "gl": "back then"},
+      {"zh": "看不上", "py": "kànbushàng", "gl": "look down on"},
+      {"zh": "触屏", "py": "chùpíng", "gl": "touchscreen"},
+      {"zh": "笔记本", "py": "bǐjìběn", "gl": "laptop"},
+      {"zh": "，"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "那时", "py": "nàshí", "gl": "at that time"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "技术", "py": "jìshù", "gl": "technology"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "笨拙", "py": "bènzhuō", "gl": "clumsy"},
+      {"zh": "。"}
+     ],
+     "start": 283.28,
+     "end": 292.21
+    },
+    {
+     "id": "s037",
+     "zh": "如今我们整天抓着手机，创作者在屏幕上指一指、拖进文件，再回到键盘快捷键，确实顺手。",
+     "en": "Nowadays we're glued to our phones all day, so for creators it really is handy to tap the screen, drag in files, then go back to keyboard shortcuts.",
+     "segments": [
+      {"zh": "如今", "py": "rújīn", "gl": "nowadays"},
+      {"zh": "我们", "py": "wǒmen", "gl": "we"},
+      {"zh": "整天", "py": "zhěngtiān", "gl": "all day"},
+      {"zh": "抓", "py": "zhuā", "gl": "hold; grab"},
+      {"zh": "着", "py": "zhe", "gl": "(ongoing state)"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "，"},
+      {"zh": "创作者", "py": "chuàngzuòzhě", "gl": "creators"},
+      {"zh": "在", "py": "zài", "gl": "on"},
+      {"zh": "屏幕", "py": "píngmù", "gl": "screen"},
+      {"zh": "上", "py": "shang", "gl": "on"},
+      {"zh": "指一指", "py": "zhǐyizhǐ", "gl": "tap; point"},
+      {"zh": "、"},
+      {"zh": "拖进", "py": "tuōjìn", "gl": "drag in"},
+      {"zh": "文件", "py": "wénjiàn", "gl": "files"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "回到", "py": "huídào", "gl": "return to"},
+      {"zh": "键盘", "py": "jiànpán", "gl": "keyboard"},
+      {"zh": "快捷键", "py": "kuàijiéjiàn", "gl": "shortcut keys"},
+      {"zh": "，"},
+      {"zh": "确实", "py": "quèshí", "gl": "indeed"},
+      {"zh": "顺手", "py": "shùnshǒu", "gl": "convenient"},
+      {"zh": "。"}
+     ],
+     "start": 292.66,
+     "end": 306.89
+    }
+   ]
+  },
+  {
+   "id": "p21",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s038",
+     "zh": "为什么要8TB？",
+     "en": "Why 8TB?",
+     "segments": [
+      {"zh": "为什么", "py": "wèishénme", "gl": "why"},
+      {"zh": "要", "py": "yào", "gl": "need"},
+      {"zh": "8TB"},
+      {"zh": "？"}
+     ],
+     "start": 307.52,
+     "end": 309.55
+    },
+    {
+     "id": "s039",
+     "zh": "一是视频：iPhone拍45分钟1080p约占6GB，而他天天录。",
+     "en": "First, video: 45 minutes of 1080p shot on an iPhone takes up about 6GB, and he records every day.",
+     "segments": [
+      {"zh": "一", "py": "yī", "gl": "first"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "："},
+      {"zh": "iPhone"},
+      {"zh": "拍", "py": "pāi", "gl": "shoot"},
+      {"zh": "45"},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "1080p"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "占", "py": "zhàn", "gl": "take up"},
+      {"zh": "6GB"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "and; while"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "天天", "py": "tiāntiān", "gl": "every day"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "。"}
+     ],
+     "start": 309.66,
+     "end": 320.43
+    },
+    {
+     "id": "s040",
+     "zh": "二是在本地跑AI模型。",
+     "en": "Second, running AI models locally.",
+     "segments": [
+      {"zh": "二", "py": "èr", "gl": "second"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "本地", "py": "běndì", "gl": "locally"},
+      {"zh": "跑", "py": "pǎo", "gl": "run"},
+      {"zh": "AI"},
+      {"zh": "模型", "py": "móxíng", "gl": "models"},
+      {"zh": "。"}
+     ],
+     "start": 321.68,
+     "end": 324.56
+    },
+    {
+     "id": "s041",
+     "zh": "真的需要吗？",
+     "en": "Is it really necessary?",
+     "segments": [
+      {"zh": "真的", "py": "zhēnde", "gl": "really"},
+      {"zh": "需要", "py": "xūyào", "gl": "need"},
+      {"zh": "吗", "py": "ma", "gl": "(question)"},
+      {"zh": "？"}
+     ],
+     "start": 324.56,
+     "end": 326.8
+    },
+    {
+     "id": "s042",
+     "zh": "不需要。",
+     "en": "No.",
+     "segments": [
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "需要", "py": "xūyào", "gl": "need"},
+      {"zh": "。"}
+     ],
+     "start": 326.8,
+     "end": 328.28
+    }
+   ]
+  },
+  {
+   "id": "p22",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s043",
+     "zh": "iPhone Duo 体验",
+     "en": "Trying out the iPhone Duo",
+     "segments": [
+      {"zh": "iPhone Duo"},
+      {"zh": " "},
+      {"zh": "体验", "py": "tǐyàn", "gl": "experience"}
+     ],
+     "start": 328.28,
+     "end": 330.77
+    }
+   ]
+  },
+  {
+   "id": "p23",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s044",
+     "zh": "史蒂文班上还没人买iPhone Duo，网上也说太贵。",
+     "en": "Nobody in Steven's class has bought an iPhone Duo yet, and people online say it's too expensive.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "班上", "py": "bānshang", "gl": "in class"},
+      {"zh": "还", "py": "hái", "gl": "still; yet"},
+      {"zh": "没人", "py": "méirén", "gl": "nobody"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "iPhone Duo"},
+      {"zh": "，"},
+      {"zh": "网上", "py": "wǎngshàng", "gl": "online"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "太", "py": "tài", "gl": "too"},
+      {"zh": "贵", "py": "guì", "gl": "expensive"},
+      {"zh": "。"}
+     ],
+     "start": 331.6,
+     "end": 336.87
+    },
+    {
+     "id": "s045",
+     "zh": "和他的14 Pro Max相比，主要升级只是前置摄像头和USB-C。",
+     "en": "Compared with his 14 Pro Max, the main upgrades are just the front camera and USB-C.",
+     "segments": [
+      {"zh": "和", "py": "hé", "gl": "with"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "14 Pro Max"},
+      {"zh": "相比", "py": "xiāngbǐ", "gl": "compared"},
+      {"zh": "，"},
+      {"zh": "主要", "py": "zhǔyào", "gl": "main"},
+      {"zh": "升级", "py": "shēngjí", "gl": "upgrade"},
+      {"zh": "只是", "py": "zhǐshì", "gl": "merely; just"},
+      {"zh": "前置", "py": "qiánzhì", "gl": "front-facing"},
+      {"zh": "摄像头", "py": "shèxiàngtóu", "gl": "camera"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "USB-C"},
+      {"zh": "。"}
+     ],
+     "start": 337.38,
+     "end": 345.71
+    },
+    {
+     "id": "s046",
+     "zh": "他的手机摔过无数次都安然无恙，何必换呢？",
+     "en": "His phone has been dropped countless times and is still perfectly fine, so why bother switching?",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "手机", "py": "shǒujī", "gl": "phone"},
+      {"zh": "摔", "py": "shuāi", "gl": "drop; fall"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "无数", "py": "wúshù", "gl": "countless"},
+      {"zh": "次", "py": "cì", "gl": "times"},
+      {"zh": "都", "py": "dōu", "gl": "still; all the same"},
+      {"zh": "安然无恙", "py": "ānránwúyàng", "gl": "safe and sound"},
+      {"zh": "，"},
+      {"zh": "何必", "py": "hébì", "gl": "why bother"},
+      {"zh": "换", "py": "huàn", "gl": "switch; replace"},
+      {"zh": "呢", "py": "ne", "gl": "(question particle)"},
+      {"zh": "？"}
+     ],
+     "start": 346.26,
+     "end": 351.93
+    }
+   ]
+  },
+  {
+   "id": "p24",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s047",
+     "zh": "终端里的Claude与AI仪表盘",
+     "en": "Claude in the terminal and AI dashboards",
+     "segments": [
+      {"zh": "终端", "py": "zhōngduān", "gl": "terminal"},
+      {"zh": "里", "py": "li", "gl": "in"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "Claude"},
+      {"zh": "与", "py": "yǔ", "gl": "and"},
+      {"zh": "AI"},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"}
+     ],
+     "start": 353.3,
+     "end": 355.89
+    }
+   ]
+  },
+  {
+   "id": "p25",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s048",
+     "zh": "今天早上7点53分，他打开终端，就一直坐在电脑前。",
+     "en": "At 7:53 this morning, he opened the terminal and has been sitting at the computer ever since.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "早上", "py": "zǎoshang", "gl": "morning"},
+      {"zh": "7"},
+      {"zh": "点", "py": "diǎn", "gl": "o'clock"},
+      {"zh": "53"},
+      {"zh": "分", "py": "fēn", "gl": "minute"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "打开", "py": "dǎkāi", "gl": "open"},
+      {"zh": "终端", "py": "zhōngduān", "gl": "terminal"},
+      {"zh": "，"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "一直", "py": "yìzhí", "gl": "continuously"},
+      {"zh": "坐", "py": "zuò", "gl": "sit"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "电脑", "py": "diànnǎo", "gl": "computer"},
+      {"zh": "前", "py": "qián", "gl": "in front of"},
+      {"zh": "。"}
+     ],
+     "start": 356.38,
+     "end": 364.77
+    },
+    {
+     "id": "s049",
+     "zh": "Claude Code是“游戏规则的改变者”，他不介意用这个老套的说法。",
+     "en": "Claude Code is a \"game changer\", and he doesn't mind using the cliché.",
+     "segments": [
+      {"zh": "Claude Code"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "“"},
+      {"zh": "游戏", "py": "yóuxì", "gl": "game"},
+      {"zh": "规则", "py": "guīzé", "gl": "rules"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "改变者", "py": "gǎibiànzhě", "gl": "changer"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "不", "py": "bú", "gl": "not"},
+      {"zh": "介意", "py": "jièyì", "gl": "mind"},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "这个", "py": "zhège", "gl": "this"},
+      {"zh": "老套", "py": "lǎotào", "gl": "clichéd"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "说法", "py": "shuōfǎ", "gl": "expression"},
+      {"zh": "。"}
+     ],
+     "start": 365.26,
+     "end": 373.45
+    },
+    {
+     "id": "s050",
+     "zh": "它又快又好用，还能同时开好几个。",
+     "en": "It's fast and easy to use, and you can run several at once.",
+     "segments": [
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "又", "py": "yòu", "gl": "both"},
+      {"zh": "快", "py": "kuài", "gl": "fast"},
+      {"zh": "又", "py": "yòu", "gl": "and"},
+      {"zh": "好用", "py": "hǎoyòng", "gl": "easy to use"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "同时", "py": "tóngshí", "gl": "simultaneously"},
+      {"zh": "开", "py": "kāi", "gl": "open"},
+      {"zh": "好几", "py": "hǎojǐ", "gl": "several"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "。"}
+     ],
+     "start": 373.84,
+     "end": 378.99
+    },
+    {
+     "id": "s051",
+     "zh": "他试过在本地跑模型来保护隐私，可光是Hermes智能体就占40GB，而他的1TB硬盘还要用来剪视频，行不通。",
+     "en": "He tried running models locally to protect his privacy, but the Hermes agent alone takes up 40GB, and his 1TB drive is also needed for editing videos, so it didn't work.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "试", "py": "shì", "gl": "try"},
+      {"zh": "过", "py": "guo", "gl": "(experienced)"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "本地", "py": "běndì", "gl": "locally"},
+      {"zh": "跑", "py": "pǎo", "gl": "run"},
+      {"zh": "模型", "py": "móxíng", "gl": "model"},
+      {"zh": "来", "py": "lái", "gl": "in order to"},
+      {"zh": "保护", "py": "bǎohù", "gl": "protect"},
+      {"zh": "隐私", "py": "yǐnsī", "gl": "privacy"},
+      {"zh": "，"},
+      {"zh": "可", "py": "kě", "gl": "but"},
+      {"zh": "光是", "py": "guāngshì", "gl": "just"},
+      {"zh": "Hermes"},
+      {"zh": "智能体", "py": "zhìnéngtǐ", "gl": "agent"},
+      {"zh": "就", "py": "jiù", "gl": "already"},
+      {"zh": "占", "py": "zhàn", "gl": "take up"},
+      {"zh": "40"},
+      {"zh": "GB"},
+      {"zh": "，"},
+      {"zh": "而", "py": "ér", "gl": "while"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "1"},
+      {"zh": "TB"},
+      {"zh": "硬盘", "py": "yìngpán", "gl": "hard drive"},
+      {"zh": "还要", "py": "háiyào", "gl": "also need"},
+      {"zh": "用来", "py": "yònglái", "gl": "be used for"},
+      {"zh": "剪", "py": "jiǎn", "gl": "edit"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "，"},
+      {"zh": "行不通", "py": "xíngbutōng", "gl": "won't work"},
+      {"zh": "。"}
+     ],
+     "start": 379.8,
+     "end": 393.71
+    }
+   ]
+  },
+  {
+   "id": "p26",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s052",
+     "zh": "网上有梗说人人都在让AI“给我做个仪表盘”，但真的很棒。",
+     "en": "There's a meme online that everyone is asking AI to \"make me a dashboard\", but it really is great.",
+     "segments": [
+      {"zh": "网上", "py": "wǎngshàng", "gl": "online"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "梗", "py": "gěng", "gl": "meme"},
+      {"zh": "说", "py": "shuō", "gl": "saying"},
+      {"zh": "人人", "py": "rénrén", "gl": "everyone"},
+      {"zh": "都", "py": "dōu", "gl": "all"},
+      {"zh": "在", "py": "zài", "gl": "(ongoing action)"},
+      {"zh": "让", "py": "ràng", "gl": "ask"},
+      {"zh": "AI"},
+      {"zh": "“"},
+      {"zh": "给", "py": "gěi", "gl": "for"},
+      {"zh": "我", "py": "wǒ", "gl": "me"},
+      {"zh": "做", "py": "zuò", "gl": "make"},
+      {"zh": "个", "py": "ge", "gl": "a"},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "真的", "py": "zhēnde", "gl": "really"},
+      {"zh": "很", "py": "hěn", "gl": "very"},
+      {"zh": "棒", "py": "bàng", "gl": "great"},
+      {"zh": "。"}
+     ],
+     "start": 394.58,
+     "end": 402.23
+    },
+    {
+     "id": "s053",
+     "zh": "它在三块硬盘里找出了重复文件，按他的归档习惯整理好。",
+     "en": "It found duplicate files across three hard drives and organized them according to his filing habits.",
+     "segments": [
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "在", "py": "zài", "gl": "in"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "块", "py": "kuài", "gl": "(measure word)"},
+      {"zh": "硬盘", "py": "yìngpán", "gl": "hard drive"},
+      {"zh": "里", "py": "li", "gl": "inside"},
+      {"zh": "找出", "py": "zhǎochū", "gl": "find out"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "重复", "py": "chóngfù", "gl": "duplicate"},
+      {"zh": "文件", "py": "wénjiàn", "gl": "file"},
+      {"zh": "，"},
+      {"zh": "按", "py": "àn", "gl": "according to"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "归档", "py": "guīdàng", "gl": "filing"},
+      {"zh": "习惯", "py": "xíguàn", "gl": "habit"},
+      {"zh": "整理", "py": "zhěnglǐ", "gl": "organize"},
+      {"zh": "好", "py": "hǎo", "gl": "(completed well)"},
+      {"zh": "。"}
+     ],
+     "start": 403.3,
+     "end": 410.53
+    },
+    {
+     "id": "s054",
+     "zh": "现在他有了英语教学、Substack和视频片段三个仪表盘。",
+     "en": "Now he has three dashboards: English teaching, Substack, and video clips.",
+     "segments": [
+      {"zh": "现在", "py": "xiànzài", "gl": "now"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "了", "py": "le", "gl": "(change of state)"},
+      {"zh": "英语", "py": "Yīngyǔ", "gl": "English"},
+      {"zh": "教学", "py": "jiàoxué", "gl": "teaching"},
+      {"zh": "、"},
+      {"zh": "Substack"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "视频", "py": "shìpín", "gl": "video"},
+      {"zh": "片段", "py": "piànduàn", "gl": "clip"},
+      {"zh": "三", "py": "sān", "gl": "three"},
+      {"zh": "个", "py": "ge", "gl": "(measure word)"},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"},
+      {"zh": "。"}
+     ],
+     "start": 411.48,
+     "end": 419.35
+    }
+   ]
+  },
+  {
+   "id": "p27",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s055",
+     "zh": "至于他这套全“Pro”的苹果装备：“以这样的制作水准，也许你该满足于消费级版本。啪。”",
+     "en": "As for his all-\"Pro\" Apple gear: \"With production values like these, maybe you should settle for the consumer versions. Snap.\"",
+     "segments": [
+      {"zh": "至于", "py": "zhìyú", "gl": "as for"},
+      {"zh": "他", "py": "tā", "gl": "his"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "套", "py": "tào", "gl": "set"},
+      {"zh": "全", "py": "quán", "gl": "all"},
+      {"zh": "“"},
+      {"zh": "Pro"},
+      {"zh": "”"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "苹果", "py": "Píngguǒ", "gl": "Apple"},
+      {"zh": "装备", "py": "zhuāngbèi", "gl": "gear"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "以", "py": "yǐ", "gl": "with"},
+      {"zh": "这样", "py": "zhèyàng", "gl": "such"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "制作", "py": "zhìzuò", "gl": "production"},
+      {"zh": "水准", "py": "shuǐzhǔn", "gl": "standard"},
+      {"zh": "，"},
+      {"zh": "也许", "py": "yěxǔ", "gl": "maybe"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "该", "py": "gāi", "gl": "should"},
+      {"zh": "满足", "py": "mǎnzú", "gl": "be content"},
+      {"zh": "于", "py": "yú", "gl": "with"},
+      {"zh": "消费级", "py": "xiāofèijí", "gl": "consumer-grade"},
+      {"zh": "版本", "py": "bǎnběn", "gl": "version"},
+      {"zh": "。"},
+      {"zh": "啪", "py": "pā", "gl": "snap"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 419.98,
+     "end": 430.69
+    }
+   ]
+  },
+  {
+   "id": "p28",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s056",
+     "zh": "我的HSK5中文仪表盘",
+     "en": "My HSK5 Chinese Dashboard",
+     "segments": [
+      {"zh": "我", "py": "wǒ", "gl": "I, my"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "HSK5"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"}
+     ],
+     "start": 432.92,
+     "end": 436.93
+    }
+   ]
+  },
+  {
+   "id": "p29",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s057",
+     "zh": "今天的项目是中文仪表盘。",
+     "en": "Today's project is a Chinese dashboard.",
+     "segments": [
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "项目", "py": "xiàngmù", "gl": "project"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "中文", "py": "Zhōngwén", "gl": "Chinese"},
+      {"zh": "仪表盘", "py": "yíbiǎopán", "gl": "dashboard"},
+      {"zh": "。"}
+     ],
+     "start": 437.74,
+     "end": 440.55
+    },
+    {
+     "id": "s058",
+     "zh": "史蒂文来中国12年了，HSK5还没学完。",
+     "en": "Steven has been in China for 12 years and still hasn't finished studying HSK5.",
+     "segments": [
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "来", "py": "lái", "gl": "come"},
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "12"},
+      {"zh": "年", "py": "nián", "gl": "years"},
+      {"zh": "了", "py": "le", "gl": "(duration so far)"},
+      {"zh": "，"},
+      {"zh": "HSK5"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "没", "py": "méi", "gl": "not (yet)"},
+      {"zh": "学完", "py": "xuéwán", "gl": "finish studying"},
+      {"zh": "。"}
+     ],
+     "start": 441.42,
+     "end": 447.49
+    },
+    {
+     "id": "s059",
+     "zh": "他手头有成堆的课堂记录、词汇表、模拟试卷和手写日记，却不知从何下手。",
+     "en": "He has piles of class notes, vocabulary lists, practice exams and handwritten journals on hand, but doesn't know where to start.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "手头", "py": "shǒutóu", "gl": "on hand"},
+      {"zh": "有", "py": "yǒu", "gl": "have"},
+      {"zh": "成堆", "py": "chéngduī", "gl": "piles of"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "课堂", "py": "kètáng", "gl": "class"},
+      {"zh": "记录", "py": "jìlù", "gl": "notes"},
+      {"zh": "、"},
+      {"zh": "词汇表", "py": "cíhuìbiǎo", "gl": "vocabulary list"},
+      {"zh": "、"},
+      {"zh": "模拟", "py": "mónǐ", "gl": "mock"},
+      {"zh": "试卷", "py": "shìjuàn", "gl": "exam papers"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "手写", "py": "shǒuxiě", "gl": "handwritten"},
+      {"zh": "日记", "py": "rìjì", "gl": "journals"},
+      {"zh": "，"},
+      {"zh": "却", "py": "què", "gl": "but"},
+      {"zh": "不知", "py": "bùzhī", "gl": "not know"},
+      {"zh": "从何", "py": "cónghé", "gl": "from where"},
+      {"zh": "下手", "py": "xiàshǒu", "gl": "start"},
+      {"zh": "。"}
+     ],
+     "start": 447.94,
+     "end": 457.94
+    },
+    {
+     "id": "s060",
+     "zh": "Claude全读了一遍，还说了件他没问的事：HSK5的1298个词里，他接触过891个，亲手写过的只有88个。",
+     "en": "Claude read all of it, and told him something he hadn't asked about: of the 1,298 HSK5 words, he had come across 891, but had written only 88 by hand.",
+     "segments": [
+      {"zh": "Claude"},
+      {"zh": "全", "py": "quán", "gl": "all"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "一遍", "py": "yíbiàn", "gl": "once through"},
+      {"zh": "，"},
+      {"zh": "还", "py": "hái", "gl": "also"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "件", "py": "jiàn", "gl": "(measure word)"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "没", "py": "méi", "gl": "didn't"},
+      {"zh": "问", "py": "wèn", "gl": "ask"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "事", "py": "shì", "gl": "thing"},
+      {"zh": "："},
+      {"zh": "HSK5"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "1298"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "词", "py": "cí", "gl": "words"},
+      {"zh": "里", "py": "li", "gl": "among"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "接触", "py": "jiēchù", "gl": "encounter"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "891"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "，"},
+      {"zh": "亲手", "py": "qīnshǒu", "gl": "by hand"},
+      {"zh": "写", "py": "xiě", "gl": "write"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "only"},
+      {"zh": "88"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "。"}
+     ],
+     "start": 457.94,
+     "end": 474.03
+    }
+   ]
+  },
+  {
+   "id": "p30",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s061",
+     "zh": "随后它做出了：",
+     "en": "Then it built:",
+     "segments": [
+      {"zh": "随后", "py": "suíhòu", "gl": "then"},
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "做出", "py": "zuòchū", "gl": "make, produce"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "："}
+     ],
+     "start": 474.48,
+     "end": 477.07
+    }
+   ]
+  },
+  {
+   "id": "p31",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s062",
+     "zh": "24周学习计划，每周8小时，对准2026年12月13日开考的新HSK 3.0",
+     "en": "A 24-week study plan, 8 hours a week, aimed at the new HSK 3.0 exam on December 13, 2026",
+     "segments": [
+      {"zh": "24"},
+      {"zh": "周", "py": "zhōu", "gl": "week"},
+      {"zh": "学习", "py": "xuéxí", "gl": "study"},
+      {"zh": "计划", "py": "jìhuà", "gl": "plan"},
+      {"zh": "，"},
+      {"zh": "每周", "py": "měizhōu", "gl": "every week"},
+      {"zh": "8"},
+      {"zh": "小时", "py": "xiǎoshí", "gl": "hours"},
+      {"zh": "，"},
+      {"zh": "对准", "py": "duìzhǔn", "gl": "aim at"},
+      {"zh": "2026"},
+      {"zh": "年", "py": "nián", "gl": "year"},
+      {"zh": "12"},
+      {"zh": "月", "py": "yuè", "gl": "month"},
+      {"zh": "13"},
+      {"zh": "日", "py": "rì", "gl": "day"},
+      {"zh": "开考", "py": "kāikǎo", "gl": "exam begins"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "HSK 3.0"}
+     ],
+     "start": 477.68,
+     "end": 489.23
+    }
+   ]
+  },
+  {
+   "id": "p32",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s063",
+     "zh": "带音频的每日闪卡（今天2个复习、13个新词，约25分钟）",
+     "en": "Daily flashcards with audio (today: 2 reviews and 13 new words, about 25 minutes)",
+     "segments": [
+      {"zh": "带", "py": "dài", "gl": "with"},
+      {"zh": "音频", "py": "yīnpín", "gl": "audio"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "每日", "py": "měirì", "gl": "daily"},
+      {"zh": "闪卡", "py": "shǎnkǎ", "gl": "flashcards"},
+      {"zh": "（"},
+      {"zh": "今天", "py": "jīntiān", "gl": "today"},
+      {"zh": "2"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "复习", "py": "fùxí", "gl": "review"},
+      {"zh": "、"},
+      {"zh": "13"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "新词", "py": "xīncí", "gl": "new words"},
+      {"zh": "，"},
+      {"zh": "约", "py": "yuē", "gl": "about"},
+      {"zh": "25"},
+      {"zh": "分钟", "py": "fēnzhōng", "gl": "minutes"},
+      {"zh": "）"}
+     ],
+     "start": 489.92,
+     "end": 498.43
+    }
+   ]
+  },
+  {
+   "id": "p33",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s064",
+     "zh": "阅读链接，一点就打开PDF的对应章节，包括《三国演义》",
+     "en": "Reading links that open the matching chapter of the PDF with one click, including Romance of the Three Kingdoms",
+     "segments": [
+      {"zh": "阅读", "py": "yuèdú", "gl": "reading"},
+      {"zh": "链接", "py": "liànjiē", "gl": "links"},
+      {"zh": "，"},
+      {"zh": "一", "py": "yì", "gl": "once"},
+      {"zh": "点", "py": "diǎn", "gl": "click"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "打开", "py": "dǎkāi", "gl": "open"},
+      {"zh": "PDF"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "对应", "py": "duìyìng", "gl": "corresponding"},
+      {"zh": "章节", "py": "zhāngjié", "gl": "chapter"},
+      {"zh": "，"},
+      {"zh": "包括", "py": "bāokuò", "gl": "including"},
+      {"zh": "《"},
+      {"zh": "三国演义", "py": "Sānguó Yǎnyì", "gl": "Romance of the Three Kingdoms"},
+      {"zh": "》"}
+     ],
+     "start": 498.9,
+     "end": 507.57
+    }
+   ]
+  },
+  {
+   "id": "p34",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s065",
+     "zh": "写作任务：用五个词手写80个字，再对照他常犯的错误检查",
+     "en": "Writing tasks: handwrite 80 characters using five words, then check against the mistakes he often makes",
+     "segments": [
+      {"zh": "写作", "py": "xiězuò", "gl": "writing"},
+      {"zh": "任务", "py": "rènwu", "gl": "tasks"},
+      {"zh": "："},
+      {"zh": "用", "py": "yòng", "gl": "use"},
+      {"zh": "五", "py": "wǔ", "gl": "five"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "词", "py": "cí", "gl": "words"},
+      {"zh": "手写", "py": "shǒuxiě", "gl": "handwrite"},
+      {"zh": "80"},
+      {"zh": "个", "py": "gè", "gl": "(measure word)"},
+      {"zh": "字", "py": "zì", "gl": "characters"},
+      {"zh": "，"},
+      {"zh": "再", "py": "zài", "gl": "then"},
+      {"zh": "对照", "py": "duìzhào", "gl": "check against"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "常", "py": "cháng", "gl": "often"},
+      {"zh": "犯", "py": "fàn", "gl": "make (mistakes)"},
+      {"zh": "的", "py": "de", "gl": "(modifier)"},
+      {"zh": "错误", "py": "cuòwù", "gl": "mistakes"},
+      {"zh": "检查", "py": "jiǎnchá", "gl": "check"}
+     ],
+     "start": 507.92,
+     "end": 516.73
+    }
+   ]
+  },
+  {
+   "id": "p35",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s066",
+     "zh": "它取代不了老师，因为口语练习才是老师的用武之地。",
+     "en": "It can't replace a teacher, because speaking practice is where a teacher really shines.",
+     "segments": [
+      {"zh": "它", "py": "tā", "gl": "it"},
+      {"zh": "取代", "py": "qǔdài", "gl": "replace"},
+      {"zh": "不了", "py": "bùliǎo", "gl": "unable to"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "，"},
+      {"zh": "因为", "py": "yīnwèi", "gl": "because"},
+      {"zh": "口语", "py": "kǒuyǔ", "gl": "speaking"},
+      {"zh": "练习", "py": "liànxí", "gl": "practice"},
+      {"zh": "才", "py": "cái", "gl": "precisely"},
+      {"zh": "是", "py": "shì", "gl": "is"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "用武之地", "py": "yòngwǔzhīdì", "gl": "where skills shine"},
+      {"zh": "。"}
+     ],
+     "start": 517.64,
+     "end": 524.33
+    },
+    {
+     "id": "s067",
+     "zh": "他把周二的iTalki课忘得一干二净，老师体贴地帮他改了时间。",
+     "en": "He completely forgot his Tuesday iTalki lesson, and his teacher kindly rescheduled it for him.",
+     "segments": [
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "把", "py": "bǎ", "gl": "(object marker)"},
+      {"zh": "周二", "py": "zhōu'èr", "gl": "Tuesday"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "iTalki"},
+      {"zh": "课", "py": "kè", "gl": "lesson"},
+      {"zh": "忘", "py": "wàng", "gl": "forget"},
+      {"zh": "得", "py": "de", "gl": "(complement marker)"},
+      {"zh": "一干二净", "py": "yìgān'èrjìng", "gl": "completely"},
+      {"zh": "，"},
+      {"zh": "老师", "py": "lǎoshī", "gl": "teacher"},
+      {"zh": "体贴", "py": "tǐtiē", "gl": "considerate"},
+      {"zh": "地", "py": "de", "gl": "(adverb marker)"},
+      {"zh": "帮", "py": "bāng", "gl": "help"},
+      {"zh": "他", "py": "tā", "gl": "him"},
+      {"zh": "改", "py": "gǎi", "gl": "change"},
+      {"zh": "了", "py": "le", "gl": "(completed action)"},
+      {"zh": "时间", "py": "shíjiān", "gl": "time"},
+      {"zh": "。"}
+     ],
+     "start": 524.82,
+     "end": 532.89
+    },
+    {
+     "id": "s068",
+     "zh": "正如他常说的：“语言只有你自己才能学会。”",
+     "en": "As he often says: \"Only you can teach yourself a language.\"",
+     "segments": [
+      {"zh": "正如", "py": "zhèngrú", "gl": "just as"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "常", "py": "cháng", "gl": "often"},
+      {"zh": "说", "py": "shuō", "gl": "say"},
+      {"zh": "的", "py": "de", "gl": "(nominalizer)"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "语言", "py": "yǔyán", "gl": "language"},
+      {"zh": "只有", "py": "zhǐyǒu", "gl": "only"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "yourself"},
+      {"zh": "才", "py": "cái", "gl": "(only then)"},
+      {"zh": "能", "py": "néng", "gl": "can"},
+      {"zh": "学会", "py": "xuéhuì", "gl": "learn, master"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 533.46,
+     "end": 539.81
+    }
+   ]
+  },
+  {
+   "id": "p36",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s069",
+     "zh": "万圣节故事：今年的书单",
+     "en": "Halloween story: this year's reading list",
+     "segments": [
+      {"zh": "万圣节", "py": "Wànshèngjié", "gl": "Halloween"},
+      {"zh": "故事", "py": "gùshi", "gl": "story"},
+      {"zh": "："},
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "书单", "py": "shūdān", "gl": "reading list"}
+     ],
+     "start": 540.4,
+     "end": 542.87
+    }
+   ]
+  },
+  {
+   "id": "p37",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s070",
+     "zh": "中国不怎么过万圣节这类“外来节日”，这里也没有“不给糖就捣蛋”。",
+     "en": "China doesn't really celebrate \"foreign holidays\" like Halloween, and there's no \"trick or treat\" here either.",
+     "segments": [
+      {"zh": "中国", "py": "Zhōngguó", "gl": "China"},
+      {"zh": "不怎么", "py": "bù zěnme", "gl": "not really"},
+      {"zh": "过", "py": "guò", "gl": "celebrate"},
+      {"zh": "万圣节", "py": "Wànshèngjié", "gl": "Halloween"},
+      {"zh": "这类", "py": "zhè lèi", "gl": "this kind of"},
+      {"zh": "“"},
+      {"zh": "外来", "py": "wàilái", "gl": "foreign"},
+      {"zh": "节日", "py": "jiérì", "gl": "holiday"},
+      {"zh": "”"},
+      {"zh": "，"},
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "也", "py": "yě", "gl": "also"},
+      {"zh": "没有", "py": "méiyǒu", "gl": "there isn't"},
+      {"zh": "“"},
+      {"zh": "不", "py": "bù", "gl": "not"},
+      {"zh": "给", "py": "gěi", "gl": "give"},
+      {"zh": "糖", "py": "táng", "gl": "candy"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "捣蛋", "py": "dǎodàn", "gl": "make mischief"},
+      {"zh": "”"},
+      {"zh": "。"}
+     ],
+     "start": 543.74,
+     "end": 551.39
+    },
+    {
+     "id": "s071",
+     "zh": "不过每年史蒂文都会读些略为小众的恐怖故事，往年读过《猴爪》和《聊斋志异》。",
+     "en": "But every year Steven reads some slightly lesser-known horror stories; in past years he has read \"The Monkey's Paw\" and \"Strange Tales from a Chinese Studio.\"",
+     "segments": [
+      {"zh": "不过", "py": "búguò", "gl": "but"},
+      {"zh": "每年", "py": "měinián", "gl": "every year"},
+      {"zh": "史蒂文", "py": "Shǐdìwén", "gl": "Steven"},
+      {"zh": "都", "py": "dōu", "gl": "always"},
+      {"zh": "会", "py": "huì", "gl": "will"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "些", "py": "xiē", "gl": "some"},
+      {"zh": "略为", "py": "lüèwéi", "gl": "slightly"},
+      {"zh": "小众", "py": "xiǎozhòng", "gl": "niche"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "恐怖", "py": "kǒngbù", "gl": "horror"},
+      {"zh": "故事", "py": "gùshi", "gl": "stories"},
+      {"zh": "，"},
+      {"zh": "往年", "py": "wǎngnián", "gl": "past years"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "过", "py": "guo", "gl": "(past experience)"},
+      {"zh": "《"},
+      {"zh": "猴爪", "py": "Hóuzhuǎ", "gl": "The Monkey's Paw"},
+      {"zh": "》"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "《"},
+      {"zh": "聊斋志异", "py": "Liáozhāi Zhìyì", "gl": "Strange Tales (Liaozhai)"},
+      {"zh": "》"},
+      {"zh": "。"}
+     ],
+     "start": 551.9,
+     "end": 560.13
+    }
+   ]
+  },
+  {
+   "id": "p38",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s072",
+     "zh": "今年的候选篇目多来自古腾堡计划：",
+     "en": "This year's candidate stories mostly come from Project Gutenberg:",
+     "segments": [
+      {"zh": "今年", "py": "jīnnián", "gl": "this year"},
+      {"zh": "的", "py": "de", "gl": "(possessive)"},
+      {"zh": "候选", "py": "hòuxuǎn", "gl": "candidate"},
+      {"zh": "篇目", "py": "piānmù", "gl": "titles"},
+      {"zh": "多", "py": "duō", "gl": "mostly"},
+      {"zh": "来自", "py": "láizì", "gl": "come from"},
+      {"zh": "古腾堡", "py": "Gǔténgbǎo", "gl": "Gutenberg"},
+      {"zh": "计划", "py": "jìhuà", "gl": "project"},
+      {"zh": "："}
+     ],
+     "start": 561.28,
+     "end": 565.51
+    }
+   ]
+  },
+  {
+   "id": "p39",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s073",
+     "zh": "果戈理：《维》《圣约翰之夜》《神秘的肖像》",
+     "en": "Gogol: \"Viy,\" \"St. John's Eve,\" \"The Portrait\"",
+     "segments": [
+      {"zh": "果戈理", "py": "Guǒgēlǐ", "gl": "Gogol"},
+      {"zh": "："},
+      {"zh": "《"},
+      {"zh": "维", "py": "Wéi", "gl": "Viy"},
+      {"zh": "》"},
+      {"zh": "《"},
+      {"zh": "圣约翰", "py": "Shèng Yuēhàn", "gl": "St. John"},
+      {"zh": "之", "py": "zhī", "gl": "(possessive)"},
+      {"zh": "夜", "py": "yè", "gl": "night; eve"},
+      {"zh": "》"},
+      {"zh": "《"},
+      {"zh": "神秘", "py": "shénmì", "gl": "mysterious"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "肖像", "py": "xiàoxiàng", "gl": "portrait"},
+      {"zh": "》"}
+     ],
+     "start": 567.98,
+     "end": 570.85
+    }
+   ]
+  },
+  {
+   "id": "p40",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s074",
+     "zh": "俄罗斯民间故事：《芭芭雅嘎》《美丽的瓦西丽莎》",
+     "en": "Russian folk tales: \"Baba Yaga,\" \"Vasilisa the Beautiful\"",
+     "segments": [
+      {"zh": "俄罗斯", "py": "Éluósī", "gl": "Russia"},
+      {"zh": "民间", "py": "mínjiān", "gl": "folk"},
+      {"zh": "故事", "py": "gùshi", "gl": "tales"},
+      {"zh": "："},
+      {"zh": "《"},
+      {"zh": "芭芭雅嘎", "py": "Bābāyǎgā", "gl": "Baba Yaga"},
+      {"zh": "》"},
+      {"zh": "《"},
+      {"zh": "美丽", "py": "měilì", "gl": "beautiful"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "瓦西丽莎", "py": "Wǎxīlìshā", "gl": "Vasilisa"},
+      {"zh": "》"}
+     ],
+     "start": 571.2,
+     "end": 577.54
+    }
+   ]
+  },
+  {
+   "id": "p41",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s075",
+     "zh": "契诃夫：《黑修士》",
+     "en": "Chekhov: \"The Black Monk\"",
+     "segments": [
+      {"zh": "契诃夫", "py": "Qìhēfū", "gl": "Chekhov"},
+      {"zh": "："},
+      {"zh": "《"},
+      {"zh": "黑", "py": "hēi", "gl": "black"},
+      {"zh": "修士", "py": "xiūshì", "gl": "monk"},
+      {"zh": "》"}
+     ],
+     "start": 577.54,
+     "end": 580.29
+    }
+   ]
+  },
+  {
+   "id": "p42",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s076",
+     "zh": "屠格涅夫：《克拉拉·米利奇》《幻影》",
+     "en": "Turgenev: \"Klara Milich,\" \"Phantoms\"",
+     "segments": [
+      {"zh": "屠格涅夫", "py": "Túgénièfū", "gl": "Turgenev"},
+      {"zh": "："},
+      {"zh": "《"},
+      {"zh": "克拉拉", "py": "Kèlālā", "gl": "Klara"},
+      {"zh": "·"},
+      {"zh": "米利奇", "py": "Mǐlìqí", "gl": "Milich"},
+      {"zh": "》"},
+      {"zh": "《"},
+      {"zh": "幻影", "py": "huànyǐng", "gl": "phantoms"},
+      {"zh": "》"}
+     ],
+     "start": 580.6,
+     "end": 583.43
+    }
+   ]
+  },
+  {
+   "id": "p43",
+   "type": "item",
+   "sentences": [
+    {
+     "id": "s077",
+     "zh": "普希金：《黑桃皇后》",
+     "en": "Pushkin: \"The Queen of Spades\"",
+     "segments": [
+      {"zh": "普希金", "py": "Pǔxījīn", "gl": "Pushkin"},
+      {"zh": "："},
+      {"zh": "《"},
+      {"zh": "黑桃", "py": "hēitáo", "gl": "spades"},
+      {"zh": "皇后", "py": "huánghòu", "gl": "queen"},
+      {"zh": "》"}
+     ],
+     "start": 585.04,
+     "end": 587.04
+    }
+   ]
+  },
+  {
+   "id": "p44",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s078",
+     "zh": "这期节目一结束，他就去录《芭芭雅嘎》和《美丽的瓦西丽莎》。",
+     "en": "As soon as this episode ends, he's going to record \"Baba Yaga\" and \"Vasilisa the Beautiful.\"",
+     "segments": [
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "期", "py": "qī", "gl": "(measure word: episode)"},
+      {"zh": "节目", "py": "jiémù", "gl": "program"},
+      {"zh": "一", "py": "yì", "gl": "as soon as"},
+      {"zh": "结束", "py": "jiéshù", "gl": "ends"},
+      {"zh": "，"},
+      {"zh": "他", "py": "tā", "gl": "he"},
+      {"zh": "就", "py": "jiù", "gl": "then"},
+      {"zh": "去", "py": "qù", "gl": "go"},
+      {"zh": "录", "py": "lù", "gl": "record"},
+      {"zh": "《"},
+      {"zh": "芭芭雅嘎", "py": "Bābāyǎgā", "gl": "Baba Yaga"},
+      {"zh": "》"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "《"},
+      {"zh": "美丽", "py": "měilì", "gl": "beautiful"},
+      {"zh": "的", "py": "de", "gl": "(attributive)"},
+      {"zh": "瓦西丽莎", "py": "Wǎxīlìshā", "gl": "Vasilisa"},
+      {"zh": "》"},
+      {"zh": "。"}
+     ],
+     "start": 587.04,
+     "end": 594.36
+    },
+    {
+     "id": "s079",
+     "zh": "别指望有广播剧：“你在这里买的不是高品质，而是数量和便利。”",
+     "en": "Don't expect a radio drama: \"What you're buying here isn't high quality, but quantity and convenience.\"",
+     "segments": [
+      {"zh": "别", "py": "bié", "gl": "don't"},
+      {"zh": "指望", "py": "zhǐwàng", "gl": "expect"},
+      {"zh": "有", "py": "yǒu", "gl": "there is"},
+      {"zh": "广播剧", "py": "guǎngbōjù", "gl": "radio drama"},
+      {"zh": "："},
+      {"zh": "“"},
+      {"zh": "你", "py": "nǐ", "gl": "you"},
+      {"zh": "在", "py": "zài", "gl": "at"},
+      {"zh": "这里", "py": "zhèlǐ", "gl": "here"},
+      {"zh": "买", "py": "mǎi", "gl": "buy"},
+      {"zh": "的", "py": "de", "gl": "what (nominalizer)"},
+      {"zh": "不是", "py": "búshì", "gl": "is not"},
+      {"zh": "高", "py": "gāo", "gl": "high"},
+      {"zh": "品质", "py": "pǐnzhì", "gl": "quality"},
+      {"zh": "，"},
+      {"zh": "而是", "py": "érshì", "gl": "but rather"},
+      {"zh": "数量", "py": "shùliàng", "gl": "quantity"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "便利", "py": "biànlì", "gl": "convenience"},
+      {"zh": "。"},
+      {"zh": "”"}
+     ],
+     "start": 594.36,
+     "end": 602.55
+    }
+   ]
+  },
+  {
+   "id": "p45",
+   "type": "heading",
+   "sentences": [
+    {
+     "id": "s080",
+     "zh": "今日总结",
+     "en": "Today's Summary",
+     "segments": [
+      {"zh": "今日", "py": "jīnrì", "gl": "today"},
+      {"zh": "总结", "py": "zǒngjié", "gl": "summary"}
+     ],
+     "start": 603.0,
+     "end": 604.51
+    }
+   ]
+  },
+  {
+   "id": "p46",
+   "type": "para",
+   "sentences": [
+    {
+     "id": "s081",
+     "zh": "AI工具和闪亮的新Mac让学习和创作比以往轻松，但功夫还得自己下。",
+     "en": "AI tools and shiny new Macs make learning and creating easier than ever, but you still have to put in the effort yourself.",
+     "segments": [
+      {"zh": "AI"},
+      {"zh": "工具", "py": "gōngjù", "gl": "tools"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "闪亮", "py": "shǎnliàng", "gl": "shiny"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "新", "py": "xīn", "gl": "new"},
+      {"zh": "Mac"},
+      {"zh": "让", "py": "ràng", "gl": "make"},
+      {"zh": "学习", "py": "xuéxí", "gl": "learning"},
+      {"zh": "和", "py": "hé", "gl": "and"},
+      {"zh": "创作", "py": "chuàngzuò", "gl": "creating"},
+      {"zh": "比", "py": "bǐ", "gl": "than"},
+      {"zh": "以往", "py": "yǐwǎng", "gl": "before; the past"},
+      {"zh": "轻松", "py": "qīngsōng", "gl": "easy"},
+      {"zh": "，"},
+      {"zh": "但", "py": "dàn", "gl": "but"},
+      {"zh": "功夫", "py": "gōngfu", "gl": "effort"},
+      {"zh": "还", "py": "hái", "gl": "still"},
+      {"zh": "得", "py": "děi", "gl": "must; have to"},
+      {"zh": "自己", "py": "zìjǐ", "gl": "oneself"},
+      {"zh": "下", "py": "xià", "gl": "put in (effort)"},
+      {"zh": "。"}
+     ],
+     "start": 604.86,
+     "end": 613.78
+    },
+    {
+     "id": "s082",
+     "zh": "有时候，这功夫就是蜷在沙发里，读一个毛骨悚然的好故事。",
+     "en": "Sometimes, that effort means curling up on the couch and reading a good, spine-chilling story.",
+     "segments": [
+      {"zh": "有时候", "py": "yǒushíhou", "gl": "sometimes"},
+      {"zh": "，"},
+      {"zh": "这", "py": "zhè", "gl": "this"},
+      {"zh": "功夫", "py": "gōngfu", "gl": "effort"},
+      {"zh": "就是", "py": "jiùshì", "gl": "is precisely"},
+      {"zh": "蜷", "py": "quán", "gl": "curl up"},
+      {"zh": "在", "py": "zài", "gl": "at; in"},
+      {"zh": "沙发", "py": "shāfā", "gl": "sofa"},
+      {"zh": "里", "py": "lǐ", "gl": "in"},
+      {"zh": "，"},
+      {"zh": "读", "py": "dú", "gl": "read"},
+      {"zh": "一个", "py": "yí ge", "gl": "a; one"},
+      {"zh": "毛骨悚然", "py": "máogǔsǒngrán", "gl": "spine-chilling"},
+      {"zh": "的", "py": "de", "gl": "(attributive particle)"},
+      {"zh": "好", "py": "hǎo", "gl": "good"},
+      {"zh": "故事", "py": "gùshi", "gl": "story"},
+      {"zh": "。"}
+     ],
+     "start": 613.78,
+     "end": 621.73
+    }
+   ]
+  }
+ ],
+ "vocab": [
+  {"zh": "风平浪静", "py": "fēng píng làng jìng", "en": "calm and quiet, no turbulence"},
+  {"zh": "账面盈利", "py": "zhàng miàn yíng lì", "en": "paper profit"},
+  {"zh": "超卖", "py": "chāo mài", "en": "oversold (in trading)"},
+  {"zh": "尽职调查", "py": "jìn zhí diào chá", "en": "due diligence"},
+  {"zh": "乱成一锅粥", "py": "luàn chéng yì guō zhōu", "en": "a complete mess, chaos"},
+  {"zh": "入乡随俗", "py": "rù xiāng suí sú", "en": "when in Rome, do as the Romans do"},
+  {"zh": "游戏规则的改变者", "py": "yóu xì guī zé de gǎi biàn zhě", "en": "game changer"},
+  {"zh": "仪表盘", "py": "yí biǎo pán", "en": "dashboard"},
+  {"zh": "闪卡", "py": "shǎn kǎ", "en": "flashcard"},
+  {"zh": "毛骨悚然", "py": "máo gǔ sǒng rán", "en": "spine-chilling, creepy"}
+ ]
+}
