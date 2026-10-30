@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-29T17:59",
+ "updated": "2026-10-30T22:22",
  "episodes": [
+  {
+   "id": "ssab-2026-10-30",
+   "date": "2026-10-30",
+   "title": "Halloween and Farewell to No Agenda",
+   "titleZh": "万圣节，告别《No Agenda》",
+   "description": "Steven talks about Halloween weekend in Beijing, his half-joking theory that Halloween kicks off China's manufacturing rush, and how AI now handles much of his video editing in Final Cut Pro. The main story is the five-hour finale of the No Agenda podcast after 19 years, plus his deadlift numbers, plans to restart his English-teaching podcast, and Gogol's \"St. John's Eve\" for night two of his Halloween special.",
+   "duration": 580,
+   "chars": 1482,
+   "hasAudio": true
+  },
   {
    "id": "ssab-2026-10-29",
    "date": "2026-10-29",
