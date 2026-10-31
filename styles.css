@@ -191,6 +191,15 @@ body.pinyin .sec { line-height: 2.4; }
   font-weight: 600; cursor: pointer;
 }
 .card-play[hidden] { display: none; }
+.card-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 10px; }
+@media (max-width: 420px) { .card-actions .card-play { padding: 0 12px; } }
+.card-actions .card-play { margin-top: 0; }
+.card-save svg { fill: none; }
+.card-save[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-ink); }
+.card-save[aria-pressed="true"] svg { fill: currentColor; }
+.card-words { margin-left: auto; color: var(--accent); font-weight: 600; font-size: 15px; padding: 8px 4px; white-space: nowrap; }
+.card-words[hidden] { display: none; }
+.w.is-saved { text-decoration: underline dotted var(--accent); text-decoration-thickness: 2px; text-underline-offset: .28em; }
 
 /* ---------- Back link + library ---------- */
 .back {
@@ -286,3 +295,19 @@ body.pinyin .sec { line-height: 2.4; }
   .ep-title { font-size: 20px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+
+/* ---------- My words ---------- */
+.words-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 12px 0 4px; }
+.words-actions .card-play { margin-top: 0; }
+.words-actions .card-play:disabled { opacity: .45; cursor: default; }
+.words { list-style: none; margin: 0 0 48px; padding: 0; }
+.word-item { padding: 14px 0; }
+.word-item + .word-item { border-top: 1px solid var(--line); }
+.word-head { display: flex; align-items: baseline; gap: 12px; }
+.word-zh { font-family: var(--font-zh); font-size: 26px; font-weight: 600; line-height: 1.3; }
+.word-py { font-size: 17px; color: var(--accent); }
+.word-remove { margin-left: auto; align-self: flex-start; border-radius: 50%; background: transparent; }
+.word-sent { margin: 0 0 4px; font-family: var(--font-zh); font-size: 17px; }
+.word-ep { display: inline-block; margin-top: 6px; font-size: 14px; color: var(--muted); }
+.lib-links { margin-left: auto; }
+.lib-links a { color: var(--accent); font-weight: 600; text-decoration: none; display: inline-flex; min-height: 44px; align-items: center; padding: 0 4px; }

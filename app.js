@@ -33,6 +33,9 @@
     cardGl: $("card-gl"),
     cardSent: $("card-sent"),
     cardPlay: $("card-play"),
+    cardSave: $("card-save"),
+    cardSaveLabel: $("card-save-label"),
+    cardWords: $("card-words"),
     cardClose: $("card-close"),
   };
 
@@ -113,11 +116,38 @@
   }
 
   /* ---------------- Word card ---------------- */
-  let cardEntry = null, cardWord = null;
+  let cardEntry = null, cardWord = null, cardSeg = null, currentEp = null;
+  const Saved = window.SSABSaved;
+
+  // a word can be saved when it has a meaning (punctuation and names without a gloss are skipped)
+  const savable = (seg) => !!(Saved && seg && seg.gl && /\p{Script=Han}/u.test(seg.zh));
+  function syncSaveButton() {
+    const can = savable(cardSeg);
+    el.cardSave.hidden = !can;
+    if (!can) return;
+    const on = Saved.has(cardSeg.zh);
+    el.cardSave.setAttribute("aria-pressed", String(on));
+    el.cardSaveLabel.textContent = on ? "Saved" : "Save word";
+    const n = Saved.list().length;
+    el.cardWords.hidden = n === 0;
+    el.cardWords.setAttribute("aria-label", `My words: ${n} saved`);
+  }
+  // a dotted underline on every saved word in the text
+  function markSaved() {
+    if (!Saved) return;
+    const set = new Set(Saved.list().map((w) => w.zh));
+    for (const { data, node } of sentences) {
+      node.querySelectorAll(".w").forEach((w) => {
+        const seg = (data.segments || [])[Number(w.dataset.k)];
+        w.classList.toggle("is-saved", !!seg && set.has(seg.zh));
+      });
+    }
+  }
 
   function openCard(entry, seg, wordNode) {
     closeCard(false);
     cardEntry = entry;
+    cardSeg = seg;
     entry.node.classList.add("is-selected");
     if (wordNode) { cardWord = wordNode; wordNode.classList.add("is-selected"); }
     el.cardZh.textContent = seg ? seg.zh : entry.data.zh;
@@ -127,6 +157,7 @@
     el.cardGl.hidden = !(seg && seg.gl);
     el.cardSent.textContent = entry.data.en || "";
     el.cardPlay.hidden = !entry.timed;
+    syncSaveButton();
     el.card.hidden = false;
     syncCardSpace();
     keepInView(entry.node);
@@ -137,7 +168,7 @@
       if (restoreFocus) cardEntry.node.focus({ preventScroll: true });
     }
     if (cardWord) cardWord.classList.remove("is-selected");
-    cardEntry = cardWord = null;
+    cardEntry = cardWord = cardSeg = null;
     el.card.hidden = true;
     syncCardSpace();
   }
@@ -147,6 +178,17 @@
   }
   el.cardClose.addEventListener("click", () => closeCard(true));
   el.cardPlay.addEventListener("click", () => { if (cardEntry) playSentence(cardEntry); });
+  el.cardSave.addEventListener("click", () => {
+    if (!savable(cardSeg)) return;
+    const zh = cardSeg.zh;
+    let ok;
+    if (Saved.has(zh)) ok = Saved.remove(zh);
+    else ok = Saved.add({ zh, py: cardSeg.py || "", gl: cardSeg.gl, sent: cardEntry.data.zh || "", sentEn: cardEntry.data.en || "",
+      ep: currentEp ? currentEp.id : "", epDate: currentEp ? currentEp.date : "", epTitle: currentEp ? (currentEp.titleZh || currentEp.title) : "" });
+    if (!ok) { say("Couldn't save: this browser is blocking storage."); return; }
+    syncSaveButton(); markSaved(); syncCardSpace();
+    say(Saved.has(zh) ? `Saved ${zh}` : `Removed ${zh}`);
+  });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !el.card.hidden) closeCard(true); });
   // Clicking anywhere outside the text, the card and the player closes the card.
   document.addEventListener("click", (e) => {
@@ -402,7 +444,9 @@
       // ?audio=off previews the no-audio state without editing the content file.
       const forceOff = params.get("audio") === "off";
       const hasTimedAudio = !forceOff && !!(ep.audio && ep.audio.src);
+      currentEp = ep;
       renderEpisode(ep, hasTimedAudio);
+      markSaved();
       renderNav(list, ep.id);
       setupAudio(ep, forceOff);
       syncCardSpace();

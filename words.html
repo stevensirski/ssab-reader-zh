@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7f5f0" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#151514" media="(prefers-color-scheme: dark)">
+  <title>My words · SSAB Reader</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to words</a>
+
+  <header class="bar">
+    <div class="bar-inner">
+      <a class="back" href="./" aria-label="All episodes">
+        <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><path d="m15 5-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <span class="back-label">Episodes</span>
+      </a>
+    </div>
+  </header>
+
+  <main id="main">
+    <div class="library">
+      <header class="lib-head">
+        <h1>My words</h1>
+        <p class="ep-desc">Words you saved with ★ on the word card, newest first. They're kept in this browser only, so words saved on your phone stay on your phone.</p>
+        <div class="words-actions">
+          <button type="button" class="card-play" id="download" disabled>Download spreadsheet (CSV)</button>
+          <span class="muted" id="count"></span>
+        </div>
+        <p class="hint">The file opens in Google Sheets (File › Import) or Excel, and works with flashcard apps that import CSV files.</p>
+      </header>
+      <ol class="words" id="words" aria-live="polite"></ol>
+    </div>
+  </main>
+
+  <script src="saved.js"></script>
+  <script src="words.js"></script>
+</body>
+</html>
