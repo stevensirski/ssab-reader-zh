@@ -148,6 +148,11 @@
   el.cardClose.addEventListener("click", () => closeCard(true));
   el.cardPlay.addEventListener("click", () => { if (cardEntry) playSentence(cardEntry); });
   document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !el.card.hidden) closeCard(true); });
+  // Clicking anywhere outside the text, the card and the player closes the card.
+  document.addEventListener("click", (e) => {
+    if (el.card.hidden || e.target.closest(".sent") || el.card.contains(e.target) || el.player.contains(e.target)) return;
+    closeCard(false);
+  });
   window.addEventListener("resize", syncCardSpace);
 
   const fmtDate = (iso) => {
@@ -211,6 +216,8 @@
         node.addEventListener("click", (e) => {
           const w = e.target.closest(".w");
           const seg = w ? (s.segments || [])[Number(w.dataset.k)] : null;
+          // Tapping the word (or sentence) that is already open closes the card.
+          if (cardEntry === entry && cardWord === w) { closeCard(false); return; }
           openCard(entry, seg, w);
         });
         node.addEventListener("keydown", (e) => {
